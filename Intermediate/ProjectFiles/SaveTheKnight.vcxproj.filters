@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SaveTheKnight.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6ED4D667-82BE-4339-BF63-107AE6AF50CF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SaveTheKnight.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SaveTheKnightEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{31171711-C152-4518-8165-D67C0BB6A818}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SaveTheKnight">
+      <UniqueIdentifier>{3EEC8975-80EA-4136-BCB7-8AB8B17159DE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SaveTheKnight\SaveTheKnight.Build.cs">
+      <Filter>Source\SaveTheKnight</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SaveTheKnight\SaveTheKnight.cpp">
+      <Filter>Source\SaveTheKnight</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SaveTheKnight\SaveTheKnight.h">
+      <Filter>Source\SaveTheKnight</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

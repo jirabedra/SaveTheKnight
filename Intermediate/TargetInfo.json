@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SaveTheKnight",
+			"Path": "D:\\Documentos\\Unreal Projects\\SaveTheKnight\\Source\\SaveTheKnight.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SaveTheKnightEditor",
+			"Path": "D:\\Documentos\\Unreal Projects\\SaveTheKnight\\Source\\SaveTheKnightEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

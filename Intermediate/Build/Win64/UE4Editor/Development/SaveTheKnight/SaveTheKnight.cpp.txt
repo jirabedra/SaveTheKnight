@@ -1,0 +1,2 @@
+D:\Documentos\Unreal Projects\SaveTheKnight\Intermediate\Build\Win64\UE4Editor\Development\SaveTheKnight\Definitions.SaveTheKnight.h
+D:\Documentos\Unreal Projects\SaveTheKnight\Source\SaveTheKnight\SaveTheKnight.h
