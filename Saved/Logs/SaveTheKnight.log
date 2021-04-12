@@ -1119,3 +1119,72 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.12-07.05.43:808][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.04.12-07.05.43:834][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
 [2021.04.12-07.05.43:890][190]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.04.12-07.06.10:230][424]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2021.04.12-07.06.10:231][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0-tutorial" FILE="../../../../../../Users/rafap/SaveTheKnight/Saved/Autosaves/Game/0-tutorial_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.04.12-07.06.10:453][424]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/0-tutorial_Auto2946631D149EFC2298C863E9635643B89.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Saved/Autosaves/Game/0-tutorial_Auto2.umap'
+[2021.04.12-07.06.10:456][424]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/0-tutorial' took 0.258
+[2021.04.12-07.06.10:456][424]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.258
+[2021.04.12-07.06.36:396][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2021.04.12-07.07.28:843][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/SimpleAI/EnemyBT" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/EnemyBT.uasset" SILENT=true
+[2021.04.12-07.07.28:847][750]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/EnemyBTCF4E54DD450032E9E502D9AF76254CF1.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/EnemyBT.uasset'
+[2021.04.12-07.07.28:863][750]AssetCheck: New page: Asset Save: EnemyBT
+[2021.04.12-07.07.28:863][750]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/Enemies/SimpleAI/EnemyBT.EnemyBT
+[2021.04.12-07.07.29:901][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0-tutorial" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/0-tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.12-07.07.29:928][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.04.12-07.07.30:126][856]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/0-tutorial1C5DA1C3420E74FBE6A615AC8B3CBFD0.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/0-tutorial.umap'
+[2021.04.12-07.07.30:142][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0-tutorial_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/0-tutorial_BuiltData.uasset" SILENT=true
+[2021.04.12-07.07.30:262][856]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/0-tutorial_BuiltData09C7D1C84E6B2C897953E28FFD6AAC9A.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/0-tutorial_BuiltData.uasset'
+[2021.04.12-07.07.30:280][856]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.12-07.07.30:280][856]LogContentValidation: Display: Validating World /Game/0-tutorial.0-tutorial
+[2021.04.12-07.07.30:280][856]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/0-tutorial_BuiltData.0-tutorial_BuiltData
+[2021.04.12-07.07.35:069][344]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-07.07.35:083][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-07.07.35:083][344]PIE: New page: Sesión PIE (reproducción en el editor): 0-tutorial (12 abr. 2021 01:07:35)
+[2021.04.12-07.07.35:083][344]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_0-tutorial
+[2021.04.12-07.07.35:120][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036741s)
+[2021.04.12-07.07.35:121][344]LogAIModule: Creating AISystem for world 0-tutorial
+[2021.04.12-07.07.35:121][344]LogPlayLevel: PIE: World Init took: (0.001379s)
+[2021.04.12-07.07.35:122][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0-tutorial.0-tutorial to /Game/UEDPIE_0_0-tutorial.0-tutorial (0.038325s)
+[2021.04.12-07.07.35:150][344]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.04.12-07.07.35:151][344]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.04.12-07.07.35:151][344]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-07.07.35:151][344]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-07.07.35:151][344]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-07.07.35:151][344]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-07.07.35:151][344]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-07.07.35:151][344]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-07.07.35:151][344]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-07.07.35:151][344]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-07.07.35:151][344]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-07.07.35:151][344]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-07.07.35:159][344]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-07.07.35:159][344]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-07.07.35:178][344]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.04.12-07.07.35:178][344]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-07.07.35:178][344]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-07.07.35:179][344]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-07.07.35:179][344]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-07.07.35:179][344]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.12-07.07.35:179][344]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.12-07.07.35:196][344]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.12-07.07.35:197][344]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.12-07.07.35:197][344]LogInit: FAudioDevice initialized.
+[2021.04.12-07.07.35:197][344]LogAudio: Display: Audio Device (ID: 5) registered with world '0-tutorial'.
+[2021.04.12-07.07.35:206][344]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.12-07.07.35:219][344]LogWorld: Bringing World /Game/UEDPIE_0_0-tutorial.0-tutorial up for play (max tick rate 0) at 2021.04.12-04.07.35
+[2021.04.12-07.07.35:220][344]LogWorld: Bringing up level for play took: 0.013067
+[2021.04.12-07.07.35:220][344]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.04.12-07.07.35:227][344]PIE: El servidor ha iniciado la sesión
+[2021.04.12-07.07.35:229][344]PIE: Play in editor total start time 0,152 seconds.
+[2021.04.12-07.07.35:243][344]LogAudio: Warning: Detected orphaned looping sound 'Spring_Village_Cue'.
+[2021.04.12-07.07.45:591][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-07.07.45:591][577]LogWorld: BeginTearingDown for /Game/UEDPIE_0_0-tutorial
+[2021.04.12-07.07.45:591][577]LogWorld: UWorld::CleanupWorld for 0-tutorial, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-07.07.45:593][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-07.07.45:604][577]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-07.07.45:626][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-07.07.45:652][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-07.07.45:652][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.12-07.07.45:653][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.12-07.07.45:681][577]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2021.04.12-07.07.45:729][578]LogPlayLevel: Display: Destroying online subsystem :Context_15
