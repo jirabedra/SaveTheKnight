@@ -1430,3 +1430,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.12-07.51.59:814][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.04.12-07.51.59:819][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
 [2021.04.12-07.51.59:870][602]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.04.12-07.53.57:787][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/SimpleAI/EnemyBT" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/EnemyBT.uasset" SILENT=true
+[2021.04.12-07.53.57:792][804]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/EnemyBT4F5DF0694BECA02B4E3F2E9DD2656A78.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/EnemyBT.uasset'
+[2021.04.12-07.53.57:812][804]AssetCheck: New page: Asset Save: EnemyBT
+[2021.04.12-07.53.57:813][804]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/Enemies/SimpleAI/EnemyBT.EnemyBT
+[2021.04.12-07.53.58:594][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0-tutorial" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/0-tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.12-07.53.58:617][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.04.12-07.53.58:822][859]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/0-tutorial000A37054AB6E88AE297BC98766FA17F.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/0-tutorial.umap'
+[2021.04.12-07.53.58:837][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0-tutorial_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/0-tutorial_BuiltData.uasset" SILENT=true
+[2021.04.12-07.53.58:927][859]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/0-tutorial_BuiltData7743450449C6879215645B8C33659FF5.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/0-tutorial_BuiltData.uasset'
+[2021.04.12-07.53.58:940][859]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.12-07.53.58:940][859]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/0-tutorial_BuiltData.0-tutorial_BuiltData
+[2021.04.12-07.53.58:941][859]LogContentValidation: Display: Validating World /Game/0-tutorial.0-tutorial
