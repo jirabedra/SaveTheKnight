@@ -800,3 +800,1804 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.21-14.45.49:639][608]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/VanishingPlatform5E55145E437CD1C9B8EB5880A7A5CB5C.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/VanishingPlatform.uasset'
 [2021.04.21-14.45.49:682][608]AssetCheck: New page: Asset Save: VanishingPlatform
 [2021.04.21-14.45.49:682][608]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/VanishingPlatform.VanishingPlatform
+[2021.04.21-14.46.18:087][941]LogSlate: Window 'VanishingPlatform' being destroyed
+[2021.04.21-14.46.18:096][941]LogSlate: Window 'VanishingPlatform' being destroyed
+[2021.04.21-14.46.18:135][941]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.04.21-14.46.18:135][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.21-14.46.42:546][761]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.04.21-14.46.43:023][761]LogStaticMesh: Generando la malla estática pinchos...
+[2021.04.21-14.46.43:113][761]LogStaticMesh: Built static mesh [0.10s] /Game/STKAssets/pinchos.pinchos
+[2021.04.21-14.46.43:218][761]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2-SecondFloor.2-SecondFloor
+[2021.04.21-14.46.43:218][761]Cmd: MAP LOAD FILE="../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.21-14.46.43:218][761]LightingResults: New page: Diseñar la iluminación
+[2021.04.21-14.46.43:218][761]LoadErrors: New page: Cargando mapa: 2-SecondFloor.umap
+[2021.04.21-14.46.43:243][761]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.21-14.46.43:243][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.21-14.46.43:243][761]MapCheck: New page: Revisión del mapa
+[2021.04.21-14.46.43:243][761]LightingResults: New page: Diseñar la iluminación
+[2021.04.21-14.46.43:269][761]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.21-14.46.43:298][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.04.21-14.46.43:300][761]LogAudio: Display: Audio Device (ID: 1) registered with world '2-SecondFloor'.
+[2021.04.21-14.46.43:381][761]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.21-14.46.43:382][761]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.04.21-14.46.43:418][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.04.21-14.46.43:430][761]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.21-14.46.43:431][761]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,218ms to complete.
+[2021.04.21-14.46.43:431][761]LogFileHelpers: Loading map '2-SecondFloor' took 0.213
+[2021.04.21-14.46.44:964][932]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.21-14.46.45:041][932]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.21-14.46.45:087][932]LogPlayLevel: [PlayLevel] Compiling VanishingPlatform before play...
+[2021.04.21-14.46.45:163][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.04.21-14.46.45:163][932]LogPlayLevel: PlayLevel: Blueprint regeneration took 122 ms (1 blueprints)
+[2021.04.21-14.46.45:199][932]PIE: New page: Sesión PIE (reproducción en el editor): 2-SecondFloor (21 abr. 2021 08:46:45)
+[2021.04.21-14.46.45:239][932]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.21-14.46.45:256][932]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.21-14.46.45:290][932]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_2-SecondFloor
+[2021.04.21-14.46.45:412][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121621s)
+[2021.04.21-14.46.45:413][932]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.04.21-14.46.45:427][932]LogPlayLevel: PIE: World Init took: (0.015019s)
+[2021.04.21-14.46.45:435][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2-SecondFloor.2-SecondFloor to /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor (0.145345s)
+[2021.04.21-14.46.45:454][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.04.21-14.46.45:455][932]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.04.21-14.46.45:455][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.21-14.46.45:455][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.21-14.46.45:455][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.21-14.46.45:455][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.21-14.46.45:455][932]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.21-14.46.45:455][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.21-14.46.45:455][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.21-14.46.45:455][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.21-14.46.45:455][932]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.21-14.46.45:455][932]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.21-14.46.45:465][932]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.21-14.46.45:465][932]LogAudioMixer: Display: 1: FrontRight
+[2021.04.21-14.46.45:483][932]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.04.21-14.46.45:484][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.21-14.46.45:484][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.21-14.46.45:484][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.21-14.46.45:484][932]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.21-14.46.45:484][932]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.21-14.46.45:484][932]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.21-14.46.45:505][932]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.21-14.46.45:505][932]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.21-14.46.45:505][932]LogInit: FAudioDevice initialized.
+[2021.04.21-14.46.45:505][932]LogAudio: Display: Audio Device (ID: 2) registered with world '2-SecondFloor'.
+[2021.04.21-14.46.45:608][932]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.21-14.46.45:748][932]LogWorld: Bringing World /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor up for play (max tick rate 0) at 2021.04.21-11.46.45
+[2021.04.21-14.46.45:755][932]LogWorld: Bringing up level for play took: 0.032044
+[2021.04.21-14.46.45:756][932]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.04.21-14.46.45:905][932]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.04.21-14.46.45:966][932]PIE: El servidor ha iniciado la sesión
+[2021.04.21-14.46.45:967][932]PIE: Play in editor total start time 0,994 seconds.
+[2021.04.21-14.46.46:315][932]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:682][933]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:704][934]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:732][935]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:747][936]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:758][937]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:769][938]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:782][939]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:798][940]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:814][941]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:836][942]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:846][943]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:865][944]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:880][945]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:896][946]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:914][947]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:929][948]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:947][949]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:961][950]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.46:981][951]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:002][952]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:014][953]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:023][954]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:034][955]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:043][956]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:052][957]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:061][958]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:070][959]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:079][960]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:088][961]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:099][962]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:107][963]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:123][964]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:134][965]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:143][966]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:152][967]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:161][968]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:169][969]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:179][970]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:188][971]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:197][972]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:206][973]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:215][974]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:225][975]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:234][976]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:242][977]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:251][978]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:260][979]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:268][980]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:277][981]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:286][982]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:294][983]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:304][984]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:313][985]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:321][986]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:330][987]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:339][988]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:349][989]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:357][990]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:366][991]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:375][992]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:383][993]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:392][994]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:400][995]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:409][996]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:418][997]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:427][998]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:436][999]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:446][  0]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:455][  1]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:465][  2]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:475][  3]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:483][  4]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:491][  5]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:501][  6]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:511][  7]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:520][  8]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:530][  9]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:538][ 10]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:548][ 11]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:556][ 12]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:565][ 13]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:575][ 14]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:585][ 15]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:594][ 16]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:602][ 17]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:611][ 18]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:619][ 19]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:628][ 20]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:637][ 21]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:645][ 22]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:654][ 23]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:663][ 24]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:672][ 25]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:681][ 26]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:690][ 27]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:700][ 28]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:708][ 29]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:716][ 30]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:725][ 31]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:734][ 32]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:742][ 33]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:751][ 34]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:759][ 35]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:767][ 36]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:776][ 37]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:785][ 38]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:794][ 39]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:802][ 40]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:811][ 41]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:819][ 42]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:828][ 43]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:836][ 44]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:845][ 45]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:854][ 46]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:863][ 47]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:870][ 48]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:880][ 49]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:888][ 50]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:897][ 51]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:905][ 52]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:913][ 53]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:923][ 54]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:933][ 55]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:942][ 56]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:950][ 57]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:959][ 58]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:968][ 59]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:978][ 60]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:986][ 61]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.47:996][ 62]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:006][ 63]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:015][ 64]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:024][ 65]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:033][ 66]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:042][ 67]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:052][ 68]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:061][ 69]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:069][ 70]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:079][ 71]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:089][ 72]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:099][ 73]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:109][ 74]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:119][ 75]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:128][ 76]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:137][ 77]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:145][ 78]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:154][ 79]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:164][ 80]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:173][ 81]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:182][ 82]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:191][ 83]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:199][ 84]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:209][ 85]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:218][ 86]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:227][ 87]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:236][ 88]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:245][ 89]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:255][ 90]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:264][ 91]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:273][ 92]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:282][ 93]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:292][ 94]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:301][ 95]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:310][ 96]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:319][ 97]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:328][ 98]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:337][ 99]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:346][100]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:355][101]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:365][102]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:375][103]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:386][104]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:395][105]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:404][106]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:414][107]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:424][108]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:433][109]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:443][110]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:452][111]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:463][112]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:474][113]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:484][114]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:493][115]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:503][116]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:513][117]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:522][118]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:532][119]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:543][120]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:553][121]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:563][122]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:574][123]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:585][124]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:596][125]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:605][126]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:614][127]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:624][128]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:634][129]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:643][130]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:653][131]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:665][132]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:675][133]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:684][134]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:694][135]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:705][136]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:717][137]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:729][138]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:740][139]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:751][140]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:760][141]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:770][142]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:780][143]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:790][144]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:800][145]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:810][146]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:820][147]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.48:875][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.21-14.46.48:875][148]LogWorld: BeginTearingDown for /Game/UEDPIE_0_2-SecondFloor
+[2021.04.21-14.46.48:898][148]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=true
+[2021.04.21-14.46.48:898][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.21-14.46.48:927][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.21-14.46.48:933][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.21-14.46.48:950][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.21-14.46.48:957][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.21-14.46.48:959][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.21-14.46.49:039][148]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.04.21-14.46.49:067][149]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.04.21-14.46.50:608][329]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.21-14.46.50:975][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.21-14.46.50:975][329]PIE: New page: Sesión PIE (reproducción en el editor): 2-SecondFloor (21 abr. 2021 08:46:50)
+[2021.04.21-14.46.50:975][329]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_2-SecondFloor
+[2021.04.21-14.46.50:980][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005026s)
+[2021.04.21-14.46.50:982][329]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.04.21-14.46.50:982][329]LogPlayLevel: PIE: World Init took: (0.001340s)
+[2021.04.21-14.46.50:982][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2-SecondFloor.2-SecondFloor to /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor (0.006538s)
+[2021.04.21-14.46.51:034][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.04.21-14.46.51:035][329]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.04.21-14.46.51:035][329]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.21-14.46.51:035][329]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.21-14.46.51:035][329]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.21-14.46.51:035][329]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.21-14.46.51:035][329]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.21-14.46.51:035][329]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.21-14.46.51:035][329]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.21-14.46.51:035][329]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.21-14.46.51:035][329]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.21-14.46.51:035][329]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.21-14.46.51:044][329]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.21-14.46.51:044][329]LogAudioMixer: Display: 1: FrontRight
+[2021.04.21-14.46.51:061][329]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.04.21-14.46.51:061][329]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.21-14.46.51:061][329]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.21-14.46.51:061][329]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.21-14.46.51:062][329]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.21-14.46.51:062][329]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.21-14.46.51:062][329]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.21-14.46.51:082][329]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.21-14.46.51:082][329]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.21-14.46.51:082][329]LogInit: FAudioDevice initialized.
+[2021.04.21-14.46.51:082][329]LogAudio: Display: Audio Device (ID: 3) registered with world '2-SecondFloor'.
+[2021.04.21-14.46.51:094][329]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.21-14.46.51:096][329]LogWorld: Bringing World /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor up for play (max tick rate 0) at 2021.04.21-11.46.51
+[2021.04.21-14.46.51:096][329]LogWorld: Bringing up level for play took: 0.001742
+[2021.04.21-14.46.51:096][329]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.04.21-14.46.51:130][329]PIE: El servidor ha iniciado la sesión
+[2021.04.21-14.46.51:131][329]PIE: Play in editor total start time 0,159 seconds.
+[2021.04.21-14.46.51:138][329]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:166][330]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:177][331]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:189][332]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:202][333]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:214][334]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:226][335]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:237][336]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:248][337]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:260][338]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:274][339]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:286][340]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:297][341]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:308][342]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:317][343]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:327][344]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:336][345]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:345][346]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:353][347]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:362][348]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:370][349]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:381][350]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:390][351]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:400][352]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:412][353]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:423][354]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:433][355]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:442][356]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:451][357]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:461][358]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:470][359]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:479][360]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:488][361]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:497][362]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:507][363]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:516][364]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:525][365]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:534][366]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:543][367]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:552][368]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:562][369]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:570][370]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:579][371]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:588][372]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:596][373]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:605][374]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:615][375]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:625][376]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:635][377]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:644][378]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:653][379]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:662][380]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:670][381]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:679][382]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:688][383]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:697][384]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:706][385]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:715][386]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:724][387]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:733][388]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:742][389]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:750][390]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:759][391]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:769][392]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:778][393]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:786][394]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:795][395]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:803][396]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:813][397]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:822][398]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:831][399]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:840][400]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:849][401]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:858][402]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:866][403]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:875][404]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:884][405]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:893][406]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:901][407]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:910][408]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:919][409]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:928][410]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:938][411]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:946][412]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:955][413]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:964][414]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:972][415]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:981][416]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:990][417]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.51:999][418]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:008][419]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:016][420]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:026][421]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:036][422]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:044][423]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:053][424]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:062][425]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:072][426]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:082][427]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:090][428]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:100][429]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:108][430]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:117][431]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:127][432]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:136][433]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:145][434]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:155][435]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:164][436]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:172][437]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:182][438]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:190][439]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:198][440]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:207][441]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:215][442]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:224][443]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:232][444]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:240][445]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:249][446]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:257][447]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:265][448]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:275][449]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:285][450]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:293][451]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:301][452]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:310][453]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:320][454]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:328][455]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:337][456]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:347][457]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:356][458]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:365][459]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:374][460]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:383][461]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:392][462]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:401][463]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:409][464]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:418][465]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:426][466]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:435][467]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:445][468]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:454][469]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:462][470]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:471][471]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:479][472]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:488][473]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:498][474]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:509][475]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:522][476]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:534][477]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:546][478]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:558][479]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:569][480]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:579][481]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:590][482]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:600][483]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:609][484]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:618][485]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:627][486]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:636][487]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:645][488]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:654][489]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:662][490]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:671][491]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:679][492]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:688][493]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:696][494]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:706][495]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:714][496]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:723][497]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:732][498]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:740][499]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:749][500]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:758][501]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:767][502]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:776][503]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:784][504]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:793][505]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:803][506]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:810][507]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:820][508]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:828][509]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:836][510]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:845][511]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:853][512]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:861][513]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:869][514]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:878][515]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:886][516]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:895][517]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:903][518]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:911][519]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:920][520]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:928][521]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:937][522]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:946][523]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:955][524]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:964][525]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:972][526]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:981][527]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:990][528]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.52:998][529]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:007][530]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:016][531]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:025][532]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:034][533]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:042][534]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:051][535]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:059][536]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:068][537]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:078][538]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:087][539]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:095][540]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:104][541]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:112][542]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:120][543]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:128][544]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:137][545]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:146][546]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:154][547]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:163][548]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:171][549]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:179][550]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:188][551]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:197][552]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:206][553]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:215][554]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:224][555]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:233][556]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:242][557]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:251][558]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:260][559]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:268][560]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:276][561]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:285][562]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:294][563]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:302][564]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:310][565]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:319][566]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:329][567]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:339][568]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:349][569]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:358][570]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:367][571]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:377][572]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:385][573]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:394][574]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:404][575]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:413][576]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:422][577]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:431][578]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:440][579]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:449][580]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:459][581]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:468][582]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:478][583]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:488][584]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:499][585]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:508][586]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:517][587]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:526][588]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:536][589]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:545][590]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:554][591]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:563][592]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:572][593]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:581][594]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:589][595]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:597][596]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:606][597]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:615][598]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:622][599]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:632][600]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:640][601]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:649][602]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:658][603]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:667][604]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:676][605]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:685][606]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:694][607]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:703][608]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:712][609]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:720][610]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:729][611]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:738][612]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:747][613]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:790][614]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:799][615]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:808][616]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:816][617]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:825][618]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:834][619]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:843][620]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:851][621]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:860][622]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:874][623]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:883][624]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:892][625]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:901][626]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:909][627]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:918][628]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:927][629]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:937][630]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:945][631]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:954][632]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:963][633]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:972][634]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:981][635]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:989][636]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.53:999][637]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:008][638]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:016][639]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:024][640]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:033][641]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:043][642]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:051][643]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:060][644]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:068][645]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:076][646]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:085][647]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:094][648]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:102][649]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:110][650]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:119][651]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:128][652]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:136][653]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:145][654]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:154][655]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:163][656]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:171][657]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:179][658]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:187][659]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:197][660]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:205][661]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:214][662]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:223][663]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:231][664]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:240][665]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:248][666]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:257][667]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:266][668]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:275][669]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:283][670]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:292][671]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:301][672]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:309][673]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:318][674]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:327][675]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:336][676]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:345][677]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:353][678]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:363][679]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:372][680]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:380][681]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:390][682]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:399][683]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:408][684]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:418][685]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:428][686]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:437][687]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:447][688]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:456][689]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:465][690]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:474][691]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:482][692]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:490][693]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:499][694]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:510][695]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:520][696]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:530][697]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:538][698]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:546][699]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:555][700]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:563][701]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:572][702]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:580][703]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:589][704]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:599][705]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:608][706]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:617][707]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:626][708]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:635][709]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:645][710]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:654][711]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:662][712]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:671][713]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:679][714]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:688][715]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:697][716]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:706][717]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:714][718]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:723][719]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:732][720]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:740][721]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:748][722]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:757][723]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:767][724]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:775][725]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:786][726]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:794][727]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:802][728]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:812][729]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:820][730]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:828][731]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:838][732]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:847][733]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:857][734]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.46.54:904][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.21-14.46.54:904][735]LogWorld: BeginTearingDown for /Game/UEDPIE_0_2-SecondFloor
+[2021.04.21-14.46.54:905][735]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=true
+[2021.04.21-14.46.54:905][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.21-14.46.54:914][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.21-14.46.54:918][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.21-14.46.54:931][735]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.21-14.46.54:932][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.21-14.46.54:933][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.21-14.46.54:951][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.21-14.46.54:954][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.04.21-14.46.54:981][736]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.04.21-14.46.56:113][859]MapCheck: New page: Revisión del mapa
+[2021.04.21-14.46.56:186][859]Cmd: MAP REBUILD ALLVISIBLE
+[2021.04.21-14.46.56:187][859]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.04.21-14.46.56:211][859]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=false
+[2021.04.21-14.46.56:253][859]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.04.21-14.46.56:253][859]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.04.21-14.46.56:253][859]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.04.21-14.46.56:317][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.04.21-14.46.56:430][859]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.21-14.46.56:489][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.04.21-14.46.56:489][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.04.21-14.46.56:489][859]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.21-14.46.56:492][859]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.04.21-14.46.56:593][859]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.21-14.46.56:597][859]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.21-14.46.56:599][859]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.21-14.46.56:601][859]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.21-14.47.04:556][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 58
+[2021.04.21-14.47.04:556][859]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 57
+[2021.04.21-14.47.04:556][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2021.04.21-14.47.04:556][859]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 55
+[2021.04.21-14.47.04:556][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 54
+[2021.04.21-14.47.04:556][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 53
+[2021.04.21-14.47.04:556][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 52
+[2021.04.21-14.47.04:556][859]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 51
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 49
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 48
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 47
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 46
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 35
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.04.21-14.47.04:557][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.04.21-14.47.04:558][859]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.04.21-14.47.04:558][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.04.21-14.47.04:558][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.04.21-14.47.04:558][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.04.21-14.47.04:558][859]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.04.21-14.47.04:558][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.04.21-14.47.04:558][859]TextureStreamingBuild: Display: Compiling optional shaders took 8.168 seconds.
+[2021.04.21-14.47.04:663][859]LogLevel: Display: Export Material TexCoord Scales took 0.104 seconds.
+[2021.04.21-14.47.04:673][859]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2021.04.21-14.47.04:688][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.21-14.47.04:711][859]LightingResults: New page: Diseño de la iluminación - 21 abr. 2021 08:47:04
+[2021.04.21-14.47.05:093][859]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.04.21-14.47.05:269][859]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.04.21-14.47.05:383][859]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.04.21-14.47.07:708][859]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.04.21-14.47.07:708][859]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4332
+[2021.04.21-14.47.14:258][859]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2021.04.21-14.47.14:262][859]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.04.21-14.47.14:262][859]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.04.21-14.47.14:262][859]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.04.21-14.47.14:262][859]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.04.21-14.47.14:262][859]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.04.21-14.47.14:856][859]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.04.21-14.47.14:856][859]MapCheck: New page: 2-SecondFloor - 21 abr. 2021 08:47:14
+[2021.04.21-14.47.14:889][859]MapCheck: Error: WorldSettings_1 Los mapas necesitan rediseñar la iluminación 
+[2021.04.21-14.47.14:895][859]MapCheck: Warning: Tower Tower está en la misma ubicación que Tower2 
+[2021.04.21-14.47.14:895][859]MapCheck: Warning: Tower2 Tower2 está en la misma ubicación que Tower 
+[2021.04.21-14.47.14:895][859]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 39,175ms to complete.
+[2021.04.21-14.47.14:907][859]LogEditorBuildUtils: Build time 0:18
+[2021.04.21-14.47.15:591][859]LogSlate: Took 0.020787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.21-14.47.15:696][861]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bush, compiling. 
+[2021.04.21-14.47.15:710][861]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bush, compiling. 
+[2021.04.21-14.47.15:714][861]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bush, compiling. 
+[2021.04.21-14.47.15:726][862]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.04.21-14.47.15:726][862]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.04.21-14.47.15:726][862]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.04.21-14.47.15:726][862]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.04.21-14.47.16:946][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.04.21-14.47.23:456][257]Job is a success!
+[2021.04.21-14.47.23:857][258]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.183s
+[2021.04.21-14.47.23:857][258]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2021.04.21-14.47.23:857][258]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2021.04.21-14.47.23:857][258]LogVolumetricLightmapImport:      Bricks at depth
+[2021.04.21-14.47.23:857][258]LogVolumetricLightmapImport:          0: 25.8% covering 100.0% of volume
+[2021.04.21-14.47.23:857][258]LogVolumetricLightmapImport:          1: 6.5% covering 0.4% of volume
+[2021.04.21-14.47.23:857][258]LogVolumetricLightmapImport:          2: 67.7% covering 0.1% of volume
+[2021.04.21-14.47.23:857][258]LogVolumetricLightmapImport:      Bricks in each level
+[2021.04.21-14.47.23:857][258]LogVolumetricLightmapImport:          2-SecondFloor 			 31 bricks 	 100.0% (Persistent Level)
+[2021.04.21-14.47.24:677][258]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2021.04.21-14.47.24:677][258]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2021.04.21-14.47.24:677][258]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2021.04.21-14.47.24:677][258]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2021.04.21-14.47.24:677][258]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2021.04.21-14.47.24:677][258]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2021.04.21-14.47.24:677][258]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 64X32)
+[2021.04.21-14.47.24:677][258]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 512X32)
+[2021.04.21-14.47.24:677][258]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X256)
+[2021.04.21-14.47.24:677][258]Lightmass on DESKTOP-80B3B30: 5.66 sec total, 214 ms importing, 27 ms setup, 3.15 sec photons, 2.08 sec processing, 0 ms extra exporting [19/19 mappings]. Threads: 14.6 sec total, 1.32 sec processing.
+[2021.04.21-14.47.24:695][258]LogStaticLightingSystem: 2-SecondFloor_BuiltData storing lightmap data for 16 meshes in 3 LightmapResourceClusters (5.3 Meshes per cluster).
+[2021.04.21-14.47.24:734][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.04.21-14.47.24:770][258]LogStaticLightingSystem: Illumination: 19.9 sec (61 ms encoding lightmaps, 32 ms encoding shadowmaps)
+[2021.04.21-14.47.24:770][258]LogStaticLightingSystem: Lightmap texture memory:  0.6 MB (0.1 MB streaming, 0.5 MB non-streaming), 6 textures
+[2021.04.21-14.47.24:770][258]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2021.04.21-14.47.25:243][258]DumpUnbuiltLightIteractions
+[2021.04.21-14.47.25:243][258]Lights with unbuilt interactions: 0
+[2021.04.21-14.47.25:243][258]
+[2021.04.21-14.47.25:243][258]Primitives with unbuilt interactions: 0
+[2021.04.21-14.47.25:503][258]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.04.21-14.47.25:562][259]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.04.21-14.47.25:562][259]MapCheck: New page: 2-SecondFloor - 21 abr. 2021 08:47:25
+[2021.04.21-14.47.25:567][259]MapCheck: Warning: Tower Tower está en la misma ubicación que Tower2 
+[2021.04.21-14.47.25:567][259]MapCheck: Warning: Tower2 Tower2 está en la misma ubicación que Tower 
+[2021.04.21-14.47.25:567][259]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 5,029ms to complete.
+[2021.04.21-14.47.31:769][791]Cmd: DELETE
+[2021.04.21-14.47.31:775][791]Cmd: ACTOR DELETE
+[2021.04.21-14.47.32:179][791]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.21-14.47.32:209][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.04.21-14.47.32:210][791]LogEditorActor: Deleted 1 Actors (0.097 secs)
+[2021.04.21-14.47.36:400][200]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.04.21-14.47.36:410][200]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.04.21-14.47.38:368][410]MapCheck: New page: Revisión del mapa
+[2021.04.21-14.47.38:390][410]Cmd: MAP REBUILD ALLVISIBLE
+[2021.04.21-14.47.38:391][410]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.04.21-14.47.38:391][410]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=false
+[2021.04.21-14.47.38:412][410]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.04.21-14.47.38:412][410]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.04.21-14.47.38:412][410]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.04.21-14.47.38:451][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.04.21-14.47.38:452][410]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.21-14.47.38:455][410]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.21-14.47.38:457][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.04.21-14.47.38:457][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.04.21-14.47.38:457][410]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.04.21-14.47.38:478][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.04.21-14.47.38:478][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.04.21-14.47.38:478][410]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.21-14.47.38:484][410]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.21-14.47.38:488][410]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.21-14.47.38:491][410]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.21-14.47.44:898][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2021.04.21-14.47.44:898][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 55
+[2021.04.21-14.47.44:898][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 54
+[2021.04.21-14.47.44:898][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 53
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 52
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 51
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 50
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 49
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 48
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 43
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.04.21-14.47.44:899][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.04.21-14.47.44:900][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.04.21-14.47.44:900][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.04.21-14.47.44:900][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.04.21-14.47.44:900][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.04.21-14.47.44:900][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.04.21-14.47.44:900][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.04.21-14.47.44:900][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.04.21-14.47.44:900][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.04.21-14.47.44:900][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.04.21-14.47.44:900][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.04.21-14.47.44:900][410]TextureStreamingBuild: Display: Compiling optional shaders took 6.446 seconds.
+[2021.04.21-14.47.44:915][410]LogLevel: Display: Export Material TexCoord Scales took 0.016 seconds.
+[2021.04.21-14.47.44:919][410]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2021.04.21-14.47.44:933][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.04.21-14.47.44:936][410]LightingResults: New page: Diseño de la iluminación - 21 abr. 2021 08:47:44
+[2021.04.21-14.47.44:957][410]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.04.21-14.47.44:961][410]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.04.21-14.47.44:961][410]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.04.21-14.47.44:962][410]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.04.21-14.47.44:962][410]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4332
+[2021.04.21-14.47.49:662][410]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2021.04.21-14.47.49:663][410]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.04.21-14.47.49:663][410]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.04.21-14.47.49:663][410]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.04.21-14.47.49:663][410]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.04.21-14.47.49:663][410]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.04.21-14.47.49:784][410]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.04.21-14.47.49:784][410]MapCheck: New page: 2-SecondFloor - 21 abr. 2021 08:47:49
+[2021.04.21-14.47.49:784][410]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,427ms to complete.
+[2021.04.21-14.47.49:787][410]LogEditorBuildUtils: Build time 0:11
+[2021.04.21-14.47.49:937][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.04.21-14.47.51:975][521]AssetReimport: New page: Outstanding source content changes 08:47:51
+[2021.04.21-14.47.52:178][522]LogSkeletalMesh: Building Skeletal Mesh basilisco2...
+[2021.04.21-14.47.52:352][522]LogSkeletalMesh: Section 0: Material=0, 1140 triangles
+[2021.04.21-14.47.52:442][522]LogSkeletalMesh: Built Skeletal Mesh [0.26s] /Game/STKAssets/basilisco2.basilisco2
+[2021.04.21-14.47.52:726][522]LogEditorFactories: Performing atomic reimport of [C:/Users/rafap/SaveTheKnight/Content/STKAssets/basilisco2.fbx]
+[2021.04.21-14.47.53:114][522]LogFbx: Loading FBX Scene from C:/Users/rafap/SaveTheKnight/Content/STKAssets/basilisco2.fbx
+[2021.04.21-14.47.53:467][522]LogFbx: FBX Scene Loaded Succesfully
+[2021.04.21-14.47.53:611][522]LogFbx: Valid bind pose for Pose (BIND_POSES) - basilisk
+[2021.04.21-14.47.53:653][522]LogFbx: Triangulating skeletal mesh basilisk
+[2021.04.21-14.47.53:710][522]LogFbx: Triangulating skeletal mesh membranaala
+[2021.04.21-14.47.53:714][522]LogFbx: Triangulating skeletal mesh membranaala005
+[2021.04.21-14.47.53:784][522]LogSkeletalMesh: Section 0: Material=0, 1140 triangles
+[2021.04.21-14.47.53:794][522]LogEditorFactories: -- imported successfully
+[2021.04.21-14.47.53:806][522]LogSkeletalMesh: Building Skeletal Mesh basilisco2...
+[2021.04.21-14.47.53:831][522]LogSkeletalMesh: Section 0: Material=0, 1140 triangles
+[2021.04.21-14.47.53:839][522]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/STKAssets/basilisco2.basilisco2
+[2021.04.21-14.47.53:941][522]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/STKAssets/basilisco2_Anim.basilisco2_Anim
+[2021.04.21-14.47.53:942][522]LogEditorFactories: Performing atomic reimport of [C:/Users/rafap/SaveTheKnight/Content/STKAssets/basilisco2.fbx]
+[2021.04.21-14.47.54:160][522]LogFbx: Loading FBX Scene from C:/Users/rafap/SaveTheKnight/Content/STKAssets/basilisco2.fbx
+[2021.04.21-14.47.54:440][522]LogFbx: FBX Scene Loaded Succesfully
+[2021.04.21-14.47.54:467][522]LogFbx: Parsing AnimStack Take 001
+[2021.04.21-14.47.55:229][522]Job is a success!
+[2021.04.21-14.47.55:229][522]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/STKAssets/basilisco2_Anim.basilisco2_Anim
+[2021.04.21-14.47.55:229][522]LogEditorFactories: -- imported successfully
+[2021.04.21-14.47.55:417][523]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/STKAssets/basilisco2_Anim.basilisco2_Anim
+[2021.04.21-14.47.55:709][523]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.172s
+[2021.04.21-14.47.55:709][523]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2021.04.21-14.47.55:709][523]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2021.04.21-14.47.55:709][523]LogVolumetricLightmapImport:      Bricks at depth
+[2021.04.21-14.47.55:709][523]LogVolumetricLightmapImport:          0: 25.8% covering 100.0% of volume
+[2021.04.21-14.47.55:709][523]LogVolumetricLightmapImport:          1: 6.5% covering 0.4% of volume
+[2021.04.21-14.47.55:709][523]LogVolumetricLightmapImport:          2: 67.7% covering 0.1% of volume
+[2021.04.21-14.47.55:709][523]LogVolumetricLightmapImport:      Bricks in each level
+[2021.04.21-14.47.55:710][523]LogVolumetricLightmapImport:          2-SecondFloor 			 31 bricks 	 100.0% (Persistent Level)
+[2021.04.21-14.47.55:951][523]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2021.04.21-14.47.55:952][523]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2021.04.21-14.47.55:952][523]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2021.04.21-14.47.55:952][523]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2021.04.21-14.47.55:952][523]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2021.04.21-14.47.55:952][523]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2021.04.21-14.47.55:952][523]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 64X32)
+[2021.04.21-14.47.55:952][523]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 128X256)
+[2021.04.21-14.47.55:952][523]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 512X32)
+[2021.04.21-14.47.55:952][523]Lightmass on DESKTOP-80B3B30: 5.45 sec total, 391 ms importing, 17 ms setup, 1.35 sec photons, 3.62 sec processing, 0 ms extra exporting [18/18 mappings]. Threads: 25.3 sec total, 1.66 sec processing.
+[2021.04.21-14.47.55:997][523]LogStaticLightingSystem: 2-SecondFloor_BuiltData storing lightmap data for 15 meshes in 3 LightmapResourceClusters (5.0 Meshes per cluster).
+[2021.04.21-14.47.56:026][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.04.21-14.47.56:040][523]LogStaticLightingSystem: Illumination: 10.9 sec (79 ms encoding lightmaps, 86 ms encoding shadowmaps)
+[2021.04.21-14.47.56:040][523]LogStaticLightingSystem: Lightmap texture memory:  0.6 MB (0.1 MB streaming, 0.5 MB non-streaming), 6 textures
+[2021.04.21-14.47.56:040][523]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2021.04.21-14.47.56:676][523]DumpUnbuiltLightIteractions
+[2021.04.21-14.47.56:676][523]Lights with unbuilt interactions: 0
+[2021.04.21-14.47.56:676][523]
+[2021.04.21-14.47.56:676][523]Primitives with unbuilt interactions: 0
+[2021.04.21-14.47.57:127][523]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.04.21-14.47.57:195][524]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.04.21-14.47.57:196][524]MapCheck: New page: 2-SecondFloor - 21 abr. 2021 08:47:57
+[2021.04.21-14.47.57:196][524]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,527ms to complete.
+[2021.04.21-14.47.57:360][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/STKAssets/basilisco2" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/STKAssets/basilisco2.uasset" SILENT=true
+[2021.04.21-14.47.57:438][524]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/basilisco29B9C0D804BFCF15C6AF83CA70263BD2E.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/STKAssets/basilisco2.uasset'
+[2021.04.21-14.47.57:522][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/STKAssets/basilisco2_Anim" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/STKAssets/basilisco2_Anim.uasset" SILENT=true
+[2021.04.21-14.47.57:560][524]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/basilisco2_Anim6B19CB2D406493E8E1C32F9BB2F94058.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/STKAssets/basilisco2_Anim.uasset'
+[2021.04.21-14.47.57:643][525]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.21-14.47.57:643][525]LogContentValidation: Display: Validating AnimSequence /Game/STKAssets/basilisco2_Anim.basilisco2_Anim
+[2021.04.21-14.47.57:643][525]LogContentValidation: Display: Validating SkeletalMesh /Game/STKAssets/basilisco2.basilisco2
+[2021.04.21-14.47.59:203][690]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.04.21-14.47.59:209][690]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.04.21-14.48.00:606][842]AssetReimport: Reimported asset basilisco2 from C:/Users/rafap/SaveTheKnight/Content/STKAssets/basilisco2.fbx.
+[2021.04.21-14.48.00:606][842]AssetReimport: Reimported asset basilisco2_Anim from C:/Users/rafap/SaveTheKnight/Content/STKAssets/basilisco2.fbx.
+[2021.04.21-14.48.00:820][868]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.21-14.48.00:832][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.21-14.48.00:832][868]PIE: New page: Sesión PIE (reproducción en el editor): 2-SecondFloor (21 abr. 2021 08:48:00)
+[2021.04.21-14.48.00:833][868]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_2-SecondFloor
+[2021.04.21-14.48.00:838][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005204s)
+[2021.04.21-14.48.00:839][868]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.04.21-14.48.00:839][868]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2021.04.21-14.48.00:839][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2-SecondFloor.2-SecondFloor to /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor (0.006709s)
+[2021.04.21-14.48.00:856][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.04.21-14.48.00:858][868]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.04.21-14.48.00:858][868]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.21-14.48.00:858][868]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.21-14.48.00:858][868]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.21-14.48.00:858][868]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.21-14.48.00:858][868]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.21-14.48.00:858][868]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.21-14.48.00:858][868]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.21-14.48.00:858][868]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.21-14.48.00:858][868]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.21-14.48.00:858][868]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.21-14.48.00:868][868]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.21-14.48.00:868][868]LogAudioMixer: Display: 1: FrontRight
+[2021.04.21-14.48.00:884][868]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.04.21-14.48.00:884][868]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.21-14.48.00:884][868]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.21-14.48.00:884][868]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.21-14.48.00:885][868]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.21-14.48.00:885][868]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.21-14.48.00:885][868]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.21-14.48.00:905][868]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.21-14.48.00:906][868]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.21-14.48.00:906][868]LogInit: FAudioDevice initialized.
+[2021.04.21-14.48.00:906][868]LogAudio: Display: Audio Device (ID: 4) registered with world '2-SecondFloor'.
+[2021.04.21-14.48.00:915][868]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.21-14.48.00:917][868]LogWorld: Bringing World /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor up for play (max tick rate 0) at 2021.04.21-11.48.00
+[2021.04.21-14.48.00:918][868]LogWorld: Bringing up level for play took: 0.001782
+[2021.04.21-14.48.00:918][868]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.04.21-14.48.00:965][868]PIE: El servidor ha iniciado la sesión
+[2021.04.21-14.48.00:966][868]PIE: Play in editor total start time 0,137 seconds.
+[2021.04.21-14.48.00:978][868]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:001][869]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:011][870]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:018][871]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:027][872]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:035][873]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:044][874]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:052][875]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:060][876]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:068][877]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:077][878]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:086][879]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:094][880]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:104][881]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:113][882]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:122][883]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:130][884]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:140][885]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:152][886]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:162][887]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:171][888]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:179][889]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:188][890]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:197][891]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:206][892]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:215][893]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:223][894]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:231][895]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:241][896]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:248][897]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:257][898]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:266][899]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:275][900]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:283][901]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:293][902]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:301][903]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:308][904]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:317][905]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:325][906]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:334][907]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:342][908]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:356][909]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:364][910]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:373][911]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:381][912]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:389][913]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:397][914]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:406][915]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:414][916]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:423][917]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:431][918]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:439][919]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:447][920]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:456][921]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:465][922]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:473][923]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:481][924]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:490][925]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:498][926]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:506][927]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:515][928]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:523][929]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:532][930]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:540][931]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:548][932]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:556][933]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:564][934]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:575][935]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:583][936]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:591][937]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:599][938]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:607][939]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:616][940]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:625][941]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:634][942]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:642][943]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:651][944]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:658][945]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:667][946]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:675][947]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:683][948]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:691][949]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:700][950]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:708][951]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:717][952]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:725][953]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:733][954]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:741][955]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:750][956]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:758][957]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:767][958]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:775][959]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:783][960]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:792][961]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:800][962]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:808][963]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:817][964]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:825][965]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:833][966]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:842][967]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:850][968]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:858][969]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:867][970]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:875][971]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:883][972]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:892][973]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:900][974]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:908][975]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:918][976]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:929][977]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:937][978]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:945][979]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:953][980]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:962][981]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:970][982]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:978][983]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:987][984]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.01:995][985]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:004][986]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:012][987]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:020][988]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:028][989]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:037][990]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:045][991]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:053][992]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:062][993]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:070][994]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:078][995]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:087][996]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:095][997]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:103][998]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:112][999]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:120][  0]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:128][  1]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:137][  2]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:145][  3]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:153][  4]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:163][  5]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:171][  6]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:178][  7]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:187][  8]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:196][  9]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:205][ 10]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:213][ 11]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:221][ 12]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:229][ 13]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:237][ 14]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:285][ 15]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:293][ 16]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:302][ 17]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:310][ 18]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:318][ 19]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:327][ 20]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:335][ 21]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:344][ 22]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:352][ 23]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:360][ 24]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:368][ 25]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:376][ 26]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:386][ 27]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:394][ 28]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:401][ 29]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:410][ 30]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:418][ 31]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:426][ 32]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:435][ 33]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:444][ 34]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:452][ 35]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:460][ 36]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:469][ 37]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:476][ 38]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:485][ 39]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:493][ 40]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:502][ 41]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:510][ 42]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:518][ 43]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:527][ 44]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:536][ 45]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:544][ 46]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:552][ 47]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:560][ 48]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:569][ 49]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:578][ 50]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:586][ 51]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:595][ 52]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:603][ 53]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:613][ 54]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:621][ 55]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:629][ 56]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:636][ 57]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:652][ 58]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:660][ 59]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:668][ 60]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:677][ 61]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:685][ 62]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:693][ 63]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:702][ 64]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:710][ 65]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:718][ 66]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:727][ 67]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:734][ 68]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:743][ 69]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:752][ 70]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:760][ 71]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:768][ 72]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:777][ 73]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:785][ 74]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:793][ 75]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:802][ 76]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:810][ 77]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:818][ 78]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:826][ 79]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:835][ 80]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:843][ 81]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:852][ 82]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:860][ 83]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:869][ 84]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:877][ 85]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:885][ 86]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:893][ 87]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:902][ 88]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:909][ 89]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:918][ 90]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:926][ 91]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:935][ 92]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:943][ 93]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:952][ 94]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:960][ 95]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:968][ 96]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:977][ 97]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:985][ 98]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.02:993][ 99]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:002][100]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:010][101]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:018][102]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:027][103]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:035][104]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:043][105]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:052][106]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:060][107]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:068][108]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:076][109]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:085][110]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:093][111]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:102][112]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:110][113]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:118][114]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:127][115]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:135][116]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:143][117]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:152][118]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:161][119]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:168][120]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:177][121]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:185][122]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:194][123]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:202][124]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:210][125]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:219][126]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:227][127]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:235][128]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:243][129]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:252][130]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:260][131]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:269][132]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:277][133]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:285][134]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:293][135]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:302][136]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:311][137]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:318][138]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:437][139]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:447][140]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:456][141]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:464][142]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:473][143]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:481][144]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:490][145]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:498][146]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:506][147]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:515][148]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:523][149]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:531][150]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:541][151]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:549][152]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:558][153]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:566][154]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:575][155]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:583][156]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:591][157]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:599][158]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:608][159]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:616][160]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:624][161]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:632][162]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:641][163]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:650][164]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:658][165]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:666][166]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:674][167]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:683][168]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:691][169]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:699][170]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:707][171]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:716][172]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:724][173]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:733][174]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:741][175]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:749][176]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:757][177]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:766][178]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:774][179]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:782][180]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:791][181]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:799][182]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:808][183]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:816][184]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:824][185]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:833][186]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:841][187]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:849][188]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:858][189]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:867][190]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:875][191]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:883][192]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:891][193]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:900][194]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:908][195]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:916][196]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:925][197]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:933][198]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:941][199]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:949][200]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:958][201]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:966][202]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:975][203]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:984][204]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.03:992][205]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:000][206]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:008][207]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:017][208]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:025][209]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:033][210]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:042][211]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:050][212]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:058][213]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:066][214]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:075][215]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:084][216]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:092][217]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:100][218]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:108][219]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:117][220]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:125][221]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:133][222]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:141][223]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:150][224]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:158][225]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:166][226]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:175][227]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:183][228]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:192][229]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:200][230]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:208][231]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:216][232]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:224][233]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:234][234]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:242][235]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:251][236]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:258][237]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:266][238]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:275][239]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:283][240]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:292][241]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:300][242]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:308][243]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:316][244]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:325][245]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:333][246]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:342][247]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:350][248]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:358][249]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:367][250]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:375][251]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:383][252]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:391][253]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:400][254]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:408][255]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:416][256]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:425][257]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:433][258]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:441][259]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:450][260]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:458][261]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:467][262]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:475][263]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:483][264]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:492][265]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:500][266]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:508][267]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:517][268]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:525][269]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:574][270]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:582][271]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:590][272]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:598][273]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:607][274]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:615][275]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:624][276]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:633][277]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:641][278]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:649][279]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:657][280]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:665][281]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:674][282]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:682][283]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:690][284]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:698][285]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:707][286]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:715][287]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:724][288]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:732][289]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:740][290]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:748][291]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:757][292]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:765][293]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:774][294]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:782][295]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:790][296]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:798][297]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:807][298]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:815][299]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:824][300]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:832][301]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:840][302]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:848][303]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:857][304]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:865][305]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:873][306]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:882][307]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:890][308]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:898][309]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:907][310]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:915][311]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:924][312]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:932][313]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:940][314]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:948][315]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:957][316]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:965][317]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:973][318]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:982][319]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:991][320]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.04:998][321]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:007][322]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:015][323]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:024][324]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:032][325]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:040][326]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:049][327]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:057][328]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:065][329]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:073][330]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:082][331]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:090][332]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:098][333]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:106][334]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:115][335]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:123][336]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:132][337]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:140][338]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:148][339]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:157][340]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:165][341]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:174][342]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:182][343]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:190][344]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:198][345]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:207][346]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:215][347]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:223][348]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:232][349]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:240][350]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:248][351]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:257][352]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:265][353]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:273][354]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:282][355]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:290][356]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:298][357]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:306][358]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:315][359]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:323][360]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:332][361]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:340][362]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:348][363]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:356][364]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:365][365]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:374][366]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:382][367]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:391][368]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:400][369]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:408][370]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:417][371]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:426][372]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:434][373]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:442][374]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:449][375]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:458][376]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:466][377]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:474][378]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:483][379]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:491][380]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:499][381]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:508][382]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:517][383]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:525][384]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:545][385]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:552][386]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:561][387]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:569][388]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:583][389]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:591][390]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:599][391]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:607][392]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:615][393]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:624][394]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:632][395]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:640][396]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:648][397]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:657][398]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:665][399]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:674][400]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:682][401]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:690][402]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:698][403]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:707][404]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:716][405]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:723][406]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:732][407]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:740][408]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:748][409]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:757][410]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:765][411]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:773][412]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:782][413]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:790][414]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:799][415]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:807][416]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:815][417]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:824][418]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:832][419]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:840][420]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:848][421]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:857][422]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:865][423]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:874][424]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:882][425]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:890][426]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:899][427]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:907][428]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:915][429]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:924][430]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:932][431]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:940][432]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:948][433]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:957][434]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:965][435]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:973][436]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:982][437]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:990][438]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.05:998][439]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:007][440]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:015][441]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:023][442]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:032][443]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:040][444]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:049][445]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:057][446]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:065][447]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:074][448]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:082][449]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:090][450]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:098][451]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:107][452]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:115][453]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:123][454]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:132][455]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:140][456]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:148][457]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:157][458]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:165][459]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:174][460]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:182][461]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:190][462]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:198][463]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:207][464]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:215][465]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:223][466]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:232][467]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:240][468]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:248][469]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:257][470]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:265][471]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:274][472]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:282][473]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:290][474]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:298][475]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:307][476]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:315][477]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:324][478]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:332][479]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:340][480]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:348][481]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:357][482]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:365][483]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:374][484]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:382][485]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:391][486]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:399][487]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:407][488]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:415][489]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:424][490]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:432][491]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:440][492]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:448][493]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:457][494]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:465][495]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:473][496]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:482][497]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:491][498]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:498][499]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:507][500]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:515][501]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:524][502]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:532][503]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:540][504]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:548][505]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:557][506]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:565][507]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:574][508]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:582][509]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:591][510]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:598][511]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:607][512]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:615][513]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:624][514]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:632][515]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:640][516]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:648][517]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:657][518]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:665][519]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:674][520]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:682][521]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:690][522]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:698][523]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:707][524]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:715][525]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:724][526]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:732][527]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:740][528]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:749][529]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:757][530]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:765][531]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:774][532]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:782][533]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:790][534]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:799][535]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:807][536]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:815][537]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:824][538]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:832][539]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:840][540]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:849][541]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:857][542]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:865][543]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:874][544]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:882][545]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:890][546]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:898][547]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:907][548]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:915][549]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:924][550]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:932][551]LogBlueprintUserMessages: [HUD_C_0] 1.0
+[2021.04.21-14.48.06:977][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.21-14.48.06:977][552]LogWorld: BeginTearingDown for /Game/UEDPIE_0_2-SecondFloor
+[2021.04.21-14.48.06:977][552]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=true
+[2021.04.21-14.48.06:977][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.21-14.48.06:986][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.21-14.48.06:996][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.21-14.48.07:012][552]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.21-14.48.07:012][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.21-14.48.07:013][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.21-14.48.07:032][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.21-14.48.07:035][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.04.21-14.48.07:091][553]LogPlayLevel: Display: Destroying online subsystem :Context_9
