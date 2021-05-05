@@ -2058,3 +2058,363 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.05-23.36.41:299][ 28]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.05-23.36.41:299][ 28]LogContentValidation: Display: Validating World /Game/1-FirstFloor.1-FirstFloor
 [2021.05.05-23.36.41:299][ 28]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/1-FirstFloor_BuiltData.1-FirstFloor_BuiltData
+[2021.05.05-23.41.15:862][334]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-23.41.15:862][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-23.41.17:178][350]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-23.41.17:178][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-23.41.19:929][387]LogSlate: Window 'ArcherPlatformBP' being destroyed
+[2021.05.05-23.41.20:051][387]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.05-23.41.20:051][387]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-23.41.20:051][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-23.42.37:663][419]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.05.05-23.42.37:725][419]LogContentBrowser: Creating deferred item: NewFolder
+[2021.05.05-23.42.40:483][466]LogContentBrowser: Attempting asset rename: NewFolder -> Spikes
+[2021.05.05-23.42.40:484][466]LogContentBrowser: End creating deferred item NewFolder
+[2021.05.05-23.42.56:290][560]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\mathi\Downloads\pinchosrefleccions.tif)
+[2021.05.05-23.42.56:318][560]LogTexture: Display: Building textures: pinchosrefleccions (AutoDXT, 1024X1024)
+[2021.05.05-23.42.56:397][560]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\mathi\Downloads\pinchosrefleccions2.tif)
+[2021.05.05-23.42.56:420][560]LogTexture: Display: Building textures: pinchosrefleccions2 (AutoDXT, 1024X1024)
+[2021.05.05-23.42.56:498][560]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\mathi\Downloads\pinchostexture.tif)
+[2021.05.05-23.42.56:568][560]LogTexture: Display: Building textures: pinchostexture (AutoDXT, 1024X1024)
+[2021.05.05-23.43.06:262][724]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.05.05-23.43.06:296][724]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.05.05-23.43.08:290][770]LogContentBrowser: Attempting asset rename: NewMaterial -> Spikes
+[2021.05.05-23.43.08:293][770]LogContentBrowser: End creating deferred item NewMaterial
+[2021.05.05-23.43.10:191][804]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/STKAssets/Spikes/Spikes.Spikes
+[2021.05.05-23.43.10:193][804]LogMaterial: Display: Missing cached shader map for material Spikes, compiling. 
+[2021.05.05-23.43.10:460][804]LogMaterial: Display: Missing cached shader map for material Spikes, compiling. 
+[2021.05.05-23.43.10:473][804]LogMaterial: Display: Missing cached shader map for material Spikes, compiling. 
+[2021.05.05-23.43.10:494][804]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.05-23.43.10:494][804]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.05-23.43.10:494][804]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.05-23.43.10:494][804]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.05-23.43.12:576][830]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.05-23.43.13:270][837]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.05.05-23.43.13:703][843]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.05.05-23.43.14:476][852]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.05.05-23.43.15:012][856]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.05.05-23.43.15:892][867]LogMaterial: Display: Missing cached shader map for material Spikes, compiling. 
+[2021.05.05-23.43.15:906][867]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.05-23.43.15:913][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.05.05-23.43.15:947][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.05.05-23.43.16:291][871]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.05.05-23.43.16:453][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.05.05-23.43.16:732][875]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.05.05-23.43.17:829][889]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.05.05-23.43.18:419][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.05.05-23.43.18:508][898]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.05-23.43.19:120][906]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.05.05-23.43.19:810][914]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.05.05-23.43.20:299][918]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.05.05-23.43.20:758][926]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.05.05-23.43.21:128][931]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.05.05-23.43.21:236][932]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.05.05-23.43.21:382][934]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.05.05-23.43.21:382][934]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.05.05-23.43.21:382][934]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.05-23.43.21:382][934]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.05-23.43.25:379][990]LogMaterial: Display: Missing cached shader map for material Spikes, compiling. 
+[2021.05.05-23.43.25:431][990]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.05-23.43.25:431][990]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.05-23.43.25:431][990]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.05-23.43.25:431][990]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.05-23.43.25:431][990]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.05.05-23.43.25:451][990]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.05.05-23.43.25:459][990]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.05.05-23.43.26:713][  7]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.05.05-23.43.27:306][ 13]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.05.05-23.43.27:608][ 15]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.05.05-23.43.27:674][ 17]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.05.05-23.43.28:626][ 28]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.05.05-23.43.28:651][ 28]LogMaterial: Display: Missing cached shader map for material Spikes, compiling. 
+[2021.05.05-23.43.28:670][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.05.05-23.43.28:711][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.05.05-23.43.28:719][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.05.05-23.43.28:756][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.05.05-23.43.28:813][ 29]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.05.05-23.43.29:631][ 41]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2021.05.05-23.43.29:704][ 42]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.05.05-23.43.29:837][ 44]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.05.05-23.43.31:009][ 57]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.05.05-23.43.31:312][ 61]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.05.05-23.43.31:557][ 63]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.05.05-23.43.32:197][ 72]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.05.05-23.43.32:667][ 78]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.05.05-23.43.33:602][ 89]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.05.05-23.43.33:902][ 93]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.05.05-23.43.34:116][ 95]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.05.05-23.43.34:382][ 99]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.05.05-23.43.34:562][101]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.05.05-23.43.34:562][101]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.05.05-23.43.34:562][101]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.05-23.43.34:562][101]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.05-23.43.35:033][107]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.05.05-23.43.35:752][115]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.05-23.43.35:883][115]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.05.05-23.43.35:991][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.05-23.43.36:341][123]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.05.05-23.43.37:269][132]LogMaterial: Display: Missing cached shader map for material Spikes, compiling. 
+[2021.05.05-23.43.37:316][132]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.05.05-23.43.37:362][133]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.05.05-23.43.37:490][135]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.05.05-23.43.37:595][137]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.05.05-23.43.37:764][139]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.05.05-23.43.39:025][154]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.05.05-23.43.39:189][156]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.05.05-23.43.39:360][158]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.05.05-23.43.40:392][171]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.05-23.43.40:664][174]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.05.05-23.43.41:087][180]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.05.05-23.43.41:817][189]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.05-23.43.42:044][192]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.05-23.43.42:772][201]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.05.05-23.43.43:447][209]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.05.05-23.43.43:495][210]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.05.05-23.43.44:054][217]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.05.05-23.43.44:234][219]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.05.05-23.43.44:234][219]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.05.05-23.43.44:234][219]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.05-23.43.44:234][219]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.05-23.43.44:234][219]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.05.05-23.43.44:234][219]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.05-23.43.47:175][262]LogMaterial: Display: Missing cached shader map for material Spikes, compiling. 
+[2021.05.05-23.43.47:193][262]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.05-23.43.47:195][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.05-23.43.47:195][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.05-23.43.47:195][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.05-23.43.47:203][262]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.05.05-23.43.48:770][283]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.05-23.43.49:420][291]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.05-23.43.49:752][295]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.05-23.43.49:819][296]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.05.05-23.43.50:959][310]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.05.05-23.43.51:306][314]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.05.05-23.43.51:963][322]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.05.05-23.43.52:107][324]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.05.05-23.43.52:327][327]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.05.05-23.43.52:508][329]MaterialEditorStats: Base pass shader: 121 instructions
+[2021.05.05-23.43.52:508][329]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2021.05.05-23.43.52:509][329]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.05-23.43.52:509][329]MaterialEditorStats: Texture samplers: 4/16
+[2021.05.05-23.43.52:509][329]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.05.05-23.43.52:509][329]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.05-23.43.56:384][387]LogMaterial: Display: Missing cached shader map for material Spikes, compiling. 
+[2021.05.05-23.43.56:400][387]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.05-23.43.56:400][387]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.05-23.43.56:400][387]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.05-23.43.56:400][387]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.05-23.43.56:400][387]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.05.05-23.43.57:823][406]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.05-23.43.58:481][414]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.05-23.43.58:799][418]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.05-23.43.58:953][420]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.05.05-23.43.59:888][431]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.05.05-23.44.00:311][436]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.05.05-23.44.01:128][446]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.05.05-23.44.01:175][447]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.05.05-23.44.01:304][449]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.05.05-23.44.01:491][451]MaterialEditorStats: Base pass shader: 121 instructions
+[2021.05.05-23.44.01:491][451]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2021.05.05-23.44.01:491][451]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.05-23.44.01:491][451]MaterialEditorStats: Texture samplers: 5/16
+[2021.05.05-23.44.01:491][451]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.05.05-23.44.01:492][451]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.05-23.44.04:886][504]LogMaterialEditor: Saving and Compiling material Spikes
+[2021.05.05-23.44.05:680][504]LogMaterial: Display: Missing cached shader map for material Spikes, compiling. 
+[2021.05.05-23.44.05:708][504]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.05-23.44.05:708][504]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.05-23.44.05:708][504]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.05-23.44.05:708][504]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.05-23.44.05:734][504]LogMaterial: Display: Missing cached shader map for material Spikes, compiling. 
+[2021.05.05-23.44.05:893][504]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2021.05.05-23.44.05:914][504]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.05-23.44.06:483][504]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.05.05-23.44.07:042][504]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.05.05-23.44.07:042][504]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.05.05-23.44.07:042][504]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.05.05-23.44.07:601][504]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.05.05-23.44.07:601][504]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.05.05-23.44.07:601][504]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.05.05-23.44.07:601][504]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.05.05-23.44.07:822][504]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.05.05-23.44.07:823][504]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.05.05-23.44.07:823][504]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.05.05-23.44.07:827][504]TextureStreamingBuild: Display: Compiling optional shaders took 1.922 seconds.
+[2021.05.05-23.44.07:982][504]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2021.05.05-23.44.09:163][504]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.05.05-23.44.09:721][504]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.05.05-23.44.10:072][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/STKAssets/Spikes/Spikes" FILE="../../../../../../Users/mathi/Documents/SaveTheKnight/Content/STKAssets/Spikes/Spikes.uasset" SILENT=true
+[2021.05.05-23.44.10:079][504]LogSavePackage: Moving '../../../../../../Users/mathi/Documents/SaveTheKnight/Saved/Spikes576A05254D5C03B067713586177EC3F4.tmp' to '../../../../../../Users/mathi/Documents/SaveTheKnight/Content/STKAssets/Spikes/Spikes.uasset'
+[2021.05.05-23.44.10:115][504]AssetCheck: New page: Asset Save: Spikes
+[2021.05.05-23.44.10:115][504]LogContentValidation: Display: Validating Material /Game/STKAssets/Spikes/Spikes.Spikes
+[2021.05.05-23.44.10:125][504]MaterialEditorStats: Base pass shader: 121 instructions
+[2021.05.05-23.44.10:125][504]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2021.05.05-23.44.10:125][504]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.05-23.44.10:125][504]MaterialEditorStats: Texture samplers: 6/16
+[2021.05.05-23.44.10:125][504]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.05.05-23.44.10:125][504]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.05-23.44.30:296][883]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Obstacles/Terrain/SpikesTile.SpikesTile
+[2021.05.05-23.44.54:593][243]BlueprintLog: New page: Compile SpikesTile
+[2021.05.05-23.44.54:828][243]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2021.05.05-23.44.56:293][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Obstacles/Terrain/SpikesTile" FILE="../../../../../../Users/mathi/Documents/SaveTheKnight/Content/Blueprints/Obstacles/Terrain/SpikesTile.uasset" SILENT=true
+[2021.05.05-23.44.56:345][261]LogSavePackage: Moving '../../../../../../Users/mathi/Documents/SaveTheKnight/Saved/SpikesTile43DD73644C7BE087CE1A8BAD84628A13.tmp' to '../../../../../../Users/mathi/Documents/SaveTheKnight/Content/Blueprints/Obstacles/Terrain/SpikesTile.uasset'
+[2021.05.05-23.44.56:374][261]AssetCheck: New page: Asset Save: SpikesTile
+[2021.05.05-23.44.56:374][261]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Obstacles/Terrain/SpikesTile.SpikesTile
+[2021.05.05-23.45.02:483][355]LogSlate: Window 'SpikesTile' being destroyed
+[2021.05.05-23.45.02:502][355]LogSlate: Window 'SpikesTile' being destroyed
+[2021.05.05-23.45.02:540][355]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-23.45.02:541][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-23.45.02:602][355]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-23.45.02:602][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-23.45.30:835][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1-FirstFloor" FILE="../../../../../../Users/mathi/Documents/SaveTheKnight/Content/1-FirstFloor.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.05-23.45.30:875][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.05.05-23.45.31:111][ 49]LogSavePackage: Moving '../../../../../../Users/mathi/Documents/SaveTheKnight/Saved/1-FirstFloor566CB1E646FB1548A1FFCAA33A672D5C.tmp' to '../../../../../../Users/mathi/Documents/SaveTheKnight/Content/1-FirstFloor.umap'
+[2021.05.05-23.45.31:122][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1-FirstFloor_BuiltData" FILE="../../../../../../Users/mathi/Documents/SaveTheKnight/Content/1-FirstFloor_BuiltData.uasset" SILENT=true
+[2021.05.05-23.45.31:188][ 49]LogSavePackage: Moving '../../../../../../Users/mathi/Documents/SaveTheKnight/Saved/1-FirstFloor_BuiltDataF2C1028A44DBEC3583C4369F7639F0A8.tmp' to '../../../../../../Users/mathi/Documents/SaveTheKnight/Content/1-FirstFloor_BuiltData.uasset'
+[2021.05.05-23.45.31:212][ 49]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.05-23.45.31:212][ 49]LogContentValidation: Display: Validating World /Game/1-FirstFloor.1-FirstFloor
+[2021.05.05-23.45.31:212][ 49]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/1-FirstFloor_BuiltData.1-FirstFloor_BuiltData
+[2021.05.05-23.45.37:815][185]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2021.05.05-23.45.39:281][185]LogSlate: Window 'Save Content' being destroyed
+[2021.05.05-23.45.39:321][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/STKAssets/Spikes/pinchosrefleccions" FILE="../../../../../../Users/mathi/Documents/SaveTheKnight/Content/STKAssets/Spikes/pinchosrefleccions.uasset" SILENT=true
+[2021.05.05-23.45.39:346][185]LogSavePackage: Moving '../../../../../../Users/mathi/Documents/SaveTheKnight/Saved/pinchosrefleccions300B21C04B5EAACA79AF28AA94F80CBD.tmp' to '../../../../../../Users/mathi/Documents/SaveTheKnight/Content/STKAssets/Spikes/pinchosrefleccions.uasset'
+[2021.05.05-23.45.39:350][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/STKAssets/Spikes/pinchosrefleccions2" FILE="../../../../../../Users/mathi/Documents/SaveTheKnight/Content/STKAssets/Spikes/pinchosrefleccions2.uasset" SILENT=true
+[2021.05.05-23.45.39:379][185]LogSavePackage: Moving '../../../../../../Users/mathi/Documents/SaveTheKnight/Saved/pinchosrefleccions2EF168DB34BDB502704D12DAC67414783.tmp' to '../../../../../../Users/mathi/Documents/SaveTheKnight/Content/STKAssets/Spikes/pinchosrefleccions2.uasset'
+[2021.05.05-23.45.39:398][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/STKAssets/Spikes/pinchostexture" FILE="../../../../../../Users/mathi/Documents/SaveTheKnight/Content/STKAssets/Spikes/pinchostexture.uasset" SILENT=true
+[2021.05.05-23.45.39:507][185]LogSavePackage: Moving '../../../../../../Users/mathi/Documents/SaveTheKnight/Saved/pinchostexture7B9FECB9492CA75F266E0DA67037083A.tmp' to '../../../../../../Users/mathi/Documents/SaveTheKnight/Content/STKAssets/Spikes/pinchostexture.uasset'
+[2021.05.05-23.45.39:655][185]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2-SecondFloor.2-SecondFloor
+[2021.05.05-23.45.39:656][185]Cmd: MAP LOAD FILE="../../../../../../Users/mathi/Documents/SaveTheKnight/Content/2-SecondFloor.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.05-23.45.39:656][185]LightingResults: New page: Lighting Build
+[2021.05.05-23.45.39:657][185]LoadErrors: New page: Loading map: 2-SecondFloor.umap
+[2021.05.05-23.45.39:662][185]LogWorld: UWorld::CleanupWorld for 1-FirstFloor, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-23.45.39:662][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-23.45.39:662][185]MapCheck: New page: Map Check
+[2021.05.05-23.45.39:662][185]LightingResults: New page: Lighting Build
+[2021.05.05-23.45.39:683][185]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.05-23.45.39:725][185]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.05.05-23.45.39:728][185]LogAudio: Display: Audio Device (ID: 1) registered with world '2-SecondFloor'.
+[2021.05.05-23.45.39:732][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:732][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:732][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:732][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:733][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:733][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:733][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:733][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:733][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:733][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:733][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:733][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:735][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:735][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:735][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:735][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:772][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:772][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:773][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:773][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:773][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:773][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:774][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:774][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:774][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:774][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:774][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:774][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:775][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:775][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:776][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:776][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:776][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:776][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:778][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:778][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:778][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:778][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:778][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:778][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:779][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:779][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:780][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:780][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:780][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:780][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:781][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:781][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:782][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:782][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:782][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:782][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:801][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:801][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:802][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:802][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:802][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:802][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:808][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:808][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:809][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:809][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:809][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.05-23.45.39:809][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.05-23.45.39:980][185]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.05-23.45.39:980][185]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.05.05-23.45.40:022][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.05.05-23.45.40:030][185]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.05-23.45.40:030][185]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2021.05.05-23.45.40:030][185]LogFileHelpers: Loading map '2-SecondFloor' took 0.375
+[2021.05.05-23.45.40:051][185]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.05-23.45.40:051][185]LogContentValidation: Display: Validating Texture2D /Game/STKAssets/Spikes/pinchostexture.pinchostexture
+[2021.05.05-23.45.40:052][185]LogContentValidation: Display: Validating Texture2D /Game/STKAssets/Spikes/pinchosrefleccions2.pinchosrefleccions2
+[2021.05.05-23.45.40:052][185]LogContentValidation: Display: Validating Texture2D /Game/STKAssets/Spikes/pinchosrefleccions.pinchosrefleccions
+[2021.05.05-23.45.42:633][235]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.05-23.45.42:662][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-23.45.42:663][235]PIE: New page: PIE session: 2-SecondFloor (May 5, 2021, 5:45:42 PM)
+[2021.05.05-23.45.42:663][235]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_2-SecondFloor
+[2021.05.05-23.45.42:701][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038374s)
+[2021.05.05-23.45.42:703][235]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.05.05-23.45.42:703][235]LogPlayLevel: PIE: World Init took: (0.001749s)
+[2021.05.05-23.45.42:703][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2-SecondFloor.2-SecondFloor to /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor (0.040379s)
+[2021.05.05-23.45.42:733][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.05.05-23.45.42:734][235]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.05.05-23.45.42:734][235]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-23.45.42:734][235]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-23.45.42:734][235]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-23.45.42:734][235]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-23.45.42:734][235]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-23.45.42:734][235]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-23.45.42:734][235]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-23.45.42:734][235]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-23.45.42:735][235]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-23.45.42:735][235]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-23.45.42:743][235]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-23.45.42:743][235]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-23.45.42:766][235]LogAudioMixer: Display: Using Audio Device Headphones (Trust GXT 393 Headset)
+[2021.05.05-23.45.42:767][235]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-23.45.42:767][235]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-23.45.42:767][235]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-23.45.42:768][235]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-23.45.42:768][235]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-23.45.42:768][235]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-23.45.42:796][235]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-23.45.42:796][235]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-23.45.42:796][235]LogInit: FAudioDevice initialized.
+[2021.05.05-23.45.42:796][235]LogAudio: Display: Audio Device (ID: 10) registered with world '2-SecondFloor'.
+[2021.05.05-23.45.42:807][235]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.05-23.45.42:826][235]LogWorld: Bringing World /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor up for play (max tick rate 60) at 2021.05.05-20.45.42
+[2021.05.05-23.45.42:832][235]LogWorld: Bringing up level for play took: 0.024025
+[2021.05.05-23.45.42:833][235]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.05.05-23.45.42:842][235]PIE: Server logged in
+[2021.05.05-23.45.42:843][235]PIE: Play in editor total start time 0.193 seconds.
+[2021.05.05-23.46.09:061][916]LogBlueprintUserMessages: [Princess_3] 0.75
+[2021.05.05-23.46.11:022][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-23.46.11:022][964]LogWorld: BeginTearingDown for /Game/UEDPIE_0_2-SecondFloor
+[2021.05.05-23.46.11:023][964]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-23.46.11:032][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-23.46.11:051][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-23.46.11:061][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-23.46.11:100][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-23.46.11:103][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-23.46.11:105][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-23.46.11:159][964]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2021.05.05-23.46.11:208][965]LogPlayLevel: Display: Destroying online subsystem :Context_50
