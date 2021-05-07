@@ -1,0 +1,927 @@
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Interfaces/Activable/Activable.uasset" 0
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Activable.uasset" 1
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 2
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 3
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 4
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 5
+"../../../Engine/Content/BasicShapes/Plane.uasset" 6
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset" 7
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/GroundButton.uasset" 8
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/ArcherPlatform.uasset" 9
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/PLATAFORMAARQUEROs.uasset" 10
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 11
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 12
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 13
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Textures/T_Male_N.uasset" 14
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 15
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 16
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 17
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 18
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 19
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 20
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 21
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 22
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 23
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 24
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 25
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 26
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 27
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 28
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Textures/T_Female_N.uasset" 29
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 30
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Materials/MI_Female_Body.uasset" 31
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 32
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 33
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 34
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 35
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 36
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Animations/ThirdPersonRun.uasset" 37
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 38
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 39
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 40
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 41
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 42
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 43
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 44
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Interfaces/Damageable.uasset" 45
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Interfaces/Damaging.uasset" 46
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 47
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 48
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_MacroVariation.uasset" 49
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Metal_Gold.uasset" 50
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/arrow.uasset" 51
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/PrincessProjectile.uasset" 52
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/GameData.uasset" 53
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/UI/HUD.uasset" 54
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Princesa_Animaciones_Skeleton.uasset" 55
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/PrincessAnims/PrincessJumpStart.uasset" 56
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/PrincessAnims/PrincessJumpLoop.uasset" 57
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/PrincessAnims/PrincessJumpEnd.uasset" 58
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/PrincessAnims/PrincessMoveAnim.uasset" 59
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/PrincessAnims/PincessIdleAnim.uasset" 60
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/PrincessAnims/NewBlendSpace1D.uasset" 61
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/PP_OutlineColored.uasset" 62
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/OutlineGlow.uasset" 63
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 64
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 65
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 66
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/PrincessAnims/PrincessAnimBP.uasset" 67
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Ropa_Prueba2.uasset" 68
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Ropa_Prueba2_Mat.uasset" 69
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Princesa_Animaciones_PhysicsAsset.uasset" 70
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Princess_Skeleton.uasset" 71
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/RangedGoblinProjectile.uasset" 72
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Menus/background.uasset" 73
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Sound/MasterVolume.uasset" 74
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Menus/MasterSoundClassMix.uasset" 75
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Menus/AudioWidget.uasset" 76
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Menus/MainMenuWidget.uasset" 77
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Menus/ControlsWidget.uasset" 78
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Menus/PauseMenuWidget.uasset" 79
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Spikes/pinchostexture.uasset" 80
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Spikes/pinchosrefleccions2.uasset" 81
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Spikes/pinchosrefleccions.uasset" 82
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Spikes/Spikes.uasset" 83
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/pinchos.uasset" 84
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Obstacles/Terrain/SpikesTile.uasset" 85
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/basilisco2_Skeleton.uasset" 86
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/basilisco2_PhysicsAsset.uasset" 87
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/basilisktif1_-_Copy_-_Copy.uasset" 88
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/basiliskgloss.uasset" 89
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/basilisktif1_-_Copy_-_Copy_Mat.uasset" 90
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/basilisco2.uasset" 91
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Interfaces/MeleeEnemy.uasset" 92
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/basilisco2_Anim.uasset" 93
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/ChaseStatus.uasset" 94
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/EnemyBB.uasset" 95
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/MeleeAttack.uasset" 96
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/LoopPath.uasset" 97
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/IsPlayerInRange.uasset" 98
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/PatrolPath.uasset" 99
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/IncrementPathIndex.uasset" 100
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/FindRandomLocation.uasset" 101
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/FindPathPoint.uasset" 102
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/ChangeStatus.uasset" 103
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/ChangeEnemySpeed.uasset" 104
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/EnemyBT.uasset" 105
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/EnemyController.uasset" 106
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/BasiliskAnimBP.uasset" 107
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/Basilisk.uasset" 108
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/ThirdPersonBP/Blueprints/Princess.uasset" 109
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Obstacles/Terrain/DeathPlane.uasset" 110
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/Enemy.uasset" 111
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/Cube.uasset" 112
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Interfaces/Observer/Publisher.uasset" 113
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Interfaces/Observer/Suscriber.uasset" 114
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Obstacles/Terrain/SpikeTileGroup.uasset" 115
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 116
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Menus/placeholderMenu.uasset" 117
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Textures/T_PK_PrototypeColor_Mask.uasset" 118
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Master/M_PK_Prototype.uasset" 119
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_02_Lever_Flip_Slide.uasset" 120
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 121
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 122
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Metal_Steel.uasset" 123
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_33_Button_Push.uasset" 124
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_31_Button_Push.uasset" 125
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_01_Square_Push.uasset" 126
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/Enums/EPK_RotationAxis.uasset" 127
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/Enums/EPK_MovementOffsetType.uasset" 128
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/Structs/FPKAnimationQueueItem.uasset" 129
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/Enums/EPK_StateActionMapping.uasset" 130
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/Enums/EPK_AggregationStrategy.uasset" 131
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/Structs/FPKChangeReaction.uasset" 132
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/Enums/EPK_StateResetBehaviour.uasset" 133
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/Enums/EPK_StateAction.uasset" 134
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/BPL_PK_LogFunction.uasset" 135
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/Structs/FPKStateChangeArgs.uasset" 136
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/Enums/EPK_FailReason.uasset" 137
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/BPI_PK_ObserverActor.uasset" 138
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/BP_PK_IterativeStateComponent.uasset" 139
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 140
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/BP_PK_StatefulActor.uasset" 141
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/BP_PK_ObserveReactComponent.uasset" 142
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/ButtonPrototype.uasset" 143
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_01_Lever_Flip_Slide.uasset" 144
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_02_Square_Flip.uasset" 145
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/BP_PK_ButtonPrototype.uasset" 146
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Buttons/BP_PK_FlipLever_2States.uasset" 147
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Buttons/BP_PK_PushButton_2States.uasset" 148
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_26_Knob_Rotate.uasset" 149
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_25_Knob_Rotate.uasset" 150
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_03_Square_Rotate.uasset" 151
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Buttons/BP_PK_Rotate_2States.uasset" 152
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_43_Knob_Slide.uasset" 153
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_44_Knob_Slide.uasset" 154
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_04_Square_Slide.uasset" 155
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Buttons/BP_PK_Slider_2States.uasset" 156
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Textures/T_PK_SymbolAtlas.uasset" 157
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Master/M_PK_SymbolAtlas.uasset" 158
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_02_Dial.uasset" 159
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Dials/MI_PK_DialDots.uasset" 160
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Dots/BP_PK_CypherDial02_Dots.uasset" 161
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_04_Dial.uasset" 162
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Dots/BP_PK_CypherDial04_Dots.uasset" 163
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_06_Dial.uasset" 164
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Dots/BP_PK_CypherDial06_Dots.uasset" 165
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_08_Dial.uasset" 166
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Dots/BP_PK_CypherDial08_Dots.uasset" 167
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_10_Dial.uasset" 168
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Dots/BP_PK_CypherDial10_Dots.uasset" 169
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Dials/MI_PK_DialLetters.uasset" 170
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Letters/BP_PK_CypherDial02_Letters.uasset" 171
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Letters/BP_PK_CypherDial04_Letters.uasset" 172
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Letters/BP_PK_CypherDial06_Letters.uasset" 173
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Letters/BP_PK_CypherDial08_Letters.uasset" 174
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Letters/BP_PK_CypherDial10_Letters.uasset" 175
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Dials/MI_PK_DialLines.uasset" 176
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Lines/BP_PK_CypherDial02_Lines.uasset" 177
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Lines/BP_PK_CypherDial04_Lines.uasset" 178
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Lines/BP_PK_CypherDial06_Lines.uasset" 179
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Lines/BP_PK_CypherDial08_Lines.uasset" 180
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Lines/BP_PK_CypherDial10_Lines.uasset" 181
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Dials/MI_PK_DialNumbers.uasset" 182
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Numbers/BP_PK_CypherDial02_Numbers.uasset" 183
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Numbers/BP_PK_CypherDial04_Numbers.uasset" 184
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Numbers/BP_PK_CypherDial06_Numbers.uasset" 185
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Numbers/BP_PK_CypherDial08_Numbers.uasset" 186
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Numbers/BP_PK_CypherDial10_Numbers.uasset" 187
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Dials/MI_PK_DialRoman.uasset" 188
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/RomanNr/BP_PK_CypherDial02_Roman.uasset" 189
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/RomanNr/BP_PK_CypherDial04_Roman.uasset" 190
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/RomanNr/BP_PK_CypherDial06_Roman.uasset" 191
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/RomanNr/BP_PK_CypherDial08_Roman.uasset" 192
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/RomanNr/BP_PK_CypherDial10_Roman.uasset" 193
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Dials/MI_PK_DialShapes.uasset" 194
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Shapes/BP_PK_CypherDial02_Shapes.uasset" 195
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Shapes/BP_PK_CypherDial04_Shapes.uasset" 196
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Shapes/BP_PK_CypherDial06_Shapes.uasset" 197
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Shapes/BP_PK_CypherDial08_Shapes.uasset" 198
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Cypher/Shapes/BP_PK_CypherDial10_Shapes.uasset" 199
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_Disk.uasset" 200
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_DiskHolder.uasset" 201
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Disks/BP_PK_CypherDisk_Dots.uasset" 202
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Disks/BP_PK_CypherDisk_Letters.uasset" 203
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Disks/BP_PK_CypherDisk_Lines.uasset" 204
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Disks/BP_PK_CypherDisk_Numbers.uasset" 205
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Disks/BP_PK_CypherDisk_Roman.uasset" 206
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Disks/BP_PK_CypherDisk_Shapes.uasset" 207
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Displays/SM_PK_Monitor_WiFi_M.uasset" 208
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Display/EPK_DisplayTextAnimation.uasset" 209
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Display/WBP_PK_MonitorText.uasset" 210
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Colors/MI_MixAzureOrange.uasset" 211
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Display/BP_PK_DisplayBase.uasset" 212
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Display/BP_PK_Display.uasset" 213
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Piano/SM_PK_Piano_WhiteKey_D_G_A.uasset" 214
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Piano/SM_PK_Piano_WhiteKey_Full.uasset" 215
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Colors/MI_MixLemonGrey.uasset" 216
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Piano/SM_PK_Piano_BlackKey.uasset" 217
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Piano/SM_PK_Piano_KeyCover_Closed.uasset" 218
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Colors/MI_MixGreySnow.uasset" 219
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Piano/BP_PianoWhiteKey.uasset" 220
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Piano/Notes/BP_PianoKey_A.uasset" 221
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Piano/SM_PK_Piano_WhiteKey_E_B.uasset" 222
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Piano/Notes/BP_PianoKey_B.uasset" 223
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Piano/BP_PianoBlackKey.uasset" 224
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Piano/Notes/BP_PianoKey_BFlat.uasset" 225
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Piano/SM_PK_Piano_WhiteKey_C_F.uasset" 226
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Piano/Notes/BP_PianoKey_C.uasset" 227
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Piano/Notes/BP_PianoKey_CSharp.uasset" 228
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Piano/Notes/BP_PianoKey_D.uasset" 229
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Piano/Notes/BP_PianoKey_DSharp.uasset" 230
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Piano/Notes/BP_PianoKey_E.uasset" 231
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Piano/Notes/BP_PianoKey_F.uasset" 232
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Piano/Notes/BP_PianoKey_FSharp.uasset" 233
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Piano/Notes/BP_PianoKey_G.uasset" 234
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Piano/Notes/BP_PianoKey_GSharp.uasset" 235
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Pipes/SM_PK_Pipe_1.uasset" 236
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Pipes/BP_PK_Pipe1Sample.uasset" 237
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Pipes/SM_PK_Pipe_2.uasset" 238
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Pipes/BP_PK_Pipe2Sample.uasset" 239
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Pipes/SM_PK_Pipe_3.uasset" 240
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Pipes/BP_PK_Pipe3Sample.uasset" 241
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Pipes/SM_PK_Pipe_4.uasset" 242
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Pipes/BP_PK_Pipe4Sample.uasset" 243
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_27_Knob_Rotate.uasset" 244
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_07_Round_Rotate.uasset" 245
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Core/BP_PK_AutoReactComponent.uasset" 246
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Timed/BP_PK_AutomaticButton.uasset" 247
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Timed/BP_PK_Automatic_Slider.uasset" 248
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Triggers/BP_PK_TriggerBase.uasset" 249
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Triggers/Passive/BP_PK_BoxTrigger.uasset" 250
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Triggers/Reactive/BP_PK_ReactiveBoxTrigger.uasset" 251
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Triggers/Passive/BP_PK_CapsuleTrigger.uasset" 252
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Triggers/Reactive/BP_PK_ReactiveCapsuleTrigger.uasset" 253
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Triggers/Passive/BP_PK_SphereTrigger.uasset" 254
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Blueprints/Presets/Triggers/Reactive/BP_PK_ReactiveSphereTrigger.uasset" 255
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Colors/MI_MixGreyApple.uasset" 256
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Colors/MI_MixLemonCerise.uasset" 257
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Colors/MI_MixOrangeAzure.uasset" 258
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Colors/MI_MixSkyGrey.uasset" 259
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Colors/MI_MixSnowAqua.uasset" 260
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Colors/MI_PK_Lemon.uasset" 261
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Colors/MI_PK_MixAquaOrange.uasset" 262
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Colors/MI_PK_MixMintGrey.uasset" 263
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Colors/MI_PK_MixMintOrange.uasset" 264
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Colors/MI_PK_Sky.uasset" 265
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Materials/Dials/MI_PK_DialDots_Inverted.uasset" 266
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_05_Round_Push.uasset" 267
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_06_Round_Flip.uasset" 268
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_09_Tile_Push.uasset" 269
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_10_Tile_Flip.uasset" 270
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_12_Tile_Slide.uasset" 271
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_13_Tall_Push.uasset" 272
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_14_Tall_Flip.uasset" 273
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_29_Knob_Rotate.uasset" 274
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_15_Tall_Rotate.uasset" 275
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_16_Tall_Slide.uasset" 276
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_17_Block_Push_Rotate.uasset" 277
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_18_Open_Flip.uasset" 278
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_18_Valve_Rotate.uasset" 279
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_19_Block_Rotate_Flip.uasset" 280
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_20_Open_Slide.uasset" 281
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_03_Lever_Flip_Slide.uasset" 282
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_04_Lever_Flip_Slide.uasset" 283
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_06_Lever_Flip_Slide.uasset" 284
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_07_Lever_Flip_Slide.uasset" 285
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_08_Lever_Flip_Slide.uasset" 286
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_09_Lever_Flip_Slide.uasset" 287
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_11_Lever_Flip_Slide.uasset" 288
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_12_Lever_Flip_Slide.uasset" 289
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_13_Lever_Flip_Slide.uasset" 290
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_15_Valve_Rotate.uasset" 291
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_16_Valve_Rotate.uasset" 292
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_17_Valve_Rotate.uasset" 293
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_19_Crank_Rotate.uasset" 294
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_20_Crank_Rotate.uasset" 295
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_21_Crank_Rotate.uasset" 296
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_22_Crank_Rotate.uasset" 297
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_23_Valve_Rotate_Push.uasset" 298
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_24_Valve_Rotate_Push.uasset" 299
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_28_Knob_Rotate.uasset" 300
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_30_Knob_Rotate.uasset" 301
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_32_Button_Push.uasset" 302
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_34_Button_Push.uasset" 303
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_35_Button_Push.uasset" 304
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_36_Button_Push.uasset" 305
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_37_Button_Push.uasset" 306
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_38_Button_Push.uasset" 307
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_39_Button_Push.uasset" 308
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_40_Button_Push.uasset" 309
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_41_Button_Push.uasset" 310
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_42_Button_Push.uasset" 311
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_45_Knob_Slide.uasset" 312
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_46_Knob_Slide.uasset" 313
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_47_Knob_Slide.uasset" 314
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_48_Knob_Slide.uasset" 315
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_49_Knob_Slide.uasset" 316
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_50_Knob_Slide.uasset" 317
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_51_Knob_Slide.uasset" 318
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_52_Knob_Slide.uasset" 319
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_53_Knob_Slide.uasset" 320
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_54_Knob_Slide.uasset" 321
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_55_Knob_Slide.uasset" 322
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_56_Knob_Slide.uasset" 323
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_57_Arrow_Slide.uasset" 324
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_58_Arrow_Slide.uasset" 325
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_02_Cap.uasset" 326
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_02_Cap_Holder.uasset" 327
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_04_Cap.uasset" 328
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_04_Cap_Holder.uasset" 329
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_06_Cap.uasset" 330
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_06_Cap_Holder.uasset" 331
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_08_Cap.uasset" 332
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_08_Cap_Holder.uasset" 333
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_10_Cap.uasset" 334
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_10_Cap_Holder.uasset" 335
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_Cap_Full.uasset" 336
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_SelectorFront.uasset" 337
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Dials/SM_PK_Lock_SelectorSide.uasset" 338
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Displays/SM_PK_Monitor_Flat_M.uasset" 339
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Displays/SM_PK_Monitor_Flat_S.uasset" 340
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Displays/SM_PK_Monitor_Flat_XL.uasset" 341
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Displays/SM_PK_Monitor_Handles_M.uasset" 342
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Displays/SM_PK_Monitor_Handles_S.uasset" 343
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Displays/SM_PK_Monitor_Handles_XL.uasset" 344
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Displays/SM_PK_Monitor_Tile_M.uasset" 345
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Displays/SM_PK_Monitor_Tile_S.uasset" 346
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Displays/SM_PK_Monitor_Tile_XL.uasset" 347
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Displays/SM_PK_Monitor_WiFi_S.uasset" 348
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Displays/SM_PK_Monitor_WiFi_XL.uasset" 349
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Piano/SM_PK_Piano_Cover_Large.uasset" 350
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Piano/SM_PK_Piano_Cover_Small.uasset" 351
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Piano/SM_PK_Piano_KeyCover_Opened.uasset" 352
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Pipes/SM_PK_Pipe_Sink_A.uasset" 353
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Pipes/SM_PK_Pipe_Sink_B.uasset" 354
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Textures/T_PK_PrototypeColor_Mask_Mat.uasset" 355
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Basic_Wall.uasset" 356
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Architecture/Pillar_50x500.uasset" 357
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Architecture/Wall_400x300.uasset" 358
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Architecture/Wall_400x400.uasset" 359
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Architecture/Wall_500x500.uasset" 360
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 361
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 362
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Collapse01.uasset" 363
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Collapse02.uasset" 364
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Explosion01.uasset" 365
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Explosion02.uasset" 366
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Fire01.uasset" 367
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Fire_Sparks01.uasset" 368
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Light01.uasset" 369
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Light01_Cue.uasset" 370
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Light02.uasset" 371
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Light02_Cue.uasset" 372
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Smoke01.uasset" 373
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Starter_Birds01.uasset" 374
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Starter_Music01.uasset" 375
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Starter_Wind05.uasset" 376
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Starter_Wind06.uasset" 377
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Steam01.uasset" 378
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 379
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 380
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 381
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 382
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 383
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 384
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 385
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 386
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Burst_M.uasset" 387
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Particles/Materials/M_Burst.uasset" 388
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Particles/P_Explosion.uasset" 389
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Explosion_Cue.uasset" 390
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 391
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 392
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 393
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Bush_N.uasset" 394
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Bush_D.uasset" 395
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/Materials/M_Bush.uasset" 396
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_Bush.uasset" 397
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Chair_N.uasset" 398
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Chair_M.uasset" 399
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/Materials/M_Chair.uasset" 400
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_Couch.uasset" 401
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Door_N.uasset" 402
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Door_M.uasset" 403
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/Materials/M_Door.uasset" 404
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Glass.uasset" 405
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_Door.uasset" 406
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 407
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 408
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 409
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 410
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_RockMesh_N.uasset" 411
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_RockMesh_M.uasset" 412
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 413
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/Materials/M_Rock.uasset" 414
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_Rock.uasset" 415
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Shelf_N.uasset" 416
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Shelf_M.uasset" 417
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/Materials/M_Shelf.uasset" 418
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_Shelf.uasset" 419
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Basic_Floor.uasset" 420
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_Stairs.uasset" 421
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_Cone.uasset" 422
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 423
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 424
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_Pipe.uasset" 425
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 426
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 427
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_Plane.uasset" 428
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_Torus.uasset" 429
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_Trim.uasset" 430
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 431
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 432
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 433
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_Tube.uasset" 434
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 435
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 436
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 437
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/barandatextura.uasset" 438
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/barandatextura_Mat.uasset" 439
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/baranda.uasset" 440
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/bricktower.uasset" 441
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/leftplane.uasset" 442
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Material__3.uasset" 443
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/textura1.uasset" 444
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/treesTexture.uasset" 445
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/black.uasset" 446
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/TreesMaterial.uasset" 447
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/tree.uasset" 448
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 449
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 450
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Wood_Oak.uasset" 451
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Signs/cartel_abajo.uasset" 452
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/ThirdPersonBP/CustomJumpBP.uasset" 453
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 454
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/UI/Widgets/FadeOut.uasset" 455
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Menus/GameOverWidget.uasset" 456
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 457
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 458
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 459
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 460
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 461
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 462
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 463
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 464
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 465
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 466
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 467
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 468
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 469
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 470
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 471
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 472
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 473
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 474
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 475
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 476
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 477
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 478
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 479
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 480
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 481
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 482
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 483
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 484
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 485
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 486
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 487
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 488
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 489
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 490
+"../../../Engine/Content/EditorResources/S_Note.uasset" 491
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 492
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 493
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 494
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 495
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 496
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 497
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 498
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 499
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 500
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 501
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 502
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 503
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 504
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 505
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 506
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 507
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 508
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 509
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 510
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 511
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 512
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 513
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 514
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 515
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 516
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 517
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 518
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 519
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 520
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 521
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 522
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 523
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 524
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 525
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 526
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 527
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 528
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 529
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 530
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 531
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 532
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 533
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 534
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 535
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 536
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 537
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 538
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 539
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 540
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 541
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 542
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 543
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 544
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 545
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 546
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 547
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 548
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 549
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 550
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 551
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 552
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 553
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 554
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 555
+"../../../Engine/Content/EngineResources/Black.uasset" 556
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 557
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 558
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 559
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 560
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 561
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 562
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 563
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 564
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 565
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 566
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 567
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 568
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 569
+"../../../Engine/Content/EngineSounds/Master.uasset" 570
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 571
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 572
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 573
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 574
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 575
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 576
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 577
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 578
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 579
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 580
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 581
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 582
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 583
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 584
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 585
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 586
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 587
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 588
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 589
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 590
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 591
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 592
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 593
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 594
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 595
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 596
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 597
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 598
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 599
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 600
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 601
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 602
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 603
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 604
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 605
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 606
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 607
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 608
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 609
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 610
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 611
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 612
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 613
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 614
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 615
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 616
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 617
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 618
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 619
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 620
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 621
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 622
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 623
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 624
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 625
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 626
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 627
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 628
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 629
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 630
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 631
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 632
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 633
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 634
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/UI/Widgets/FadeIn.uasset" 635
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/tree2.uasset" 636
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Signs/cartel_arriba.uasset" 637
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Dragon/dragoncontextura_Skeleton.uasset" 638
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Dragon/dragoncontextura_PhysicsAsset.uasset" 639
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Dragon/dragonspecular.uasset" 640
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Dragon/dragonopacidad.uasset" 641
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Dragon/dragonemition.uasset" 642
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Dragon/dragoncolor.uasset" 643
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Dragon/Material__2.uasset" 644
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Dragon/dragoncontextura.uasset" 645
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Sound/Spring_Village.uasset" 646
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Sound/Spring_Village_Cue.uasset" 647
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Activables/3LeverStates.uasset" 648
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 649
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 650
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 651
+"../../../Engine/Content/BasicShapes/Cube.uasset" 652
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/bricktower1.uasset" 653
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/textura1_Mat.uasset" 654
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 655
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 656
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Metal_Rust.uasset" 657
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 658
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 659
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 660
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Ground_Grass.uasset" 661
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 662
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 663
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/0-tutorial_BuiltData.uasset" 664
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/ladrillos.uasset" 665
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Bricks.uasset" 666
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/WalkableBlock.uasset" 667
+"../../../Engine/Content/BasicShapes/Cone.uasset" 668
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/VanishingPlatform.uasset" 669
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Spark_Core.uasset" 670
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Particles/Materials/M_Spark.uasset" 671
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 672
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Particles/P_Sparks.uasset" 673
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Teleporters/NextLevelTeleporter.uasset" 674
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/ThirdPerson/Meshes/RampMaterial.uasset" 675
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 676
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Stairs.uasset" 677
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/SplineTracks/Track1.uasset" 678
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/ladrillos_magicosemicion1.uasset" 679
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/ladrillos_magicos.uasset" 680
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/MagicBricks.uasset" 681
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/SplineMovingPlatform.uasset" 682
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/SimplePlatform.uasset" 683
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Obstacles/Puzzles/SimpleTile.uasset" 684
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Obstacles/Puzzles/9TilesPuzzle.uasset" 685
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/UI/Widgets/GravityInteractionMessage.uasset" 686
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Particles/P_Steam_Lit.uasset" 687
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/EnhancedGravityVolume.uasset" 688
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_Cube.uasset" 689
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Water_N.uasset" 690
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 691
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 692
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 693
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 694
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Particles/P_Fire.uasset" 695
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/DoNotTouchMeshBP.uasset" 696
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/UI/Widgets/SimpleButton1InteracionMessage.uasset" 697
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_08_Round_Slide.uasset" 698
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Activables/SimpleButton.uasset" 699
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_05_Lever_Flip_Slide.uasset" 700
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Activables/ControlLever.uasset" 701
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/UI/Widgets/LeverInteractionMessage.uasset" 702
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_10_Lever_Flip_Slide.uasset" 703
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Handles/SM_PK_Handle_14_Valve_Rotate.uasset" 704
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/PuzzleKit-ButtonPrototype/Meshes/Buttons/Bases/SM_PK_Base_11_Tile_Rotate.uasset" 705
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Activables/3StatesLever.uasset" 706
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 707
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 708
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 709
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 710
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 711
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Dragon/dragoncontextura_Anim.uasset" 712
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/0-tutorial.umap" 713
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/PairOfPlatforms.uasset" 714
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/textura_plataforma.uasset" 715
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/PlatformMaterial.uasset" 716
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/ArcherPlatformBP.uasset" 717
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/1-FirstFloor_BuiltData.uasset" 718
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/RangedGoblinBB.uasset" 719
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/Shoot.uasset" 720
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/RangedGoblinBT.uasset" 721
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset" 722
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblin.uasset" 723
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/1-FirstFloor.umap" 724
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Signs/cartel_izquierda.uasset" 725
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/Signs/cartel_derecha.uasset" 726
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/STKAssets/estatua.uasset" 727
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Enemies/Statue.uasset" 728
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/BullseyePlatform.uasset" 729
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/2-SecondFloor_BuiltData.uasset" 730
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/2-SecondFloor.umap" 731
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Menus/WinWidget.uasset" 732
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 733
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/3-ThirdFloor_BuiltData.uasset" 734
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Blueprints/Activables/ActivationLever.uasset" 735
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/3-ThirdFloor.umap" 736
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Sound/MainMenuMusic.uasset" 737
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Menus/MainMenu_BuiltData.uasset" 738
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Menus/MainMenuController.uasset" 739
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Menus/MainMenuGameMode.uasset" 740
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Menus/MainMenu.umap" 741
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 742
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 743
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 744
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 745
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 746
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 747
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 748
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 749
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 750
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 751
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 752
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 753
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 754
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 755
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 756
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 757
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 758
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 759
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 760
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 761
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_AssetPlatform.uasset" 762
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 763
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Maps/Advanced_Lighting.umap" 764
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_TableRound_N.uasset" 765
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_TableRound_M.uasset" 766
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/Materials/M_TableRound.uasset" 767
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_TableRound.uasset" 768
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Statue_N.uasset" 769
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Statue_M.uasset" 770
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/Materials/M_Statue.uasset" 771
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 772
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_Statue.uasset" 773
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_Chair.uasset" 774
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 775
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Metal_Copper.uasset" 776
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 777
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 778
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 779
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 780
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 781
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Architecture/Floor_400x400.uasset" 782
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Maps/Minimal_Default.umap" 783
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 784
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 785
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 786
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Lamp_N.uasset" 787
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Lamp_M.uasset" 788
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/Materials/M_Lamp.uasset" 789
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 790
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 791
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Steam01_Cue.uasset" 792
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 793
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 794
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 795
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Particles/P_Smoke.uasset" 796
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Smoke01_Cue.uasset" 797
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 798
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Fire01_Cue.uasset" 799
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 800
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 801
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 802
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 803
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Audio/Collapse_Cue.uasset" 804
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 805
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 806
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Architecture/Wall_400x200.uasset" 807
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_Sphere.uasset" 808
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 809
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Frame_N.uasset" 810
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Frame_M.uasset" 811
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/Materials/M_Frame.uasset" 812
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_WindowFrame.uasset" 813
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_PillarFrame300.uasset" 814
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_PillarFrame.uasset" 815
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_GlassWindow.uasset" 816
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_DoorFrame.uasset" 817
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/SM_CornerFrame.uasset" 818
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Props/MaterialSphere.uasset" 819
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 820
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 821
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 822
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 823
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 824
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 825
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 826
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 827
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Wood_Pine.uasset" 828
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 829
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 830
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 831
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 832
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 833
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 834
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Water_M.uasset" 835
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Water_Ocean.uasset" 836
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Water_Lake.uasset" 837
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 838
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 839
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Tech_Panel.uasset" 840
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 841
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 842
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 843
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 844
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 845
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 846
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 847
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 848
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 849
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 850
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 851
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Rock_Slate.uasset" 852
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 853
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 854
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 855
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 856
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 857
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 858
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 859
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 860
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 861
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 862
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Ground_Moss.uasset" 863
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 864
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 865
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 866
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 867
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 868
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 869
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 870
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 871
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 872
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 873
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 874
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 875
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 876
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 877
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 878
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 879
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 880
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 881
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 882
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 883
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Gradinet_01.uasset" 884
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 885
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 886
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 887
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 888
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 889
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 890
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 891
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 892
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 893
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 894
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 895
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 896
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 897
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 898
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 899
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 900
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 901
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 902
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 903
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 904
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 905
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 906
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 907
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 908
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 909
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 910
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 911
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 912
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 913
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/StarterContent/Maps/StarterMap.umap" 914
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 915
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 916
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 917
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 918
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 919
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Geometry/Meshes/CubeMaterial.uasset" 920
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Geometry/Meshes/TemplateFloor.uasset" 921
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 922
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/Geometry/Meshes/1M_Cube.uasset" 923
+"D:/Documentos/Unreal Projects/SaveTheKnight/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 924
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 925
+"../../../Engine/Content/Maps/Entry.umap" 926
