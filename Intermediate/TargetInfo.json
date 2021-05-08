@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SaveTheKnight",
+			"Path": "C:\\Users\\mathi\\Documents\\SaveTheKnight\\Source\\SaveTheKnight.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SaveTheKnightEditor",
+			"Path": "C:\\Users\\mathi\\Documents\\SaveTheKnight\\Source\\SaveTheKnightEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
