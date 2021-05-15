@@ -1184,3 +1184,199 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.15-03.50.21:835][336]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.15-03.50.21:835][336]LogContentValidation: Display: Validating World /Game/2-SecondFloor.2-SecondFloor
 [2021.05.15-03.50.21:835][336]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2-SecondFloor_BuiltData.2-SecondFloor_BuiltData
+[2021.05.15-03.50.49:006][482]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.15-03.50.49:018][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-03.50.49:018][482]PIE: New page: Sesión PIE (reproducción en el editor): 2-SecondFloor (14 may. 2021 21:50:49)
+[2021.05.15-03.50.49:039][482]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_2-SecondFloor
+[2021.05.15-03.50.49:078][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038070s)
+[2021.05.15-03.50.49:078][482]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.05.15-03.50.49:079][482]LogPlayLevel: PIE: World Init took: (0.001893s)
+[2021.05.15-03.50.49:079][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2-SecondFloor.2-SecondFloor to /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor (0.040275s)
+[2021.05.15-03.50.49:086][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.05.15-03.50.49:088][482]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.15-03.50.49:088][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-03.50.49:088][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-03.50.49:088][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-03.50.49:088][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-03.50.49:088][482]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-03.50.49:088][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-03.50.49:088][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-03.50.49:088][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-03.50.49:088][482]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-03.50.49:088][482]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-03.50.49:096][482]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-03.50.49:096][482]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-03.50.49:114][482]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.05.15-03.50.49:114][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-03.50.49:114][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-03.50.49:114][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-03.50.49:115][482]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-03.50.49:115][482]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.15-03.50.49:115][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.15-03.50.49:132][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.15-03.50.49:132][482]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.15-03.50.49:132][482]LogInit: FAudioDevice initialized.
+[2021.05.15-03.50.49:132][482]LogAudio: Display: Audio Device (ID: 4) registered with world '2-SecondFloor'.
+[2021.05.15-03.50.49:143][482]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.15-03.50.49:160][482]LogWorld: Bringing World /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor up for play (max tick rate 0) at 2021.05.15-00.50.49
+[2021.05.15-03.50.49:165][482]LogWorld: Bringing up level for play took: 0.021193
+[2021.05.15-03.50.49:165][482]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.05.15-03.50.49:174][482]PIE: El servidor ha iniciado la sesión
+[2021.05.15-03.50.49:175][482]PIE: Play in editor total start time 0,161 seconds.
+[2021.05.15-03.50.52:532][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.50.52:532][859]LogWorld: BeginTearingDown for /Game/UEDPIE_0_2-SecondFloor
+[2021.05.15-03.50.52:533][859]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.50.52:535][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.50.52:543][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-03.50.52:552][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.50.52:560][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.50.52:561][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.15-03.50.52:562][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.15-03.50.52:587][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.05.15-03.50.52:621][860]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.05.15-03.50.53:101][912]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.15-03.50.53:110][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-03.50.53:110][912]PIE: New page: Sesión PIE (reproducción en el editor): 2-SecondFloor (14 may. 2021 21:50:53)
+[2021.05.15-03.50.53:139][912]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_2-SecondFloor
+[2021.05.15-03.50.53:168][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029285s)
+[2021.05.15-03.50.53:169][912]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.05.15-03.50.53:170][912]LogPlayLevel: PIE: World Init took: (0.001429s)
+[2021.05.15-03.50.53:170][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2-SecondFloor.2-SecondFloor to /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor (0.030956s)
+[2021.05.15-03.50.53:178][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.05.15-03.50.53:178][912]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.05.15-03.50.53:179][912]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-03.50.53:179][912]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-03.50.53:179][912]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-03.50.53:179][912]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-03.50.53:179][912]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-03.50.53:179][912]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-03.50.53:179][912]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-03.50.53:179][912]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-03.50.53:179][912]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-03.50.53:179][912]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-03.50.53:186][912]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-03.50.53:186][912]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-03.50.53:201][912]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.05.15-03.50.53:201][912]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-03.50.53:201][912]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-03.50.53:201][912]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-03.50.53:202][912]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-03.50.53:202][912]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.15-03.50.53:202][912]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.15-03.50.53:220][912]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.15-03.50.53:220][912]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.15-03.50.53:220][912]LogInit: FAudioDevice initialized.
+[2021.05.15-03.50.53:220][912]LogAudio: Display: Audio Device (ID: 5) registered with world '2-SecondFloor'.
+[2021.05.15-03.50.53:233][912]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.15-03.50.53:246][912]LogWorld: Bringing World /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor up for play (max tick rate 0) at 2021.05.15-00.50.53
+[2021.05.15-03.50.53:251][912]LogWorld: Bringing up level for play took: 0.018027
+[2021.05.15-03.50.53:252][912]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.05.15-03.50.53:260][912]PIE: El servidor ha iniciado la sesión
+[2021.05.15-03.50.53:261][912]PIE: Play in editor total start time 0,154 seconds.
+[2021.05.15-03.51.00:293][749]LogBlueprintUserMessages: [RangedGoblinProjectile_C_18] hit
+[2021.05.15-03.51.10:652][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.51.10:652][976]LogWorld: BeginTearingDown for /Game/UEDPIE_0_2-SecondFloor
+[2021.05.15-03.51.10:653][976]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.51.10:655][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.51.10:667][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-03.51.10:677][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.51.10:684][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.51.10:686][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.15-03.51.10:687][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.15-03.51.10:710][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.05.15-03.51.10:744][977]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.05.15-03.51.13:468][203]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PrincessProjectile.PrincessProjectile
+[2021.05.15-03.51.13:700][203]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.05.15-03.51.14:945][203]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.15-03.51.15:004][204]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.15-03.51.23:702][857]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/RangedGoblinProjectile.RangedGoblinProjectile
+[2021.05.15-03.51.33:432][569]LogEditorTransaction: Undo Delete current selection
+[2021.05.15-03.51.42:566][270]BlueprintLog: New page: Compilar RangedGoblinProjectile
+[2021.05.15-03.51.42:621][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.05.15-03.51.42:676][270]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.15-03.51.43:274][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/RangedGoblinProjectile" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/RangedGoblinProjectile.uasset" SILENT=true
+[2021.05.15-03.51.43:294][315]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinProjectile596295434FD8D8A7F0B3ABB78C8BFEFE.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/RangedGoblinProjectile.uasset'
+[2021.05.15-03.51.43:308][315]AssetCheck: New page: Asset Save: RangedGoblinProjectile
+[2021.05.15-03.51.43:308][315]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/RangedGoblinProjectile.RangedGoblinProjectile
+[2021.05.15-03.51.44:258][391]LogSlate: Window 'RangedGoblinProjectile' being destroyed
+[2021.05.15-03.51.44:264][391]LogSlate: Window 'RangedGoblinProjectile' being destroyed
+[2021.05.15-03.51.44:267][391]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.51.44:267][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.51.44:323][391]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.15-03.51.44:324][391]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.51.44:324][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.51.49:372][781]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/Enemy.Enemy
+[2021.05.15-03.52.09:523][389]BlueprintLog: New page: Compilar Enemy
+[2021.05.15-03.52.09:644][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.05.15-03.52.10:235][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/Enemy" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/Enemy.uasset" SILENT=true
+[2021.05.15-03.52.10:260][431]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/EnemyAB2A8E7E4F7277103AC4F79E8281C788.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/Enemy.uasset'
+[2021.05.15-03.52.10:275][431]AssetCheck: New page: Asset Save: Enemy
+[2021.05.15-03.52.10:275][431]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/Enemy.Enemy
+[2021.05.15-03.52.27:919][  5]LogSlate: Window 'Enemy' being destroyed
+[2021.05.15-03.52.27:928][  5]LogSlate: Window 'Enemy' being destroyed
+[2021.05.15-03.52.27:931][  5]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.52.27:932][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.52.30:947][242]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/RangedGoblin.RangedGoblin
+[2021.05.15-03.52.38:257][718]LogSlate: Window 'RangedGoblin' being destroyed
+[2021.05.15-03.52.38:267][718]LogSlate: Window 'RangedGoblin' being destroyed
+[2021.05.15-03.52.38:309][718]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.52.38:309][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.52.39:206][811]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.15-03.52.39:214][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-03.52.39:214][811]PIE: New page: Sesión PIE (reproducción en el editor): 2-SecondFloor (14 may. 2021 21:52:39)
+[2021.05.15-03.52.39:248][811]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_2-SecondFloor
+[2021.05.15-03.52.39:276][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027360s)
+[2021.05.15-03.52.39:277][811]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.05.15-03.52.39:277][811]LogPlayLevel: PIE: World Init took: (0.001540s)
+[2021.05.15-03.52.39:277][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2-SecondFloor.2-SecondFloor to /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor (0.029142s)
+[2021.05.15-03.52.39:304][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.05.15-03.52.39:307][811]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.05.15-03.52.39:307][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-03.52.39:307][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-03.52.39:307][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-03.52.39:307][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-03.52.39:307][811]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-03.52.39:307][811]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-03.52.39:307][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-03.52.39:307][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-03.52.39:307][811]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-03.52.39:307][811]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-03.52.39:314][811]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-03.52.39:314][811]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-03.52.39:330][811]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.05.15-03.52.39:330][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-03.52.39:330][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-03.52.39:330][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-03.52.39:331][811]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-03.52.39:331][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.15-03.52.39:331][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.15-03.52.39:349][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.15-03.52.39:349][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.15-03.52.39:349][811]LogInit: FAudioDevice initialized.
+[2021.05.15-03.52.39:349][811]LogAudio: Display: Audio Device (ID: 6) registered with world '2-SecondFloor'.
+[2021.05.15-03.52.39:358][811]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.15-03.52.39:373][811]LogWorld: Bringing World /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor up for play (max tick rate 0) at 2021.05.15-00.52.39
+[2021.05.15-03.52.39:377][811]LogWorld: Bringing up level for play took: 0.018380
+[2021.05.15-03.52.39:377][811]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.05.15-03.52.39:386][811]PIE: El servidor ha iniciado la sesión
+[2021.05.15-03.52.39:387][811]PIE: Play in editor total start time 0,176 seconds.
+[2021.05.15-03.53.16:201][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.53.16:201][197]LogWorld: BeginTearingDown for /Game/UEDPIE_0_2-SecondFloor
+[2021.05.15-03.53.16:202][197]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.53.16:205][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.53.16:213][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-03.53.16:225][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.53.16:245][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.15-03.53.16:246][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.15-03.53.16:247][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.15-03.53.16:267][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.53.16:273][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.05.15-03.53.16:306][198]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.05.15-03.53.17:516][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2-SecondFloor" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.15-03.53.17:536][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.05.15-03.53.17:683][330]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/2-SecondFloor9FE709474069EC9456ADC4A009CB7ACF.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor.umap'
+[2021.05.15-03.53.17:691][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2-SecondFloor_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor_BuiltData.uasset" SILENT=true
+[2021.05.15-03.53.17:734][330]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/2-SecondFloor_BuiltDataA07C830246093A0B5B51E7B4C878915C.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor_BuiltData.uasset'
+[2021.05.15-03.53.17:751][330]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.15-03.53.17:751][330]LogContentValidation: Display: Validating World /Game/2-SecondFloor.2-SecondFloor
+[2021.05.15-03.53.17:751][330]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2-SecondFloor_BuiltData.2-SecondFloor_BuiltData
