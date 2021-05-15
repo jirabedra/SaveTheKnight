@@ -1,0 +1,1382 @@
+﻿Log file open, 05/15/21 00:48:48
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: SaveTheKnight
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.328399
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 5 2400G with Radeon Vega Graphics    , GPU: NVIDIA GeForce GTX 1660
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.15-03.48.49:234][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.15-03.48.49:234][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.15-03.48.49:234][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Engine.ini]
+[2021.05.15-03.48.49:234][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.15-03.48.49:234][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2021.05.15-03.48.49:234][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Engine.ini]
+[2021.05.15-03.48.49:234][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Engine.ini]
+[2021.05.15-03.48.49:234][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.15-03.48.49:234][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.15-03.48.49:234][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Engine.ini]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.15-03.48.49:235][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Engine.ini]
+[2021.05.15-03.48.49:235][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Engine.ini]
+[2021.05.15-03.48.49:253][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Scalability.ini]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Scalability.ini]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Scalability.ini]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.15-03.48.49:253][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Scalability.ini]
+[2021.05.15-03.48.49:253][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Scalability.ini]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Scalability.ini]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.15-03.48.49:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Scalability.ini]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Scalability.ini]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.15-03.48.49:255][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.15-03.48.49:255][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.15-03.48.49:255][  0]LogHAL: Display: Platform has ~ 16 GB [17122947072 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.15-03.48.49:255][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.15-03.48.49:255][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Scalability.ini]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Scalability.ini]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Scalability.ini]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Scalability.ini]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.15-03.48.49:255][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Scalability.ini]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Scalability.ini]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.15-03.48.49:256][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.15-03.48.49:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.15-03.48.49:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.15-03.48.49:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.15-03.48.49:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.15-03.48.49:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.15-03.48.49:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.15-03.48.49:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.15-03.48.49:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.15-03.48.49:257][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Scalability.ini]
+[2021.05.15-03.48.49:257][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.15-03.48.49:257][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.15-03.48.49:257][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Scalability.ini]
+[2021.05.15-03.48.49:257][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.15-03.48.49:257][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.15-03.48.49:257][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.15-03.48.49:257][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.15-03.48.49:257][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.15-03.48.49:257][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.15-03.48.49:257][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.15-03.48.49:257][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/rafap/SaveTheKnight/Saved/Config/Windows/Engine.ini]
+[2021.05.15-03.48.49:257][  0]LogInit: Computer: DESKTOP-80B3B30
+[2021.05.15-03.48.49:257][  0]LogInit: User: rafap
+[2021.05.15-03.48.49:257][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.05.15-03.48.49:257][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.15-03.48.49:257][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.05.15-03.48.49:257][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.15-03.48.49:257][  0]LogMemory: Process Physical Memory: 130.86 MB used, 130.86 MB peak
+[2021.05.15-03.48.49:258][  0]LogMemory: Process Virtual Memory: 111.10 MB used, 111.10 MB peak
+[2021.05.15-03.48.49:258][  0]LogMemory: Physical Memory: 6114.19 MB used,  10215.52 MB free, 16329.71 MB total
+[2021.05.15-03.48.49:258][  0]LogMemory: Virtual Memory: 134208344.00 MB used,  9382.06 MB free, 134217728.00 MB total
+[2021.05.15-03.48.49:266][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.15-03.48.49:297][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.15-03.48.49:298][  0]LogInit: Using OS detected language (es-ES).
+[2021.05.15-03.48.49:298][  0]LogInit: Using OS detected locale (es-UY).
+[2021.05.15-03.48.49:304][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2021.05.15-03.48.49:344][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.15-03.48.49:362][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.15-03.48.49:426][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.15-03.48.49:426][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.15-03.48.49:681][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.15-03.48.49:681][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.15-03.48.49:681][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.15-03.48.49:681][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.15-03.48.49:803][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660' (Feature Level 11_0)
+[2021.05.15-03.48.49:803][  0]LogD3D11RHI:       5991/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.05.15-03.48.49:807][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.15-03.48.49:807][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.15-03.48.49:807][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.15-03.48.49:815][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.15-03.48.49:815][  0]LogD3D11RHI:     GPU DeviceId: 0x2184 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.15-03.48.49:815][  0]LogWindows: EnumDisplayDevices:
+[2021.05.15-03.48.49:816][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660' (P:1 D:1)
+[2021.05.15-03.48.49:816][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660' (P:0 D:0)
+[2021.05.15-03.48.49:816][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660' (P:0 D:0)
+[2021.05.15-03.48.49:817][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660' (P:0 D:0)
+[2021.05.15-03.48.49:817][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.15-03.48.49:817][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660
+[2021.05.15-03.48.49:817][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.05.15-03.48.49:817][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.05.15-03.48.49:817][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2021.05.15-03.48.49:899][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.15-03.48.49:899][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.15-03.48.49:900][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.15-03.48.49:920][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.15-03.48.49:922][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.15-03.48.50:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.15-03.48.50:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.15-03.48.50:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.15-03.48.50:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.15-03.48.50:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.15-03.48.50:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.15-03.48.50:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.15-03.48.50:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.15-03.48.50:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.15-03.48.50:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.15-03.48.50:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.15-03.48.50:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.15-03.48.50:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.15-03.48.50:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.15-03.48.50:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.15-03.48.50:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.15-03.48.50:467][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.15-03.48.50:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.15-03.48.50:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.15-03.48.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.15-03.48.50:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.15-03.48.50:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.15-03.48.50:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.15-03.48.50:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.15-03.48.50:566][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.15-03.48.50:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.15-03.48.50:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.15-03.48.50:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.15-03.48.50:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.15-03.48.50:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.15-03.48.50:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.15-03.48.50:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.15-03.48.50:646][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.15-03.48.50:657][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.15-03.48.50:752][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.15-03.48.50:752][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../../Users/rafap/SaveTheKnight/Intermediate/Shaders/WorkingDirectory/16212/).
+[2021.05.15-03.48.50:753][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rafap/AppData/Local/Temp/UnrealShaderWorkingDir/3B26263E4F0187DB3690DC988D970FF8/'.
+[2021.05.15-03.48.50:753][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.15-03.48.50:753][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.15-03.48.51:626][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.15-03.48.51:685][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/rafap/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.15-03.48.51:685][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rafap/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.15-03.48.51:685][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/rafap/SaveTheKnight/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.15-03.48.51:685][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.15-03.48.51:686][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/rafap/SaveTheKnight/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.15-03.48.51:686][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.15-03.48.51:700][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.15-03.48.51:700][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.15-03.48.51:700][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.15-03.48.51:709][  0]LogDerivedDataCache: Speed tests for C:/Users/rafap/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.05.15-03.48.51:709][  0]LogDerivedDataCache: Display: Performance to C:/Users/rafap/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=683.95MBs, RandomWriteSpeed=137.85MBs. Assigned SpeedClass 'Local'
+[2021.05.15-03.48.51:710][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rafap/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.15-03.48.51:710][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.15-03.48.51:710][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.15-03.48.51:768][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.15-03.48.51:769][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.15-03.48.51:798][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2021.05.15-03.48.52:108][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.15-03.48.52:108][  0]LogInit: Active device profile: [000001DC377F1E00][000001DC35A5FBC0 49] Windows
+[2021.05.15-03.48.52:108][  0]LogInit: Profiles: [000001DC377F1E00][000001DC35A5FBC0 49] Windows, [000001DC377BA400][000001DC35A6DD40 49] WindowsNoEditor, [000001DC377F3800][000001DC35A70200 49] WindowsServer, [000001DC377BA300][000001DC35A74380 49] WindowsClient, [000001DC377F2D00][000001DC35A78500 49] IOS, [000001DC377B8900][000001DC35A7C680 49] iPadAir, [000001DC377F3900][000001DC35A80800 49] iPadAir2, [000001DC3775B200][000001DC35A8EAC0 49] IPadPro, [000001DC3775B300][000001DC35A84B00 49] iPadAir3, [000001DC377F0200][000001DC35A98C80 49] iPadAir4, [000001DC3775B500][000001DC35A9CE00 49] iPadMini2, [000001DC377F0E00][000001DC35AA0F80 49] iPadMini3, [000001DC37759400][000001DC35AA5100 49] iPadMini4, [000001DC377F1000][000001DC35AA9280 49] iPadMini5, [000001DC377A2B00][000001DC35AB1540 49] iPhone6, [000001DC377A2C00][000001DC35AAD580 49] iPodTouch6, [000001DC3775BC00][000001DC35AB57C0 49] iPhone7, [000001DC3775BB00][000001DC35A63800 49] iPodTouch7, [000001DC377A0E00][000001DC35AB9940 49] iPhone5S, [000001DC3775BF00][000001DC35AC1AC0 49] iPhone6Plus, [000001DC377A1200][000001DC35AC5C40 49] iPhone6S, [000001DC3775A800][000001DC35AC8100 49] iPhone6SPlus, [000001DC377A2F00][000001DC35ACC280 49] iPhone7Plus, [000001DC3775B800][000001DC35AD0400 49] iPhoneSE, [000001DC377A3200][000001DC35AD4580 49] iPhone8, [000001DC37759600][000001DC35AD8700 49] iPhone8Plus, [000001DC377A1F00][000001DC35ADC880 49] iPhoneX, [000001DC37759D00][000001DC35AE0A00 49] iPhoneXS, [000001DC377A0300][000001DC35AE4B80 49] iPhoneXSMax, [000001DC37758600][000001DC35AE8D00 49] iPhoneXR, [000001DC377A3000][000001DC35AECE80 49] iPhone11, [000001DC3775A500][000001DC35AF1000 49] iPhone11Pro, [000001DC377A0600][000001DC35AF5180 49] iPhone11ProMax, [000001DC37759C00][000001DC35AF9300 49] iPhoneSE2, [000001DC377A1400][000001DC35AFD480 49] iPhone12Mini, [000001DC37759100][000001DC35B01600 49] iPhone12, [000001DC377A2A00][000001DC35ABD740 49] iPhone12Pro, [000001DC37758200][000001DC35B05880 49] iPhone12ProMax, [000001DC377A1B00][000001DC35B099C0 49] iPadPro105, [000001DC37759800][000001DC35B11B40 49] iPadPro129, [000001DC377A0D00][000001DC35B15CC0 49] iPadPro97, [000001DC377B9300][000001DC35B18180 49] iPadPro2_129, [000001DC3775A100][000001DC35B1C300 49] iPad5, [000001DC377B9900][000001DC35B20480 49] iPad6, [000001DC37759000][000001DC35B24600 49] iPad7, [000001DC377B8800][000001DC35B28780 49] iPad8, [000001DC37759300][000001DC35B2C900 49] iPadPro11, [000001DC377BA900][000001DC35B30A80 49] iPadPro2_11, [000001DC37758E00][000001DC35B34C00 49] iPadPro3_129, [000001DC377A1000][000001DC35B38D80 49] iPadPro4_129, [000001DC377B9F00][000001DC35B3CF00 49] AppleTV, [000001DC377A1C00][000001DC35B41080 49] AppleTV4K, [000001DC377B8D00][000001DC35B45200 49] TVOS, [000001DC377A3D00][000001DC35B49380 49] Mac, [000001DC377BAF00][000001DC35B4D500 49] MacClient, [000001DC377A2800][000001DC35351680 49] MacNoEditor, [000001DC377BBD00][000001DC35B0D7C0 49] MacServer, [000001DC37758400][000001DC35355900 49] Linux, [000001DC377BAA00][000001DC35359A40 49] LinuxNoEditor, [000001DC3775B600][000001DC3535DB80 49] LinuxAArch64NoEditor, [000001DC377BA000][000001DC35365D00 49] LinuxClient, [000001DC3775B400][000001DC353681C0 49] LinuxAArch64Client, [000001DC377B9C00][000001DC3536C340 49] LinuxServer, [000001DC37759F00][000001DC353704C0 49] LinuxAArch64Server, [000001DC377BB000][000001DC35374640 49] Android, [000001DC3775B700][000001DC353787C0 49] Android_Low, [000001DC377BB700][000001DC3537C940 49] Android_Mid, [000001DC37759900][000001DC35380AC0 49] Android_High, [000001DC377BBA00][000001DC35384C40 49] Android_Default, [000001DC3775B100][000001DC35388DC0 49] Android_Adreno4xx, [000001DC377B8200][000001DC3538CF40 49] Android_Adreno5xx_Low, [000001DC37758900][000001DC353910C0 49] Android_Adreno5xx, [000001DC377BBE00][000001DC35395240 49] Android_Adreno6xx, [000001DC37758C00][000001DC353993C0 49] Android_Adreno6xx_Vulkan, [000001DC377BBC00][000001DC3539D540 49] Android_Mali_T6xx, [000001DC37759E00][000001DC353A16C0 49] Android_Mali_T7xx, [000001DC377BA500][000001DC35361800 49] Android_Mali_T8xx, [000001DC37758300][000001DC353C7940 49] Android_Mali_G71, [000001DC377BAB00][000001DC353D7A80 49] Android_Mali_G72, [000001DC3775A700][000001DC353EFBC0 49] Android_Mali_G72_Vulkan, [000001DC377B9000][000001DC3540BD40 49] Android_Mali_G76, [000001DC37759B00][000001DC3540E200 49] Android_Mali_G76_Vulkan, [000001DC377B9D00][000001DC35412380 49] Android_Mali_G77, [000001DC37759200][000001DC35416500 49] Android_Mali_G77_Vulkan, [000001DC377B8F00][000001DC3541A680 49] Android_Vulkan_SM5, [000001DC3775B900][000001DC35502800 49] Android_PowerVR_G6xxx, [000001DC377B9100][000001DC35506980 49] Android_PowerVR_GT7xxx, [000001DC3775AC00][000001DC3550AB00 49] Android_PowerVR_GE8xxx, [000001DC377B9800][000001DC35516C80 49] Android_PowerVR_GM9xxx, [000001DC3775AF00][000001DC35520E00 49] Android_PowerVR_GM9xxx_Vulkan, [000001DC377B9A00][000001DC3552CF80 49] Android_TegraK1, [000001DC37758A00][000001DC3553B100 49] Android_Unknown_Vulkan, [000001DC377B9600][000001DC3553F280 49] Lumin, [000001DC3775BA00][000001DC35543400 49] Lumin_Desktop, [000001DC377B8100][000001DC35547580 49] HoloLens, 
+[2021.05.15-03.48.52:248][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.15-03.48.52:248][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.15-03.48.52:248][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.15-03.48.52:248][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.15-03.48.52:248][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.15-03.48.52:289][  0]LogNetVersion: SaveTheKnight 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1247351245)
+[2021.05.15-03.48.52:806][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.15-03.48.52:863][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.056526 seconds
+[2021.05.15-03.48.52:870][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.05.15-03.48.52:870][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.05.15-03.48.52:870][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.15-03.48.53:379][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.15-03.48.53:386][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.15-03.48.53:539][  0]SourceControl: El control de código fuente está desactivado
+[2021.05.15-03.48.53:540][  0]SourceControl: El control de código fuente está desactivado
+[2021.05.15-03.48.53:544][  0]SourceControl: El control de código fuente está desactivado
+[2021.05.15-03.48.53:549][  0]SourceControl: El control de código fuente está desactivado
+[2021.05.15-03.48.53:557][  0]SourceControl: El control de código fuente está desactivado
+[2021.05.15-03.48.53:571][  0]LogUProjectInfo: Found projects:
+[2021.05.15-03.48.53:581][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.05.15-03.48.53:582][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.05.15-03.48.53:827][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.15-03.48.53:856][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.15-03.48.53:856][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.15-03.48.54:012][  0]LogOcInput: OculusInput pre-init called
+[2021.05.15-03.48.54:031][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.15-03.48.54:031][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.15-03.48.54:044][  0]LogCollectionManager: Loaded 0 collections in 0.002322 seconds
+[2021.05.15-03.48.54:098][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rafap/SaveTheKnight/Saved/Collections/' took 0.00s
+[2021.05.15-03.48.54:098][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rafap/SaveTheKnight/Content/Developers/rafap/Collections/' took 0.00s
+[2021.05.15-03.48.54:098][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rafap/SaveTheKnight/Content/Collections/' took 0.00s
+[2021.05.15-03.48.54:115][  0]LogEngine: Initializing Engine...
+[2021.05.15-03.48.54:116][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.15-03.48.54:116][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.15-03.48.54:118][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.15-03.48.54:246][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.15-03.48.54:259][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.15-03.48.54:269][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.15-03.48.54:275][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.15-03.48.54:275][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.15-03.48.54:275][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-03.48.54:275][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-03.48.54:275][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-03.48.54:275][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-03.48.54:275][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-03.48.54:275][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-03.48.54:275][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-03.48.54:275][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-03.48.54:276][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-03.48.54:276][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-03.48.54:294][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-03.48.54:294][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-03.48.54:351][  0]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.05.15-03.48.54:355][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-03.48.54:357][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-03.48.54:357][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-03.48.54:358][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-03.48.54:358][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.15-03.48.54:358][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.15-03.48.54:360][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.15-03.48.54:360][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.15-03.48.54:360][  0]LogInit: FAudioDevice initialized.
+[2021.05.15-03.48.54:360][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.15-03.48.54:360][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.15-03.48.54:548][  0]LogDerivedDataCache: Saved boot cache 0.19s 77MB C:/Users/rafap/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.15-03.48.54:551][  0]LogInit: Texture streaming: Enabled
+[2021.05.15-03.48.54:570][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.05.15-03.48.54:578][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.15-03.48.54:578][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.15-03.48.54:586][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.15-03.48.54:624][  0]LogInit: Transaction tracking system initialized
+[2021.05.15-03.48.54:663][  0]BlueprintLog: New page: Cargar el editor
+[2021.05.15-03.48.54:774][  0]LocalizationService: Localization service is disabled
+[2021.05.15-03.48.54:814][  0]TimingProfiler: Initialize
+[2021.05.15-03.48.54:814][  0]TimingProfiler: OnSessionChanged
+[2021.05.15-03.48.54:814][  0]LoadingProfiler: Initialize
+[2021.05.15-03.48.54:814][  0]LoadingProfiler: OnSessionChanged
+[2021.05.15-03.48.54:814][  0]NetworkingProfiler: Initialize
+[2021.05.15-03.48.54:814][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.15-03.48.54:814][  0]MemoryProfiler: Initialize
+[2021.05.15-03.48.54:814][  0]MemoryProfiler: OnSessionChanged
+[2021.05.15-03.48.54:899][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.05.15-03.48.54:900][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.05.15-03.48.55:020][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.15-03.48.55:021][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.15-03.48.55:249][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rafap/SaveTheKnight/Content/' took 0.02s
+[2021.05.15-03.48.55:456][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.15-03.48.55:463][  0]SourceControl: El control de código fuente está desactivado
+[2021.05.15-03.48.55:463][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.733
+[2021.05.15-03.48.55:463][  0]Cmd: MAP LOAD FILE="../../../../../../Users/rafap/SaveTheKnight/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.15-03.48.55:464][  0]LightingResults: New page: Diseñar la iluminación
+[2021.05.15-03.48.55:465][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.48.55:465][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.48.55:465][  0]MapCheck: New page: Revisión del mapa
+[2021.05.15-03.48.55:465][  0]LightingResults: New page: Diseñar la iluminación
+[2021.05.15-03.48.55:473][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.05.15-03.48.55:839][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.05.15-03.48.55:841][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.15-03.48.55:848][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.15-03.48.55:859][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.05.15-03.48.55:859][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.15-03.48.55:859][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,283ms to complete.
+[2021.05.15-03.48.55:859][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.396
+[2021.05.15-03.48.55:862][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.132
+[2021.05.15-03.48.56:005][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.48.56:013][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.48.56:020][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.48.56:028][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.48.56:048][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0128 seconds. Added 3601 classes and 859 folders.
+[2021.05.15-03.48.56:052][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.15-03.48.56:055][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.15-03.48.56:055][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:055][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.15-03.48.56:055][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.05.15-03.48.56:056][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.15-03.48.56:056][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:056][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.15-03.48.56:056][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.05.15-03.48.56:057][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.15-03.48.56:057][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:057][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.15-03.48.56:057][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.05.15-03.48.56:058][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.15-03.48.56:058][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:058][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.15-03.48.56:058][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.05.15-03.48.56:059][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.15-03.48.56:059][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:059][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.15-03.48.56:059][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.05.15-03.48.56:061][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.15-03.48.56:061][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:061][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.15-03.48.56:061][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.05.15-03.48.56:062][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.15-03.48.56:062][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:062][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.15-03.48.56:062][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.05.15-03.48.56:064][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.15-03.48.56:064][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:064][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.15-03.48.56:064][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.05.15-03.48.56:065][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.15-03.48.56:065][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:065][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.15-03.48.56:065][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.05.15-03.48.56:066][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.15-03.48.56:066][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:066][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.15-03.48.56:066][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.05.15-03.48.56:067][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.15-03.48.56:067][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:067][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.15-03.48.56:067][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.05.15-03.48.56:068][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.15-03.48.56:068][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:068][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.15-03.48.56:068][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.05.15-03.48.56:070][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.15-03.48.56:070][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:070][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.15-03.48.56:070][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.05.15-03.48.56:071][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.15-03.48.56:071][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:071][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.15-03.48.56:071][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.05.15-03.48.56:072][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.15-03.48.56:072][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:072][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.15-03.48.56:072][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.05.15-03.48.56:073][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.15-03.48.56:073][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:073][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.15-03.48.56:073][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.05.15-03.48.56:074][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.15-03.48.56:074][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:074][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.15-03.48.56:074][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.05.15-03.48.56:075][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.15-03.48.56:075][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:075][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.15-03.48.56:075][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.05.15-03.48.56:076][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.15-03.48.56:076][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:076][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.15-03.48.56:076][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.05.15-03.48.56:077][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.15-03.48.56:077][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:077][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.15-03.48.56:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.05.15-03.48.56:078][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.15-03.48.56:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.15-03.48.56:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2021.05.15-03.48.56:079][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.15-03.48.56:079][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:079][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.15-03.48.56:079][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2021.05.15-03.48.56:080][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.15-03.48.56:080][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:080][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.15-03.48.56:080][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2021.05.15-03.48.56:081][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.15-03.48.56:081][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:081][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.15-03.48.56:081][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2021.05.15-03.48.56:082][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.15-03.48.56:082][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:082][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.15-03.48.56:082][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2021.05.15-03.48.56:083][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.15-03.48.56:083][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.15-03.48.56:083][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.15-03.48.56:083][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2021.05.15-03.48.56:169][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.15-03.48.56:171][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.05.15-03.48.56:313][  0]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.15-03.48.56:315][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.15-03.48.56:321][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.15-03.48.56:480][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.05.15-03.48.56:782][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.15-03.48.56:782][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.05.15-03.48.56:782][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.05.15-03.48.56:782][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.05.15-03.48.56:782][  0]LogLoad: (Engine Initialization) Total time: 9.05 seconds
+[2021.05.15-03.48.56:782][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.15-03.48.56:782][  0]LogInit: First time updating LLM stats...
+[2021.05.15-03.48.56:841][  0]LogAssetRegistry: Asset discovery search completed in 5.0450 seconds
+[2021.05.15-03.48.56:843][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.05.15-03.48.56:907][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.15-03.48.56:964][  2]LogSlate: Took 0.000367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.15-03.48.58:554][179]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.05.15-03.48.58:559][179]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.05.15-03.49.01:933][570]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/rafap/SaveTheKnight/Content/' took 5.13s
+[2021.05.15-03.49.13:504][819]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.15-03.49.13:549][819]LogStaticMesh: Generando la malla estática ArcherPlatform...
+[2021.05.15-03.49.13:563][819]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Platforms/ArcherPlatform.ArcherPlatform
+[2021.05.15-03.49.13:663][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PLATAFORMAARQUEROs" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/PLATAFORMAARQUEROs.uasset" SILENT=true
+[2021.05.15-03.49.13:664][819]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/PLATAFORMAARQUEROs2AF17644461A1377ED76A9931C835C6B.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/PLATAFORMAARQUEROs.uasset'
+[2021.05.15-03.49.13:755][819]AssetCheck: New page: Asset Save: PLATAFORMAARQUEROs
+[2021.05.15-03.49.13:755][819]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/PLATAFORMAARQUEROs.PLATAFORMAARQUEROs
+[2021.05.15-03.49.17:438][229]LogSlate: Window 'Cambios de nombre fallidos' being destroyed
+[2021.05.15-03.49.30:326][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.05.15-03.49.32:887][283]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.15-03.49.32:981][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.05.15-03.49.32:988][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.15-03.49.32:994][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.15-03.49.33:000][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.15-03.49.33:007][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.05.15-03.49.33:012][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.05.15-03.49.33:019][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.15-03.49.33:025][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.15-03.49.33:032][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.05.15-03.49.33:038][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.15-03.49.33:044][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.15-03.49.33:051][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.15-03.49.33:057][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.05.15-03.49.33:074][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.05.15-03.49.33:080][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.15-03.49.44:825][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.05.15-03.49.45:021][318]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2021.05.15-03.49.45:023][318]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2021.05.15-03.49.45:087][318]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2-SecondFloor.2-SecondFloor
+[2021.05.15-03.49.45:087][318]Cmd: MAP LOAD FILE="../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.15-03.49.45:088][318]LightingResults: New page: Diseñar la iluminación
+[2021.05.15-03.49.45:088][318]LoadErrors: New page: Cargando mapa: 2-SecondFloor.umap
+[2021.05.15-03.49.45:091][318]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.49.45:091][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.49.45:091][318]MapCheck: New page: Revisión del mapa
+[2021.05.15-03.49.45:091][318]LightingResults: New page: Diseñar la iluminación
+[2021.05.15-03.49.45:097][318]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.15-03.49.45:103][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.05.15-03.49.45:104][318]LogAudio: Display: Audio Device (ID: 1) registered with world '2-SecondFloor'.
+[2021.05.15-03.49.45:111][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:111][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:111][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:111][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:111][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:111][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:112][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:112][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:112][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:112][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:112][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:112][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:115][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:115][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:116][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:116][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:154][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:154][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:155][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:155][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:155][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:155][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:156][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:156][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:157][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:157][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:157][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:157][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:158][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:158][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:159][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:159][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:159][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:159][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:160][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:160][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:161][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:161][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:161][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:161][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:162][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:162][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:163][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:163][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:163][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:163][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:164][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:165][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:165][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:165][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:166][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:166][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:183][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:183][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:184][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:184][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:184][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:184][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:189][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:189][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:190][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:190][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:190][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.15-03.49.45:190][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.15-03.49.45:344][318]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.15-03.49.45:344][318]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.05.15-03.49.45:362][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.05.15-03.49.45:367][318]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.15-03.49.45:368][318]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,226ms to complete.
+[2021.05.15-03.49.45:368][318]LogFileHelpers: Loading map '2-SecondFloor' took 0.280
+[2021.05.15-03.49.50:610][875]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.15-03.49.50:619][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-03.49.50:619][875]PIE: New page: Sesión PIE (reproducción en el editor): 2-SecondFloor (14 may. 2021 21:49:50)
+[2021.05.15-03.49.50:621][875]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.15-03.49.50:622][875]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.15-03.49.50:622][875]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_2-SecondFloor
+[2021.05.15-03.49.50:653][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030921s)
+[2021.05.15-03.49.50:654][875]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.05.15-03.49.50:655][875]LogPlayLevel: PIE: World Init took: (0.001336s)
+[2021.05.15-03.49.50:655][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2-SecondFloor.2-SecondFloor to /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor (0.032473s)
+[2021.05.15-03.49.50:662][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.05.15-03.49.50:663][875]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.15-03.49.50:663][875]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-03.49.50:663][875]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-03.49.50:663][875]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-03.49.50:663][875]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-03.49.50:663][875]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-03.49.50:663][875]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-03.49.50:663][875]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-03.49.50:663][875]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-03.49.50:664][875]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-03.49.50:664][875]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-03.49.50:671][875]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-03.49.50:671][875]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-03.49.50:687][875]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.05.15-03.49.50:687][875]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-03.49.50:687][875]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-03.49.50:688][875]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-03.49.50:688][875]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-03.49.50:688][875]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.15-03.49.50:688][875]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.15-03.49.50:705][875]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.15-03.49.50:705][875]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.15-03.49.50:705][875]LogInit: FAudioDevice initialized.
+[2021.05.15-03.49.50:705][875]LogAudio: Display: Audio Device (ID: 2) registered with world '2-SecondFloor'.
+[2021.05.15-03.49.50:737][875]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.15-03.49.50:752][875]LogWorld: Bringing World /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor up for play (max tick rate 0) at 2021.05.15-00.49.50
+[2021.05.15-03.49.50:757][875]LogWorld: Bringing up level for play took: 0.017922
+[2021.05.15-03.49.50:757][875]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.05.15-03.49.50:761][875]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.05.15-03.49.50:768][875]PIE: El servidor ha iniciado la sesión
+[2021.05.15-03.49.50:769][875]PIE: Play in editor total start time 0,153 seconds.
+[2021.05.15-03.49.53:123][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.49.53:123][128]LogWorld: BeginTearingDown for /Game/UEDPIE_0_2-SecondFloor
+[2021.05.15-03.49.53:124][128]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.49.53:127][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.49.53:137][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-03.49.53:140][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.49.53:147][128]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.15-03.49.53:147][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.15-03.49.53:148][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.15-03.49.53:167][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.49.53:172][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.05.15-03.49.53:192][129]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.05.15-03.49.57:882][565]LogContentBrowser: Deferred new asset folder creation: Carpeta nueva
+[2021.05.15-03.49.57:902][565]LogContentBrowser: Creating deferred item: Carpeta nueva
+[2021.05.15-03.50.00:972][923]LogContentBrowser: Attempting asset rename: Carpeta nueva -> Platforms
+[2021.05.15-03.50.00:973][923]LogContentBrowser: End creating deferred item Carpeta nueva
+[2021.05.15-03.50.10:864][732]LogMetaData: Removing '/Game/Blueprints/Platforms/ArcherPlatform.ArcherPlatform' ref from Metadata '/Game/Blueprints/ArcherPlatform.PackageMetaData'
+[2021.05.15-03.50.10:865][732]LogMetaData: Removing '/Game/Blueprints/Platforms/ArcherPlatformBP.ArcherPlatformBP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/ArcherPlatformBP.PackageMetaData'
+[2021.05.15-03.50.10:865][732]LogMetaData: Removing '/Game/Blueprints/Platforms/ArcherPlatformBP.ArcherPlatformBP_C' ref from Metadata '/Game/Blueprints/ArcherPlatformBP.PackageMetaData'
+[2021.05.15-03.50.10:865][732]LogMetaData: Removing '/Game/Blueprints/Platforms/ArcherPlatformBP.ArcherPlatformBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/ArcherPlatformBP.PackageMetaData'
+[2021.05.15-03.50.10:865][732]LogMetaData: Removing '/Game/Blueprints/Platforms/ArcherPlatformBP.ArcherPlatformBP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/ArcherPlatformBP.PackageMetaData'
+[2021.05.15-03.50.10:865][732]LogMetaData: Removing '/Game/Blueprints/Platforms/ArcherPlatformBP.ArcherPlatformBP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/ArcherPlatformBP.PackageMetaData'
+[2021.05.15-03.50.10:865][732]LogMetaData: Removing '/Game/Blueprints/Platforms/ArcherPlatformBP.SKEL_ArcherPlatformBP_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/ArcherPlatformBP.PackageMetaData'
+[2021.05.15-03.50.10:865][732]LogMetaData: Removing '/Game/Blueprints/Platforms/ArcherPlatformBP.SKEL_ArcherPlatformBP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/ArcherPlatformBP.PackageMetaData'
+[2021.05.15-03.50.10:865][732]LogMetaData: Removing '/Game/Blueprints/Platforms/ArcherPlatformBP.SKEL_ArcherPlatformBP_C:ReceiveTick' ref from Metadata '/Game/Blueprints/ArcherPlatformBP.PackageMetaData'
+[2021.05.15-03.50.10:865][732]LogMetaData: Removing '/Game/Blueprints/Platforms/ArcherPlatformBP.SKEL_ArcherPlatformBP_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/ArcherPlatformBP.PackageMetaData'
+[2021.05.15-03.50.10:865][732]LogMetaData: Removing '/Game/Blueprints/Platforms/ArcherPlatformBP.SKEL_ArcherPlatformBP_C' ref from Metadata '/Game/Blueprints/ArcherPlatformBP.PackageMetaData'
+[2021.05.15-03.50.10:871][732]LogMetaData: Removing '/Game/Blueprints/Platforms/BullseyePlatform.BullseyePlatform:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:871][732]LogMetaData: Removing '/Game/Blueprints/Platforms/BullseyePlatform.BullseyePlatform_C' ref from Metadata '/Game/Blueprints/BullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:871][732]LogMetaData: Removing '/Game/Blueprints/Platforms/BullseyePlatform.BullseyePlatform:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:871][732]LogMetaData: Removing '/Game/Blueprints/Platforms/BullseyePlatform.BullseyePlatform:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:871][732]LogMetaData: Removing '/Game/Blueprints/Platforms/BullseyePlatform.BullseyePlatform:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:871][732]LogMetaData: Removing '/Game/Blueprints/Platforms/BullseyePlatform.SKEL_BullseyePlatform_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:871][732]LogMetaData: Removing '/Game/Blueprints/Platforms/BullseyePlatform.SKEL_BullseyePlatform_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:871][732]LogMetaData: Removing '/Game/Blueprints/Platforms/BullseyePlatform.SKEL_BullseyePlatform_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:871][732]LogMetaData: Removing '/Game/Blueprints/Platforms/BullseyePlatform.SKEL_BullseyePlatform_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:871][732]LogMetaData: Removing '/Game/Blueprints/Platforms/BullseyePlatform.SKEL_BullseyePlatform_C' ref from Metadata '/Game/Blueprints/BullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:871][732]LogMetaData: Removing '/Game/Blueprints/Platforms/BullseyePlatform.BullseyePlatform_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:871][732]LogMetaData: Removing '/Game/Blueprints/Platforms/BullseyePlatform.BullseyePlatform_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:876][732]LogMetaData: Removing '/Game/Blueprints/Platforms/FloatingBullseyePlatform.FloatingBullseyePlatform_C' ref from Metadata '/Game/Blueprints/FloatingBullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:876][732]LogMetaData: Removing '/Game/Blueprints/Platforms/FloatingBullseyePlatform.SKEL_FloatingBullseyePlatform_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/FloatingBullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:876][732]LogMetaData: Removing '/Game/Blueprints/Platforms/FloatingBullseyePlatform.SKEL_FloatingBullseyePlatform_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/FloatingBullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:876][732]LogMetaData: Removing '/Game/Blueprints/Platforms/FloatingBullseyePlatform.SKEL_FloatingBullseyePlatform_C:ReceiveTick' ref from Metadata '/Game/Blueprints/FloatingBullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:876][732]LogMetaData: Removing '/Game/Blueprints/Platforms/FloatingBullseyePlatform.SKEL_FloatingBullseyePlatform_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/FloatingBullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:876][732]LogMetaData: Removing '/Game/Blueprints/Platforms/FloatingBullseyePlatform.SKEL_FloatingBullseyePlatform_C' ref from Metadata '/Game/Blueprints/FloatingBullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:876][732]LogMetaData: Removing '/Game/Blueprints/Platforms/FloatingBullseyePlatform.FloatingBullseyePlatform_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/FloatingBullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:876][732]LogMetaData: Removing '/Game/Blueprints/Platforms/FloatingBullseyePlatform.FloatingBullseyePlatform_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/FloatingBullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:876][732]LogMetaData: Removing '/Game/Blueprints/Platforms/FloatingBullseyePlatform.FloatingBullseyePlatform_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/FloatingBullseyePlatform.PackageMetaData'
+[2021.05.15-03.50.10:877][732]LogMetaData: Removing '/Game/Blueprints/Platforms/IntermittentPlatform.IntermittentPlatform:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/IntermittentPlatform.PackageMetaData'
+[2021.05.15-03.50.10:877][732]LogMetaData: Removing '/Game/Blueprints/Platforms/IntermittentPlatform.IntermittentPlatform_C' ref from Metadata '/Game/Blueprints/IntermittentPlatform.PackageMetaData'
+[2021.05.15-03.50.10:877][732]LogMetaData: Removing '/Game/Blueprints/Platforms/IntermittentPlatform.IntermittentPlatform:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/IntermittentPlatform.PackageMetaData'
+[2021.05.15-03.50.10:877][732]LogMetaData: Removing '/Game/Blueprints/Platforms/IntermittentPlatform.IntermittentPlatform:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/IntermittentPlatform.PackageMetaData'
+[2021.05.15-03.50.10:877][732]LogMetaData: Removing '/Game/Blueprints/Platforms/IntermittentPlatform.IntermittentPlatform:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/IntermittentPlatform.PackageMetaData'
+[2021.05.15-03.50.10:877][732]LogMetaData: Removing '/Game/Blueprints/Platforms/IntermittentPlatform.SKEL_IntermittentPlatform_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/IntermittentPlatform.PackageMetaData'
+[2021.05.15-03.50.10:877][732]LogMetaData: Removing '/Game/Blueprints/Platforms/IntermittentPlatform.SKEL_IntermittentPlatform_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/IntermittentPlatform.PackageMetaData'
+[2021.05.15-03.50.10:877][732]LogMetaData: Removing '/Game/Blueprints/Platforms/IntermittentPlatform.SKEL_IntermittentPlatform_C:ReceiveTick' ref from Metadata '/Game/Blueprints/IntermittentPlatform.PackageMetaData'
+[2021.05.15-03.50.10:877][732]LogMetaData: Removing '/Game/Blueprints/Platforms/IntermittentPlatform.SKEL_IntermittentPlatform_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/IntermittentPlatform.PackageMetaData'
+[2021.05.15-03.50.10:877][732]LogMetaData: Removing '/Game/Blueprints/Platforms/IntermittentPlatform.SKEL_IntermittentPlatform_C' ref from Metadata '/Game/Blueprints/IntermittentPlatform.PackageMetaData'
+[2021.05.15-03.50.10:877][732]LogMetaData: Removing '/Game/Blueprints/Platforms/IntermittentPlatform.IntermittentPlatform_C:ReceiveTick' ref from Metadata '/Game/Blueprints/IntermittentPlatform.PackageMetaData'
+[2021.05.15-03.50.10:883][732]LogMetaData: Removing '/Game/Blueprints/Platforms/PairOfPlatforms.PairOfPlatforms_C' ref from Metadata '/Game/Blueprints/PairOfPlatforms.PackageMetaData'
+[2021.05.15-03.50.10:883][732]LogMetaData: Removing '/Game/Blueprints/Platforms/PairOfPlatforms.PairOfPlatforms:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/PairOfPlatforms.PackageMetaData'
+[2021.05.15-03.50.10:883][732]LogMetaData: Removing '/Game/Blueprints/Platforms/PairOfPlatforms.PairOfPlatforms:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/PairOfPlatforms.PackageMetaData'
+[2021.05.15-03.50.10:883][732]LogMetaData: Removing '/Game/Blueprints/Platforms/PairOfPlatforms.PairOfPlatforms:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/PairOfPlatforms.PackageMetaData'
+[2021.05.15-03.50.10:883][732]LogMetaData: Removing '/Game/Blueprints/Platforms/PairOfPlatforms.PairOfPlatforms:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/PairOfPlatforms.PackageMetaData'
+[2021.05.15-03.50.10:883][732]LogMetaData: Removing '/Game/Blueprints/Platforms/PairOfPlatforms.PairOfPlatforms:InvertPlatforms.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/PairOfPlatforms.PackageMetaData'
+[2021.05.15-03.50.10:883][732]LogMetaData: Removing '/Game/Blueprints/Platforms/PairOfPlatforms.SKEL_PairOfPlatforms_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/PairOfPlatforms.PackageMetaData'
+[2021.05.15-03.50.10:883][732]LogMetaData: Removing '/Game/Blueprints/Platforms/PairOfPlatforms.SKEL_PairOfPlatforms_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/PairOfPlatforms.PackageMetaData'
+[2021.05.15-03.50.10:883][732]LogMetaData: Removing '/Game/Blueprints/Platforms/PairOfPlatforms.SKEL_PairOfPlatforms_C:ReceiveTick' ref from Metadata '/Game/Blueprints/PairOfPlatforms.PackageMetaData'
+[2021.05.15-03.50.10:883][732]LogMetaData: Removing '/Game/Blueprints/Platforms/PairOfPlatforms.SKEL_PairOfPlatforms_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/PairOfPlatforms.PackageMetaData'
+[2021.05.15-03.50.10:883][732]LogMetaData: Removing '/Game/Blueprints/Platforms/PairOfPlatforms.SKEL_PairOfPlatforms_C' ref from Metadata '/Game/Blueprints/PairOfPlatforms.PackageMetaData'
+[2021.05.15-03.50.10:883][732]LogMetaData: Removing '/Game/Blueprints/Platforms/PairOfPlatforms.PairOfPlatforms_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/PairOfPlatforms.PackageMetaData'
+[2021.05.15-03.50.10:883][732]LogMetaData: Removing '/Game/Blueprints/Platforms/PairOfPlatforms.PairOfPlatforms_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/PairOfPlatforms.PackageMetaData'
+[2021.05.15-03.50.10:888][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SimplePlatform.SimplePlatform:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/SimplePlatform.PackageMetaData'
+[2021.05.15-03.50.10:888][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SimplePlatform.SimplePlatform_C' ref from Metadata '/Game/Blueprints/SimplePlatform.PackageMetaData'
+[2021.05.15-03.50.10:888][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SimplePlatform.SimplePlatform:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/SimplePlatform.PackageMetaData'
+[2021.05.15-03.50.10:888][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SimplePlatform.SimplePlatform:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/SimplePlatform.PackageMetaData'
+[2021.05.15-03.50.10:888][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SimplePlatform.SimplePlatform:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/SimplePlatform.PackageMetaData'
+[2021.05.15-03.50.10:888][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SimplePlatform.SKEL_SimplePlatform_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/SimplePlatform.PackageMetaData'
+[2021.05.15-03.50.10:888][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SimplePlatform.SKEL_SimplePlatform_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/SimplePlatform.PackageMetaData'
+[2021.05.15-03.50.10:888][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SimplePlatform.SKEL_SimplePlatform_C:ReceiveTick' ref from Metadata '/Game/Blueprints/SimplePlatform.PackageMetaData'
+[2021.05.15-03.50.10:888][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SimplePlatform.SKEL_SimplePlatform_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/SimplePlatform.PackageMetaData'
+[2021.05.15-03.50.10:888][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SimplePlatform.SKEL_SimplePlatform_C' ref from Metadata '/Game/Blueprints/SimplePlatform.PackageMetaData'
+[2021.05.15-03.50.10:888][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SimplePlatform.SimplePlatform_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/SimplePlatform.PackageMetaData'
+[2021.05.15-03.50.10:888][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SimplePlatform.SimplePlatform_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/SimplePlatform.PackageMetaData'
+[2021.05.15-03.50.10:893][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SplineMovingPlatform.SplineMovingPlatform:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/SplineMovingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:893][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SplineMovingPlatform.SplineMovingPlatform_C' ref from Metadata '/Game/Blueprints/SplineMovingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:893][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SplineMovingPlatform.SplineMovingPlatform:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/SplineMovingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:893][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SplineMovingPlatform.SKEL_SplineMovingPlatform_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/SplineMovingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:893][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SplineMovingPlatform.SKEL_SplineMovingPlatform_C:Move' ref from Metadata '/Game/Blueprints/SplineMovingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:893][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SplineMovingPlatform.SKEL_SplineMovingPlatform_C:StopMoving' ref from Metadata '/Game/Blueprints/SplineMovingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:893][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SplineMovingPlatform.SKEL_SplineMovingPlatform_C:ResetMovement' ref from Metadata '/Game/Blueprints/SplineMovingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:893][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SplineMovingPlatform.SKEL_SplineMovingPlatform_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/SplineMovingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:893][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SplineMovingPlatform.SKEL_SplineMovingPlatform_C' ref from Metadata '/Game/Blueprints/SplineMovingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:893][732]LogMetaData: Removing '/Game/Blueprints/Platforms/SplineMovingPlatform.SplineMovingPlatform_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/SplineMovingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:898][732]LogMetaData: Removing '/Game/Blueprints/Platforms/VanishingPlatform.VanishingPlatform:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/VanishingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:898][732]LogMetaData: Removing '/Game/Blueprints/Platforms/VanishingPlatform.VanishingPlatform_C' ref from Metadata '/Game/Blueprints/VanishingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:898][732]LogMetaData: Removing '/Game/Blueprints/Platforms/VanishingPlatform.VanishingPlatform:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/VanishingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:898][732]LogMetaData: Removing '/Game/Blueprints/Platforms/VanishingPlatform.VanishingPlatform:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/VanishingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:898][732]LogMetaData: Removing '/Game/Blueprints/Platforms/VanishingPlatform.VanishingPlatform:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/VanishingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:898][732]LogMetaData: Removing '/Game/Blueprints/Platforms/VanishingPlatform.SKEL_VanishingPlatform_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/VanishingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:898][732]LogMetaData: Removing '/Game/Blueprints/Platforms/VanishingPlatform.SKEL_VanishingPlatform_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/VanishingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:898][732]LogMetaData: Removing '/Game/Blueprints/Platforms/VanishingPlatform.SKEL_VanishingPlatform_C:ReceiveTick' ref from Metadata '/Game/Blueprints/VanishingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:898][732]LogMetaData: Removing '/Game/Blueprints/Platforms/VanishingPlatform.SKEL_VanishingPlatform_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/VanishingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:899][732]LogMetaData: Removing '/Game/Blueprints/Platforms/VanishingPlatform.SKEL_VanishingPlatform_C' ref from Metadata '/Game/Blueprints/VanishingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:899][732]LogMetaData: Removing '/Game/Blueprints/Platforms/VanishingPlatform.VanishingPlatform_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/VanishingPlatform.PackageMetaData'
+[2021.05.15-03.50.10:936][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platforms/ArcherPlatform" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Platforms/ArcherPlatform.uasset" SILENT=true
+[2021.05.15-03.50.10:945][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/ArcherPlatform9AD96F35425D429CD3A6DBB259A0FAAD.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Platforms/ArcherPlatform.uasset'
+[2021.05.15-03.50.10:958][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platforms/ArcherPlatformBP" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Platforms/ArcherPlatformBP.uasset" SILENT=true
+[2021.05.15-03.50.10:967][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/ArcherPlatformBPC740F0DA4918F3DA6F4F06BB3CF53C4F.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Platforms/ArcherPlatformBP.uasset'
+[2021.05.15-03.50.10:970][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ArcherPlatformBP" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/ArcherPlatformBP.uasset" SILENT=true
+[2021.05.15-03.50.10:970][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/ArcherPlatformBP9FA717D848A49159DA3081B23071084F.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/ArcherPlatformBP.uasset'
+[2021.05.15-03.50.10:983][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platforms/BullseyePlatform" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Platforms/BullseyePlatform.uasset" SILENT=true
+[2021.05.15-03.50.11:012][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BullseyePlatform567B752D4A4BB7948334C2A1D40A1681.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Platforms/BullseyePlatform.uasset'
+[2021.05.15-03.50.11:014][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BullseyePlatform" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/BullseyePlatform.uasset" SILENT=true
+[2021.05.15-03.50.11:015][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BullseyePlatform754F317943AE6E8A678F58B885CA1F23.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/BullseyePlatform.uasset'
+[2021.05.15-03.50.11:052][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/FloatingBullseyePlatformE6E60FED40D1C7893E0C66ABA4A18B59.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Platforms/FloatingBullseyePlatform.uasset'
+[2021.05.15-03.50.11:054][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FloatingBullseyePlatform" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/FloatingBullseyePlatform.uasset" SILENT=true
+[2021.05.15-03.50.11:055][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/FloatingBullseyePlatform8389DF3946FF4763B52B59A09D9D7FCE.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/FloatingBullseyePlatform.uasset'
+[2021.05.15-03.50.11:069][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platforms/IntermittentPlatform" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Platforms/IntermittentPlatform.uasset" SILENT=true
+[2021.05.15-03.50.11:091][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/IntermittentPlatform65D5D0614A92155FB06119943C1A9BE3.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Platforms/IntermittentPlatform.uasset'
+[2021.05.15-03.50.11:093][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IntermittentPlatform" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/IntermittentPlatform.uasset" SILENT=true
+[2021.05.15-03.50.11:094][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/IntermittentPlatform669B208F482CD284F6B8299599724359.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/IntermittentPlatform.uasset'
+[2021.05.15-03.50.11:108][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platforms/PairOfPlatforms" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Platforms/PairOfPlatforms.uasset" SILENT=true
+[2021.05.15-03.50.11:141][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/PairOfPlatforms0CFFA659477FD96C5A5544985486C6A1.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Platforms/PairOfPlatforms.uasset'
+[2021.05.15-03.50.11:143][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PairOfPlatforms" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/PairOfPlatforms.uasset" SILENT=true
+[2021.05.15-03.50.11:145][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/PairOfPlatforms8AFD7C0C48B4903E0C1F3ABD43589357.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/PairOfPlatforms.uasset'
+[2021.05.15-03.50.11:159][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platforms/SimplePlatform" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Platforms/SimplePlatform.uasset" SILENT=true
+[2021.05.15-03.50.11:180][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/SimplePlatformBF4AA26B4F03B7BDF7E1E4BC1697B2F9.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Platforms/SimplePlatform.uasset'
+[2021.05.15-03.50.11:183][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SimplePlatform" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/SimplePlatform.uasset" SILENT=true
+[2021.05.15-03.50.11:184][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/SimplePlatform19FF21B340B9F5000FFFC1914A133B59.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/SimplePlatform.uasset'
+[2021.05.15-03.50.11:197][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platforms/SplineMovingPlatform" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Platforms/SplineMovingPlatform.uasset" SILENT=true
+[2021.05.15-03.50.11:225][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/SplineMovingPlatformA4D382204FE47DCEC57F388666EACC21.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Platforms/SplineMovingPlatform.uasset'
+[2021.05.15-03.50.11:228][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SplineMovingPlatform" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/SplineMovingPlatform.uasset" SILENT=true
+[2021.05.15-03.50.11:229][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/SplineMovingPlatform1BF454A148110336365F0A910A8B2C71.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/SplineMovingPlatform.uasset'
+[2021.05.15-03.50.11:241][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platforms/VanishingPlatform" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Platforms/VanishingPlatform.uasset" SILENT=true
+[2021.05.15-03.50.11:277][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/VanishingPlatform4A3C14A648DA600EB72C82B8C76381A7.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Platforms/VanishingPlatform.uasset'
+[2021.05.15-03.50.11:280][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VanishingPlatform" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/VanishingPlatform.uasset" SILENT=true
+[2021.05.15-03.50.11:281][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/VanishingPlatform90414E8E4D9DDC3CC93B178F85C9ACB1.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/VanishingPlatform.uasset'
+[2021.05.15-03.50.11:338][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.05.15-03.50.11:352][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.05.15-03.50.11:358][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.05.15-03.50.11:374][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PLATAFORMAARQUEROs" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/PLATAFORMAARQUEROs.uasset" SILENT=true
+[2021.05.15-03.50.11:376][732]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/PLATAFORMAARQUEROsE91FB02048B34FD678CBF4BB17C584CD.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/PLATAFORMAARQUEROs.uasset'
+[2021.05.15-03.50.11:457][732]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Platforms/ArcherPlatformBP.ArcherPlatformBP
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Platforms/ArcherPlatform.ArcherPlatform
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Platforms/BullseyePlatform.BullseyePlatform
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Platforms/IntermittentPlatform.IntermittentPlatform
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/VanishingPlatform.VanishingPlatform
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Platforms/FloatingBullseyePlatform.FloatingBullseyePlatform
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/VanishingPlatform.Default__VanishingPlatform_C
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/VanishingPlatform.VanishingPlatform_C
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/SplineMovingPlatform.SplineMovingPlatform
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/SplineMovingPlatform.Default__SplineMovingPlatform_C
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/SplineMovingPlatform.SplineMovingPlatform_C
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/SimplePlatform.SimplePlatform
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/SimplePlatform.Default__SimplePlatform_C
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/SimplePlatform.SimplePlatform_C
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/PairOfPlatforms.PairOfPlatforms
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/PairOfPlatforms.Default__PairOfPlatforms_C
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Platforms/PairOfPlatforms.PairOfPlatforms
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/PairOfPlatforms.PairOfPlatforms_C
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/IntermittentPlatform.IntermittentPlatform
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/IntermittentPlatform.Default__IntermittentPlatform_C
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/IntermittentPlatform.IntermittentPlatform_C
+[2021.05.15-03.50.11:457][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/FloatingBullseyePlatform.FloatingBullseyePlatform
+[2021.05.15-03.50.11:458][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/FloatingBullseyePlatform.Default__FloatingBullseyePlatform_C
+[2021.05.15-03.50.11:458][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/FloatingBullseyePlatform.FloatingBullseyePlatform_C
+[2021.05.15-03.50.11:458][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BullseyePlatform.BullseyePlatform
+[2021.05.15-03.50.11:458][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BullseyePlatform.Default__BullseyePlatform_C
+[2021.05.15-03.50.11:458][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BullseyePlatform.BullseyePlatform_C
+[2021.05.15-03.50.11:458][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/ArcherPlatformBP.ArcherPlatformBP
+[2021.05.15-03.50.11:458][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/ArcherPlatformBP.Default__ArcherPlatformBP_C
+[2021.05.15-03.50.11:458][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/ArcherPlatformBP.ArcherPlatformBP_C
+[2021.05.15-03.50.11:458][732]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/PLATAFORMAARQUEROs.PLATAFORMAARQUEROs
+[2021.05.15-03.50.11:458][732]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Platforms/SimplePlatform.SimplePlatform
+[2021.05.15-03.50.11:458][732]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Platforms/SplineMovingPlatform.SplineMovingPlatform
+[2021.05.15-03.50.11:458][732]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Platforms/VanishingPlatform.VanishingPlatform
+[2021.05.15-03.50.17:590][926]LogEditorViewport: Clicking on Actor (LMB): WalkableBlock_C (WalkableBlock5)
+[2021.05.15-03.50.18:511][ 16]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.15-03.50.18:519][ 16]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.05.15-03.50.18:520][ 16]LogPlayLevel: [PlayLevel] Compiling 2-SecondFloor before play...
+[2021.05.15-03.50.18:554][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.05.15-03.50.18:555][ 16]LogPlayLevel: PlayLevel: Blueprint regeneration took 36 ms (1 blueprints)
+[2021.05.15-03.50.18:555][ 16]PIE: New page: Sesión PIE (reproducción en el editor): 2-SecondFloor (14 may. 2021 21:50:18)
+[2021.05.15-03.50.18:580][ 16]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_2-SecondFloor
+[2021.05.15-03.50.18:609][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029429s)
+[2021.05.15-03.50.18:610][ 16]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.05.15-03.50.18:611][ 16]LogPlayLevel: PIE: World Init took: (0.001684s)
+[2021.05.15-03.50.18:611][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2-SecondFloor.2-SecondFloor to /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor (0.031362s)
+[2021.05.15-03.50.18:618][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.05.15-03.50.18:618][ 16]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.15-03.50.18:618][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-03.50.18:618][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-03.50.18:618][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-03.50.18:619][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-03.50.18:619][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-03.50.18:619][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-03.50.18:619][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-03.50.18:619][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-03.50.18:619][ 16]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-03.50.18:619][ 16]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-03.50.18:626][ 16]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-03.50.18:626][ 16]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-03.50.18:642][ 16]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.05.15-03.50.18:642][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-03.50.18:642][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-03.50.18:642][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-03.50.18:643][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-03.50.18:643][ 16]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.15-03.50.18:643][ 16]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.15-03.50.18:660][ 16]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.15-03.50.18:660][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.15-03.50.18:660][ 16]LogInit: FAudioDevice initialized.
+[2021.05.15-03.50.18:660][ 16]LogAudio: Display: Audio Device (ID: 3) registered with world '2-SecondFloor'.
+[2021.05.15-03.50.18:672][ 16]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.15-03.50.18:689][ 16]LogWorld: Bringing World /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor up for play (max tick rate 0) at 2021.05.15-00.50.18
+[2021.05.15-03.50.18:694][ 16]LogWorld: Bringing up level for play took: 0.021261
+[2021.05.15-03.50.18:694][ 16]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.05.15-03.50.18:703][ 16]PIE: El servidor ha iniciado la sesión
+[2021.05.15-03.50.18:704][ 16]PIE: Play in editor total start time 0,188 seconds.
+[2021.05.15-03.50.20:733][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.50.20:733][251]LogWorld: BeginTearingDown for /Game/UEDPIE_0_2-SecondFloor
+[2021.05.15-03.50.20:734][251]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.50.20:737][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.50.20:745][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-03.50.20:756][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.50.20:762][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.50.20:764][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.15-03.50.20:765][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.15-03.50.20:788][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.05.15-03.50.20:822][252]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.05.15-03.50.21:586][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2-SecondFloor" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.15-03.50.21:593][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.05.15-03.50.21:749][336]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/2-SecondFloorA8C7F84E4A566F960D9B8BB5ECC17E91.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor.umap'
+[2021.05.15-03.50.21:760][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2-SecondFloor_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor_BuiltData.uasset" SILENT=true
+[2021.05.15-03.50.21:819][336]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/2-SecondFloor_BuiltData76163D56422DA4A9E0F8C9AB8F41C390.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor_BuiltData.uasset'
+[2021.05.15-03.50.21:835][336]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.15-03.50.21:835][336]LogContentValidation: Display: Validating World /Game/2-SecondFloor.2-SecondFloor
+[2021.05.15-03.50.21:835][336]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2-SecondFloor_BuiltData.2-SecondFloor_BuiltData
+[2021.05.15-03.50.49:006][482]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.15-03.50.49:018][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-03.50.49:018][482]PIE: New page: Sesión PIE (reproducción en el editor): 2-SecondFloor (14 may. 2021 21:50:49)
+[2021.05.15-03.50.49:039][482]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_2-SecondFloor
+[2021.05.15-03.50.49:078][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038070s)
+[2021.05.15-03.50.49:078][482]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.05.15-03.50.49:079][482]LogPlayLevel: PIE: World Init took: (0.001893s)
+[2021.05.15-03.50.49:079][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2-SecondFloor.2-SecondFloor to /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor (0.040275s)
+[2021.05.15-03.50.49:086][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.05.15-03.50.49:088][482]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.15-03.50.49:088][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-03.50.49:088][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-03.50.49:088][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-03.50.49:088][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-03.50.49:088][482]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-03.50.49:088][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-03.50.49:088][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-03.50.49:088][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-03.50.49:088][482]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-03.50.49:088][482]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-03.50.49:096][482]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-03.50.49:096][482]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-03.50.49:114][482]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.05.15-03.50.49:114][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-03.50.49:114][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-03.50.49:114][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-03.50.49:115][482]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-03.50.49:115][482]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.15-03.50.49:115][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.15-03.50.49:132][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.15-03.50.49:132][482]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.15-03.50.49:132][482]LogInit: FAudioDevice initialized.
+[2021.05.15-03.50.49:132][482]LogAudio: Display: Audio Device (ID: 4) registered with world '2-SecondFloor'.
+[2021.05.15-03.50.49:143][482]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.15-03.50.49:160][482]LogWorld: Bringing World /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor up for play (max tick rate 0) at 2021.05.15-00.50.49
+[2021.05.15-03.50.49:165][482]LogWorld: Bringing up level for play took: 0.021193
+[2021.05.15-03.50.49:165][482]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.05.15-03.50.49:174][482]PIE: El servidor ha iniciado la sesión
+[2021.05.15-03.50.49:175][482]PIE: Play in editor total start time 0,161 seconds.
+[2021.05.15-03.50.52:532][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.50.52:532][859]LogWorld: BeginTearingDown for /Game/UEDPIE_0_2-SecondFloor
+[2021.05.15-03.50.52:533][859]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.50.52:535][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.50.52:543][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-03.50.52:552][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.50.52:560][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.50.52:561][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.15-03.50.52:562][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.15-03.50.52:587][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.05.15-03.50.52:621][860]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.05.15-03.50.53:101][912]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.15-03.50.53:110][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-03.50.53:110][912]PIE: New page: Sesión PIE (reproducción en el editor): 2-SecondFloor (14 may. 2021 21:50:53)
+[2021.05.15-03.50.53:139][912]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_2-SecondFloor
+[2021.05.15-03.50.53:168][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029285s)
+[2021.05.15-03.50.53:169][912]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.05.15-03.50.53:170][912]LogPlayLevel: PIE: World Init took: (0.001429s)
+[2021.05.15-03.50.53:170][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2-SecondFloor.2-SecondFloor to /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor (0.030956s)
+[2021.05.15-03.50.53:178][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.05.15-03.50.53:178][912]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.05.15-03.50.53:179][912]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-03.50.53:179][912]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-03.50.53:179][912]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-03.50.53:179][912]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-03.50.53:179][912]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-03.50.53:179][912]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-03.50.53:179][912]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-03.50.53:179][912]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-03.50.53:179][912]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-03.50.53:179][912]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-03.50.53:186][912]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-03.50.53:186][912]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-03.50.53:201][912]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.05.15-03.50.53:201][912]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-03.50.53:201][912]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-03.50.53:201][912]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-03.50.53:202][912]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-03.50.53:202][912]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.15-03.50.53:202][912]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.15-03.50.53:220][912]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.15-03.50.53:220][912]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.15-03.50.53:220][912]LogInit: FAudioDevice initialized.
+[2021.05.15-03.50.53:220][912]LogAudio: Display: Audio Device (ID: 5) registered with world '2-SecondFloor'.
+[2021.05.15-03.50.53:233][912]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.15-03.50.53:246][912]LogWorld: Bringing World /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor up for play (max tick rate 0) at 2021.05.15-00.50.53
+[2021.05.15-03.50.53:251][912]LogWorld: Bringing up level for play took: 0.018027
+[2021.05.15-03.50.53:252][912]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.05.15-03.50.53:260][912]PIE: El servidor ha iniciado la sesión
+[2021.05.15-03.50.53:261][912]PIE: Play in editor total start time 0,154 seconds.
+[2021.05.15-03.51.00:293][749]LogBlueprintUserMessages: [RangedGoblinProjectile_C_18] hit
+[2021.05.15-03.51.10:652][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.51.10:652][976]LogWorld: BeginTearingDown for /Game/UEDPIE_0_2-SecondFloor
+[2021.05.15-03.51.10:653][976]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.51.10:655][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.51.10:667][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-03.51.10:677][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.51.10:684][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.51.10:686][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.15-03.51.10:687][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.15-03.51.10:710][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.05.15-03.51.10:744][977]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.05.15-03.51.13:468][203]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PrincessProjectile.PrincessProjectile
+[2021.05.15-03.51.13:700][203]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.05.15-03.51.14:945][203]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.15-03.51.15:004][204]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.15-03.51.23:702][857]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/RangedGoblinProjectile.RangedGoblinProjectile
+[2021.05.15-03.51.33:432][569]LogEditorTransaction: Undo Delete current selection
+[2021.05.15-03.51.42:566][270]BlueprintLog: New page: Compilar RangedGoblinProjectile
+[2021.05.15-03.51.42:621][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.05.15-03.51.42:676][270]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.15-03.51.43:274][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/RangedGoblinProjectile" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/RangedGoblinProjectile.uasset" SILENT=true
+[2021.05.15-03.51.43:294][315]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinProjectile596295434FD8D8A7F0B3ABB78C8BFEFE.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/RangedGoblinProjectile.uasset'
+[2021.05.15-03.51.43:308][315]AssetCheck: New page: Asset Save: RangedGoblinProjectile
+[2021.05.15-03.51.43:308][315]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/RangedGoblinProjectile.RangedGoblinProjectile
+[2021.05.15-03.51.44:258][391]LogSlate: Window 'RangedGoblinProjectile' being destroyed
+[2021.05.15-03.51.44:264][391]LogSlate: Window 'RangedGoblinProjectile' being destroyed
+[2021.05.15-03.51.44:267][391]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.51.44:267][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.51.44:323][391]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.15-03.51.44:324][391]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.51.44:324][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.51.49:372][781]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/Enemy.Enemy
+[2021.05.15-03.52.09:523][389]BlueprintLog: New page: Compilar Enemy
+[2021.05.15-03.52.09:644][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.05.15-03.52.10:235][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/Enemy" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/Enemy.uasset" SILENT=true
+[2021.05.15-03.52.10:260][431]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/EnemyAB2A8E7E4F7277103AC4F79E8281C788.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/Enemy.uasset'
+[2021.05.15-03.52.10:275][431]AssetCheck: New page: Asset Save: Enemy
+[2021.05.15-03.52.10:275][431]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/Enemy.Enemy
+[2021.05.15-03.52.27:919][  5]LogSlate: Window 'Enemy' being destroyed
+[2021.05.15-03.52.27:928][  5]LogSlate: Window 'Enemy' being destroyed
+[2021.05.15-03.52.27:931][  5]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.52.27:932][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.52.30:947][242]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/RangedGoblin.RangedGoblin
+[2021.05.15-03.52.38:257][718]LogSlate: Window 'RangedGoblin' being destroyed
+[2021.05.15-03.52.38:267][718]LogSlate: Window 'RangedGoblin' being destroyed
+[2021.05.15-03.52.38:309][718]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.52.38:309][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.52.39:206][811]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.15-03.52.39:214][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-03.52.39:214][811]PIE: New page: Sesión PIE (reproducción en el editor): 2-SecondFloor (14 may. 2021 21:52:39)
+[2021.05.15-03.52.39:248][811]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_2-SecondFloor
+[2021.05.15-03.52.39:276][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027360s)
+[2021.05.15-03.52.39:277][811]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.05.15-03.52.39:277][811]LogPlayLevel: PIE: World Init took: (0.001540s)
+[2021.05.15-03.52.39:277][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2-SecondFloor.2-SecondFloor to /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor (0.029142s)
+[2021.05.15-03.52.39:304][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.05.15-03.52.39:307][811]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.05.15-03.52.39:307][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-03.52.39:307][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-03.52.39:307][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-03.52.39:307][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-03.52.39:307][811]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-03.52.39:307][811]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-03.52.39:307][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-03.52.39:307][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-03.52.39:307][811]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-03.52.39:307][811]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-03.52.39:314][811]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-03.52.39:314][811]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-03.52.39:330][811]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.05.15-03.52.39:330][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-03.52.39:330][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-03.52.39:330][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-03.52.39:331][811]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-03.52.39:331][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.15-03.52.39:331][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.15-03.52.39:349][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.15-03.52.39:349][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.15-03.52.39:349][811]LogInit: FAudioDevice initialized.
+[2021.05.15-03.52.39:349][811]LogAudio: Display: Audio Device (ID: 6) registered with world '2-SecondFloor'.
+[2021.05.15-03.52.39:358][811]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.15-03.52.39:373][811]LogWorld: Bringing World /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor up for play (max tick rate 0) at 2021.05.15-00.52.39
+[2021.05.15-03.52.39:377][811]LogWorld: Bringing up level for play took: 0.018380
+[2021.05.15-03.52.39:377][811]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.05.15-03.52.39:386][811]PIE: El servidor ha iniciado la sesión
+[2021.05.15-03.52.39:387][811]PIE: Play in editor total start time 0,176 seconds.
+[2021.05.15-03.53.16:201][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.53.16:201][197]LogWorld: BeginTearingDown for /Game/UEDPIE_0_2-SecondFloor
+[2021.05.15-03.53.16:202][197]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-03.53.16:205][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.53.16:213][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-03.53.16:225][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-03.53.16:245][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.15-03.53.16:246][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.15-03.53.16:247][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.15-03.53.16:267][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-03.53.16:273][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.05.15-03.53.16:306][198]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.05.15-03.53.17:516][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2-SecondFloor" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.15-03.53.17:536][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.05.15-03.53.17:683][330]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/2-SecondFloor9FE709474069EC9456ADC4A009CB7ACF.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor.umap'
+[2021.05.15-03.53.17:691][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2-SecondFloor_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor_BuiltData.uasset" SILENT=true
+[2021.05.15-03.53.17:734][330]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/2-SecondFloor_BuiltDataA07C830246093A0B5B51E7B4C878915C.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor_BuiltData.uasset'
+[2021.05.15-03.53.17:751][330]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.15-03.53.17:751][330]LogContentValidation: Display: Validating World /Game/2-SecondFloor.2-SecondFloor
+[2021.05.15-03.53.17:751][330]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2-SecondFloor_BuiltData.2-SecondFloor_BuiltData
