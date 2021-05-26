@@ -2126,3 +2126,239 @@ Script call stack:
 [2021.05.26-19.47.06:382][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.05.26-19.47.06:414][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
 [2021.05.26-19.47.06:443][619]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.05.26-19.47.49:374][444]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/EnemyController.EnemyController
+[2021.05.26-19.48.04:619][541]LogEditorTransaction: Undo Delete current selection
+[2021.05.26-19.48.04:960][541]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.26-19.48.04:966][541]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.26-19.48.04:968][541]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.26-19.49.23:075][ 89]BlueprintLog: New page: Compilar EnemyController
+[2021.05.26-19.49.23:151][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2021.05.26-19.49.24:038][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/EnemyController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/EnemyController.uasset" SILENT=true
+[2021.05.26-19.49.24:063][144]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/EnemyController0DF7CBF24845EB785F1F56987D9CA453.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/EnemyController.uasset'
+[2021.05.26-19.49.24:081][144]AssetCheck: New page: Asset Save: EnemyController
+[2021.05.26-19.49.24:081][144]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/EnemyController.EnemyController
+[2021.05.26-19.49.54:854][215]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/STKAssets/Goblins/RangedGoblinAnimBP.RangedGoblinAnimBP
+[2021.05.26-19.49.54:863][215]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.26-19.51.29:192][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Princess" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/ThirdPersonBP/Blueprints/Princess.uasset" SILENT=true
+[2021.05.26-19.51.29:334][913]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/Princess853E9CC94D8EC9DC6653679250959FD7.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/ThirdPersonBP/Blueprints/Princess.uasset'
+[2021.05.26-19.51.29:355][913]AssetCheck: New page: Asset Save: Princess
+[2021.05.26-19.51.29:355][913]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Princess.Princess
+[2021.05.26-19.51.36:628][422]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-19.51.36:628][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-19.51.53:850][634]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/EnemyController.EnemyController
+[2021.05.26-19.51.56:175][760]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-19.51.56:175][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-19.51.57:800][866]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/RangedGoblinController.RangedGoblinController
+[2021.05.26-19.52.02:007][ 88]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/PrincessMeleeAttack_Montage9833C5CA46523B038A7A9CB9738FAD1D.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/STKAssets/PrincessWSword/PrincessMeleeAttack_Montage.uasset'
+[2021.05.26-19.52.02:027][ 88]AssetCheck: New page: Asset Save: PrincessMeleeAttack_Montage
+[2021.05.26-19.52.02:027][ 88]LogContentValidation: Display: Validating AnimMontage /Game/STKAssets/PrincessWSword/PrincessMeleeAttack_Montage.PrincessMeleeAttack_Montage
+[2021.05.26-19.52.03:065][151]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-19.52.03:065][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-19.52.03:124][151]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-19.52.03:124][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-19.52.03:140][151]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-19.52.03:140][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-19.52.03:635][181]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-19.52.03:635][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-19.52.03:647][181]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-19.52.03:647][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-19.52.03:752][181]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-19.52.03:752][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-19.52.04:835][254]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-19.52.04:835][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-19.53.34:983][228]BlueprintLog: New page: Compilar RangedGoblinController
+[2021.05.26-19.53.35:083][228]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.05.26-19.53.35:591][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/RangedGoblinController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset" SILENT=true
+[2021.05.26-19.53.35:609][262]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinController169EE5CA4A4D0180B1DC85A427397ACC.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset'
+[2021.05.26-19.53.35:632][262]AssetCheck: New page: Asset Save: RangedGoblinController
+[2021.05.26-19.53.35:632][262]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/RangedGoblinController.RangedGoblinController
+[2021.05.26-19.54.54:678][253]LogEditorTransaction: Undo Delete current selection
+[2021.05.26-19.54.54:801][253]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.26-19.54.55:487][290]LogEditorTransaction: Undo Crear enlace del Pin
+[2021.05.26-19.54.55:603][290]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.26-19.55.45:487][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/RangedGoblinController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset" SILENT=true
+[2021.05.26-19.55.45:509][ 87]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinController33F629A74004B27A438194BAFCB0C31C.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset'
+[2021.05.26-19.55.45:527][ 87]AssetCheck: New page: Asset Save: RangedGoblinController
+[2021.05.26-19.55.45:527][ 87]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/RangedGoblinController.RangedGoblinController
+[2021.05.26-19.55.45:728][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/RangedGoblinController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset" SILENT=true
+[2021.05.26-19.55.45:748][103]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinController5C7C1C574921A29DC7BE04B77FE48478.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset'
+[2021.05.26-19.55.45:763][103]AssetCheck: New page: Asset Save: RangedGoblinController
+[2021.05.26-19.55.45:763][103]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/RangedGoblinController.RangedGoblinController
+[2021.05.26-19.55.46:344][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/RangedGoblinController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset" SILENT=true
+[2021.05.26-19.55.46:362][151]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinControllerD3945553492A34ADD459FBAEBFFA3DCD.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset'
+[2021.05.26-19.55.46:380][151]AssetCheck: New page: Asset Save: RangedGoblinController
+[2021.05.26-19.55.46:380][151]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/RangedGoblinController.RangedGoblinController
+[2021.05.26-19.55.46:546][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/RangedGoblinController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset" SILENT=true
+[2021.05.26-19.55.46:564][162]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinControllerC8A0A33D4F864C2CE5A1109DB1F49AB5.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset'
+[2021.05.26-19.55.46:582][162]AssetCheck: New page: Asset Save: RangedGoblinController
+[2021.05.26-19.55.46:582][162]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/RangedGoblinController.RangedGoblinController
+[2021.05.26-19.55.46:844][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/RangedGoblinController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset" SILENT=true
+[2021.05.26-19.55.46:862][182]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinController703C5CDE42BD3FD4A79B93A84D37D699.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset'
+[2021.05.26-19.55.46:878][182]AssetCheck: New page: Asset Save: RangedGoblinController
+[2021.05.26-19.55.46:878][182]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/RangedGoblinController.RangedGoblinController
+[2021.05.26-19.55.47:027][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/RangedGoblinController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset" SILENT=true
+[2021.05.26-19.55.47:048][193]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinController6498D8BC41D154FFB96DFE8268E4AD58.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset'
+[2021.05.26-19.55.47:064][193]AssetCheck: New page: Asset Save: RangedGoblinController
+[2021.05.26-19.55.47:065][193]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/RangedGoblinController.RangedGoblinController
+[2021.05.26-19.55.47:169][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/RangedGoblinController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset" SILENT=true
+[2021.05.26-19.55.47:190][200]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinController3B382A7542C8BF86C37F4D84D1626D41.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset'
+[2021.05.26-19.55.47:206][200]AssetCheck: New page: Asset Save: RangedGoblinController
+[2021.05.26-19.55.47:206][200]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/RangedGoblinController.RangedGoblinController
+[2021.05.26-19.55.48:156][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/RangedGoblinController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset" SILENT=true
+[2021.05.26-19.55.48:178][278]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinControllerBA08621C451BE5F0EDB589841DA99A29.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset'
+[2021.05.26-19.55.48:201][278]AssetCheck: New page: Asset Save: RangedGoblinController
+[2021.05.26-19.55.48:201][278]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/RangedGoblinController.RangedGoblinController
+[2021.05.26-19.55.48:420][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/RangedGoblinController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset" SILENT=true
+[2021.05.26-19.55.48:440][294]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinControllerF188E4EC47F88F72D1BCBEB15D4C25B6.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset'
+[2021.05.26-19.55.48:456][294]AssetCheck: New page: Asset Save: RangedGoblinController
+[2021.05.26-19.55.48:456][294]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/RangedGoblinController.RangedGoblinController
+[2021.05.26-19.55.48:585][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/RangedGoblinController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset" SILENT=true
+[2021.05.26-19.55.48:606][303]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinController74493AA7485AF1E0EE0E34957CA2A1AD.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset'
+[2021.05.26-19.55.48:621][303]AssetCheck: New page: Asset Save: RangedGoblinController
+[2021.05.26-19.55.48:621][303]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/RangedGoblinController.RangedGoblinController
+[2021.05.26-19.55.50:004][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/RangedGoblinController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset" SILENT=true
+[2021.05.26-19.55.50:022][419]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinControllerDFD71A574C3532A332049E89F4DD5E48.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset'
+[2021.05.26-19.55.50:037][419]AssetCheck: New page: Asset Save: RangedGoblinController
+[2021.05.26-19.55.50:037][419]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/RangedGoblinController.RangedGoblinController
+[2021.05.26-19.55.50:155][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/RangedGoblinController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset" SILENT=true
+[2021.05.26-19.55.50:173][425]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinController67E14E1E4B3FCA27F168EB8B13F56C53.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset'
+[2021.05.26-19.55.50:188][425]AssetCheck: New page: Asset Save: RangedGoblinController
+[2021.05.26-19.55.50:188][425]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/RangedGoblinController.RangedGoblinController
+[2021.05.26-19.56.00:744][263]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Blueprints/Enemies/SimpleAI/RangedGoblinBB.RangedGoblinBB
+[2021.05.26-19.56.02:138][397]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.26-19.56.19:315][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/SimpleAI/RangedGoblinBB" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/RangedGoblinBB.uasset" SILENT=true
+[2021.05.26-19.56.19:318][239]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinBBBCF12A524519FEC240A0009A682639F3.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/RangedGoblinBB.uasset'
+[2021.05.26-19.56.19:344][239]AssetCheck: New page: Asset Save: RangedGoblinBB
+[2021.05.26-19.56.19:344][239]LogContentValidation: Display: Validating BlackboardData /Game/Blueprints/Enemies/SimpleAI/RangedGoblinBB.RangedGoblinBB
+[2021.05.26-19.56.23:062][646]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Blueprints/Enemies/SimpleAI/RangedGoblinBT.RangedGoblinBT
+[2021.05.26-19.56.38:499][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/SimpleAI/RangedGoblinBT" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/RangedGoblinBT.uasset" SILENT=true
+[2021.05.26-19.56.38:504][ 52]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinBT75922C7A4CD48B6811FA58B209A2B74F.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/RangedGoblinBT.uasset'
+[2021.05.26-19.56.38:523][ 52]AssetCheck: New page: Asset Save: RangedGoblinBT
+[2021.05.26-19.56.38:523][ 52]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/Enemies/SimpleAI/RangedGoblinBT.RangedGoblinBT
+[2021.05.26-19.56.38:932][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/SimpleAI/RangedGoblinBT" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/RangedGoblinBT.uasset" SILENT=true
+[2021.05.26-19.56.38:937][ 91]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinBT8A979F0A43F48A3064ADE496AEEB5CB4.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/RangedGoblinBT.uasset'
+[2021.05.26-19.56.38:951][ 91]AssetCheck: New page: Asset Save: RangedGoblinBT
+[2021.05.26-19.56.38:952][ 91]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/Enemies/SimpleAI/RangedGoblinBT.RangedGoblinBT
+[2021.05.26-19.56.39:173][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/SimpleAI/RangedGoblinBT" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/RangedGoblinBT.uasset" SILENT=true
+[2021.05.26-19.56.39:177][111]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinBTA99A3B7A437176DE4B29BDBEB3F3B4AF.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/RangedGoblinBT.uasset'
+[2021.05.26-19.56.39:192][111]AssetCheck: New page: Asset Save: RangedGoblinBT
+[2021.05.26-19.56.39:192][111]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/Enemies/SimpleAI/RangedGoblinBT.RangedGoblinBT
+[2021.05.26-19.56.48:019][825]BlueprintLog: New page: Compilar RangedGoblinController
+[2021.05.26-19.56.48:024][825]LogBlueprint: Error: [AssetLog] C:\Users\rafap\SaveTheKnight\Content\Blueprints\Enemies\RangedGoblinController.uasset: [Compiler] This blueprint (self) is not a Enemy_C, therefore ' Meta ' must have a connection.
+[2021.05.26-19.56.48:025][825]LogBlueprint: Error: [AssetLog] C:\Users\rafap\SaveTheKnight\Content\Blueprints\Enemies\RangedGoblinController.uasset: [Compiler] El nodo de la variable  Obtener Health  usa una meta no válida. Puede depender de un nodo que no esté conectado a la cadena de ejecución, y se haya eliminado.
+[2021.05.26-19.56.48:105][825]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2021.05.26-19.57.30:859][573]BlueprintLog: New page: Compilar RangedGoblinController
+[2021.05.26-19.57.30:863][573]LogBlueprint: Error: [AssetLog] C:\Users\rafap\SaveTheKnight\Content\Blueprints\Enemies\RangedGoblinController.uasset: [Compiler] El tipo de  Object  no está determinado. Conectar algo a  Proyectar a Enemy  para implicar un tipo específico.
+[2021.05.26-19.57.30:864][573]LogBlueprint: Error: [AssetLog] C:\Users\rafap\SaveTheKnight\Content\Blueprints\Enemies\RangedGoblinController.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Objeto Wildcard on pin Object
+[2021.05.26-19.57.30:935][573]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2021.05.26-19.57.40:091][162]BlueprintLog: New page: Compilar RangedGoblinController
+[2021.05.26-19.57.40:102][162]LogBlueprint: Warning: [AssetLog] C:\Users\rafap\SaveTheKnight\Content\Blueprints\Enemies\RangedGoblinController.uasset: [Compiler] 'Enemy' does not inherit from 'Ranged Goblin Controller' ( Proyectar a Enemy  would always fail).
+[2021.05.26-19.57.40:170][162]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.05.26-19.58.18:767][188]BlueprintLog: New page: Compilar RangedGoblinController
+[2021.05.26-19.58.18:842][188]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2021.05.26-19.58.19:671][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/RangedGoblinController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset" SILENT=true
+[2021.05.26-19.58.19:695][250]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinControllerD2CA55AF470EFD913141C5B85BFD52E0.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset'
+[2021.05.26-19.58.19:717][250]AssetCheck: New page: Asset Save: RangedGoblinController
+[2021.05.26-19.58.19:717][250]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/RangedGoblinController.RangedGoblinController
+[2021.05.26-19.58.21:424][407]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-19.58.21:436][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-19.58.21:436][407]PIE: New page: Sesión PIE (reproducción en el editor): 2-SecondFloor (26 may. 2021 13:58:21)
+[2021.05.26-19.58.21:469][407]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_2-SecondFloor
+[2021.05.26-19.58.21:500][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031127s)
+[2021.05.26-19.58.21:501][407]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.05.26-19.58.21:502][407]LogPlayLevel: PIE: World Init took: (0.001529s)
+[2021.05.26-19.58.21:502][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2-SecondFloor.2-SecondFloor to /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor (0.032939s)
+[2021.05.26-19.58.21:548][407]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.05.26-19.58.21:550][407]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.05.26-19.58.21:550][407]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-19.58.21:550][407]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-19.58.21:550][407]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-19.58.21:550][407]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-19.58.21:550][407]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-19.58.21:550][407]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-19.58.21:550][407]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-19.58.21:550][407]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-19.58.21:551][407]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-19.58.21:551][407]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-19.58.21:560][407]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-19.58.21:560][407]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-19.58.21:578][407]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.05.26-19.58.21:578][407]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-19.58.21:578][407]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-19.58.21:578][407]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-19.58.21:579][407]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-19.58.21:579][407]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-19.58.21:579][407]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.26-19.58.21:598][407]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-19.58.21:599][407]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-19.58.21:599][407]LogInit: FAudioDevice initialized.
+[2021.05.26-19.58.21:599][407]LogAudio: Display: Audio Device (ID: 14) registered with world '2-SecondFloor'.
+[2021.05.26-19.58.21:613][407]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.26-19.58.21:634][407]LogWorld: Bringing World /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor up for play (max tick rate 0) at 2021.05.26-16.58.21
+[2021.05.26-19.58.21:639][407]LogWorld: Bringing up level for play took: 0.025515
+[2021.05.26-19.58.21:639][407]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2021.05.26-19.58.21:649][407]PIE: El servidor ha iniciado la sesión
+[2021.05.26-19.58.21:650][407]PIE: Play in editor total start time 0,219 seconds.
+[2021.05.26-19.58.27:727][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-19.58.27:727][ 37]LogWorld: BeginTearingDown for /Game/UEDPIE_0_2-SecondFloor
+[2021.05.26-19.58.27:728][ 37]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-19.58.27:731][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-19.58.27:744][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.26-19.58.27:752][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-19.58.27:797][ 37]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-19.58.27:797][ 37]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-19.58.27:798][ 37]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-19.58.27:823][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-19.58.27:831][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.05.26-19.58.27:861][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2021.05.26-19.58.28:633][123]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-19.58.28:646][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-19.58.28:646][123]PIE: New page: Sesión PIE (reproducción en el editor): 2-SecondFloor (26 may. 2021 13:58:28)
+[2021.05.26-19.58.28:679][123]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_2-SecondFloor
+[2021.05.26-19.58.28:708][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029379s)
+[2021.05.26-19.58.28:710][123]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.05.26-19.58.28:710][123]LogPlayLevel: PIE: World Init took: (0.002016s)
+[2021.05.26-19.58.28:711][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2-SecondFloor.2-SecondFloor to /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor (0.031755s)
+[2021.05.26-19.58.28:755][123]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.05.26-19.58.28:756][123]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.05.26-19.58.28:756][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-19.58.28:756][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-19.58.28:756][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-19.58.28:756][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-19.58.28:756][123]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-19.58.28:756][123]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-19.58.28:756][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-19.58.28:756][123]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-19.58.28:757][123]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-19.58.28:757][123]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-19.58.28:765][123]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-19.58.28:765][123]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-19.58.28:780][123]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.05.26-19.58.28:781][123]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-19.58.28:781][123]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-19.58.28:781][123]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-19.58.28:781][123]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-19.58.28:781][123]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-19.58.28:781][123]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.26-19.58.28:801][123]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-19.58.28:802][123]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-19.58.28:802][123]LogInit: FAudioDevice initialized.
+[2021.05.26-19.58.28:802][123]LogAudio: Display: Audio Device (ID: 15) registered with world '2-SecondFloor'.
+[2021.05.26-19.58.28:809][123]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.26-19.58.28:828][123]LogWorld: Bringing World /Game/UEDPIE_0_2-SecondFloor.2-SecondFloor up for play (max tick rate 0) at 2021.05.26-16.58.28
+[2021.05.26-19.58.28:834][123]LogWorld: Bringing up level for play took: 0.023985
+[2021.05.26-19.58.28:834][123]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2021.05.26-19.58.28:844][123]PIE: El servidor ha iniciado la sesión
+[2021.05.26-19.58.28:845][123]PIE: Play in editor total start time 0,205 seconds.
+[2021.05.26-19.59.45:485][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-19.59.45:485][658]LogWorld: BeginTearingDown for /Game/UEDPIE_0_2-SecondFloor
+[2021.05.26-19.59.45:486][658]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-19.59.45:489][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-19.59.45:499][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.26-19.59.45:508][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-19.59.45:551][658]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-19.59.45:552][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-19.59.45:553][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-19.59.45:574][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-19.59.45:583][658]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.05.26-19.59.45:614][659]LogPlayLevel: Display: Destroying online subsystem :Context_54
