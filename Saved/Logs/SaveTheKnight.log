@@ -2362,3 +2362,248 @@ Script call stack:
 [2021.05.26-19.59.45:574][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.05.26-19.59.45:583][658]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
 [2021.05.26-19.59.45:614][659]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2021.05.26-19.59.51:075][801]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.26-19.59.51:915][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2-SecondFloor" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.26-19.59.51:962][866]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2021.05.26-19.59.52:123][866]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/2-SecondFloor6808C0164E699E29229FC0AD3842CD30.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor.umap'
+[2021.05.26-19.59.52:136][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2-SecondFloor_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor_BuiltData.uasset" SILENT=true
+[2021.05.26-19.59.52:209][866]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/2-SecondFloor_BuiltDataF00BE57243469FF7B572A0A182DDB87F.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor_BuiltData.uasset'
+[2021.05.26-19.59.52:230][866]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.26-19.59.52:230][866]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2-SecondFloor_BuiltData.2-SecondFloor_BuiltData
+[2021.05.26-19.59.52:230][866]LogContentValidation: Display: Validating World /Game/2-SecondFloor.2-SecondFloor
+[2021.05.26-20.00.36:932][241]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/EnemyController.EnemyController
+[2021.05.26-20.00.52:020][166]BlueprintLog: New page: Compilar EnemyController
+[2021.05.26-20.00.52:099][166]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2021.05.26-20.00.52:618][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/EnemyController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/EnemyController.uasset" SILENT=true
+[2021.05.26-20.00.52:646][195]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/EnemyController6559DF6149F334282DE4E6AB9018C53B.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/EnemyController.uasset'
+[2021.05.26-20.00.52:665][195]AssetCheck: New page: Asset Save: EnemyController
+[2021.05.26-20.00.52:665][195]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/EnemyController.EnemyController
+[2021.05.26-20.01.00:876][692]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Blueprints/Enemies/SimpleAI/EnemyBB.EnemyBB
+[2021.05.26-20.01.02:270][807]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.26-20.01.14:400][271]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Blueprints/Enemies/SimpleAI/EnemyBT.EnemyBT
+[2021.05.26-20.02.07:738][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/SimpleAI/EnemyBB" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/EnemyBB.uasset" SILENT=true
+[2021.05.26-20.02.07:741][910]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/EnemyBB1B1ADB05448E3CC33312B884C3E8E71E.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/EnemyBB.uasset'
+[2021.05.26-20.02.07:742][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/SimpleAI/EnemyBT" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/EnemyBT.uasset" SILENT=true
+[2021.05.26-20.02.07:755][910]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/EnemyBTE90CF059438BA5F24C8F619DF723791A.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/SimpleAI/EnemyBT.uasset'
+[2021.05.26-20.02.07:780][910]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.26-20.02.07:780][910]LogContentValidation: Display: Validating BlackboardData /Game/Blueprints/Enemies/SimpleAI/EnemyBB.EnemyBB
+[2021.05.26-20.02.07:780][910]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/Enemies/SimpleAI/EnemyBT.EnemyBT
+[2021.05.26-20.02.10:982][117]LogSlate: Window 'EnemyBT' being destroyed
+[2021.05.26-20.02.10:989][117]LogSlate: Window 'EnemyBT' being destroyed
+[2021.05.26-20.02.10:995][117]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.02.10:995][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.02.11:095][117]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.26-20.02.11:095][117]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.02.11:095][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.02.11:162][117]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.26-20.02.11:162][117]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.02.11:162][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.02.11:239][117]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.26-20.02.11:239][117]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.02.11:239][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.02.11:309][117]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.02.11:309][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.02.11:320][117]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.02.11:320][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.02.11:431][117]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.02.11:431][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.02.11:453][117]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.26-20.02.11:453][117]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.02.11:453][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.02.11:532][117]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.26-20.02.11:532][117]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.02.11:532][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.02.20:040][895]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.05.26-20.02.21:689][895]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 128X128)
+[2021.05.26-20.02.21:689][895]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2021.05.26-20.02.21:689][895]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2021.05.26-20.02.21:689][895]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2021.05.26-20.02.21:689][895]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 512X512)
+[2021.05.26-20.02.21:689][895]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2021.05.26-20.02.21:689][895]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2021.05.26-20.02.21:689][895]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2021.05.26-20.02.21:689][895]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 512X512)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 128X128)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 128X128)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 64X64)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 128X128)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 512X512)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 512X512)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 128X128)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 128X128)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 64X64)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 1024X64)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 64X64)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 64X64)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 64X64)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 64X64)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 512X64)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 512X64)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 1024X64)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 512X64)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 64X64)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 512X64)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (G8, 256X64)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (G8, 128X64)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (G8, 512X64)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (G8, 64X32)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (G8, 1024X128)
+[2021.05.26-20.02.21:690][895]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (G8, 64X64)
+[2021.05.26-20.02.21:860][895]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/STKAssets/Dragon/DrakeMovement.DrakeMovement
+[2021.05.26-20.02.22:006][895]LogAssetEditorSubsystem: Opening Asset editor for World /Game/0-tutorial.0-tutorial
+[2021.05.26-20.02.22:007][895]Cmd: MAP LOAD FILE="../../../../../../Users/rafap/SaveTheKnight/Content/0-tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.26-20.02.22:007][895]LightingResults: New page: Diseñar la iluminación
+[2021.05.26-20.02.22:007][895]LoadErrors: New page: Cargando mapa: 0-tutorial.umap
+[2021.05.26-20.02.22:022][895]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.02.22:022][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.02.22:022][895]MapCheck: New page: Revisión del mapa
+[2021.05.26-20.02.22:023][895]LightingResults: New page: Diseñar la iluminación
+[2021.05.26-20.02.22:600][895]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-20.02.22:665][895]LogUObjectHash: Compacting FUObjectHashTables data took   7.05ms
+[2021.05.26-20.02.22:672][895]LogAudio: Display: Audio Device (ID: 1) registered with world '0-tutorial'.
+[2021.05.26-20.02.23:122][895]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.26-20.02.23:122][895]LogAIModule: Creating AISystem for world 0-tutorial
+[2021.05.26-20.02.23:155][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.05.26-20.02.23:162][895]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.26-20.02.23:163][895]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,248ms to complete.
+[2021.05.26-20.02.23:163][895]LogFileHelpers: Loading map '0-tutorial' took 1.157
+[2021.05.26-20.02.24:418][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-20.02.24:429][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-20.02.24:429][ 10]PIE: New page: Sesión PIE (reproducción en el editor): 0-tutorial (26 may. 2021 14:02:24)
+[2021.05.26-20.02.24:429][ 10]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_0-tutorial
+[2021.05.26-20.02.24:481][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051454s)
+[2021.05.26-20.02.24:482][ 10]LogAIModule: Creating AISystem for world 0-tutorial
+[2021.05.26-20.02.24:482][ 10]LogPlayLevel: PIE: World Init took: (0.001329s)
+[2021.05.26-20.02.24:482][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0-tutorial.0-tutorial to /Game/UEDPIE_0_0-tutorial.0-tutorial (0.052993s)
+[2021.05.26-20.02.24:503][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.05.26-20.02.24:508][ 10]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.05.26-20.02.24:508][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-20.02.24:508][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-20.02.24:508][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-20.02.24:508][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-20.02.24:508][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-20.02.24:508][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-20.02.24:508][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-20.02.24:508][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-20.02.24:509][ 10]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-20.02.24:509][ 10]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-20.02.24:517][ 10]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-20.02.24:517][ 10]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-20.02.24:533][ 10]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.05.26-20.02.24:534][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-20.02.24:534][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-20.02.24:534][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-20.02.24:534][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-20.02.24:534][ 10]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-20.02.24:534][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.26-20.02.24:552][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-20.02.24:553][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-20.02.24:553][ 10]LogInit: FAudioDevice initialized.
+[2021.05.26-20.02.24:553][ 10]LogAudio: Display: Audio Device (ID: 16) registered with world '0-tutorial'.
+[2021.05.26-20.02.24:560][ 10]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.26-20.02.24:659][ 10]LogWorld: Bringing World /Game/UEDPIE_0_0-tutorial.0-tutorial up for play (max tick rate 0) at 2021.05.26-17.02.24
+[2021.05.26-20.02.24:663][ 10]LogWorld: Bringing up level for play took: 0.102647
+[2021.05.26-20.02.24:664][ 10]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2021.05.26-20.02.24:673][ 10]PIE: El servidor ha iniciado la sesión
+[2021.05.26-20.02.24:674][ 10]PIE: Play in editor total start time 0,249 seconds.
+[2021.05.26-20.02.35:199][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-20.02.35:199][211]LogWorld: BeginTearingDown for /Game/UEDPIE_0_0-tutorial
+[2021.05.26-20.02.35:200][211]LogWorld: UWorld::CleanupWorld for 0-tutorial, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.02.35:203][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.02.35:214][211]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.26-20.02.35:221][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.02.35:242][211]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-20.02.35:243][211]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-20.02.35:244][211]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-20.02.35:266][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-20.02.35:273][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.05.26-20.02.35:306][212]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.05.26-20.02.43:846][116]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Princess.Princess
+[2021.05.26-20.03.11:253][763]BlueprintLog: New page: Compilar Princess
+[2021.05.26-20.03.11:459][763]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.05.26-20.03.11:996][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Princess" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/ThirdPersonBP/Blueprints/Princess.uasset" SILENT=true
+[2021.05.26-20.03.12:126][784]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/PrincessAB13C91A428ADADE36B954942BC671A8.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/ThirdPersonBP/Blueprints/Princess.uasset'
+[2021.05.26-20.03.12:149][784]AssetCheck: New page: Asset Save: Princess
+[2021.05.26-20.03.12:149][784]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Princess.Princess
+[2021.05.26-20.03.14:991][981]LogSlate: Window 'Princess' being destroyed
+[2021.05.26-20.03.14:997][981]LogSlate: Window 'Princess' being destroyed
+[2021.05.26-20.03.15:004][981]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.03.15:004][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.03.15:985][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-20.03.15:996][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-20.03.15:996][ 77]PIE: New page: Sesión PIE (reproducción en el editor): 0-tutorial (26 may. 2021 14:03:15)
+[2021.05.26-20.03.16:035][ 77]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_0-tutorial
+[2021.05.26-20.03.16:085][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049498s)
+[2021.05.26-20.03.16:086][ 77]LogAIModule: Creating AISystem for world 0-tutorial
+[2021.05.26-20.03.16:087][ 77]LogPlayLevel: PIE: World Init took: (0.001714s)
+[2021.05.26-20.03.16:087][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0-tutorial.0-tutorial to /Game/UEDPIE_0_0-tutorial.0-tutorial (0.051484s)
+[2021.05.26-20.03.16:114][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.05.26-20.03.16:120][ 77]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.05.26-20.03.16:120][ 77]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-20.03.16:120][ 77]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-20.03.16:120][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-20.03.16:120][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-20.03.16:120][ 77]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-20.03.16:120][ 77]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-20.03.16:120][ 77]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-20.03.16:120][ 77]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-20.03.16:121][ 77]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-20.03.16:121][ 77]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-20.03.16:128][ 77]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-20.03.16:128][ 77]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-20.03.16:144][ 77]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.05.26-20.03.16:144][ 77]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-20.03.16:144][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-20.03.16:144][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-20.03.16:144][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-20.03.16:144][ 77]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-20.03.16:145][ 77]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.26-20.03.16:165][ 77]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-20.03.16:165][ 77]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-20.03.16:165][ 77]LogInit: FAudioDevice initialized.
+[2021.05.26-20.03.16:165][ 77]LogAudio: Display: Audio Device (ID: 17) registered with world '0-tutorial'.
+[2021.05.26-20.03.16:177][ 77]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.26-20.03.16:191][ 77]LogWorld: Bringing World /Game/UEDPIE_0_0-tutorial.0-tutorial up for play (max tick rate 0) at 2021.05.26-17.03.16
+[2021.05.26-20.03.16:195][ 77]LogWorld: Bringing up level for play took: 0.017065
+[2021.05.26-20.03.16:195][ 77]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2021.05.26-20.03.16:203][ 77]PIE: El servidor ha iniciado la sesión
+[2021.05.26-20.03.16:204][ 77]PIE: Play in editor total start time 0,212 seconds.
+[2021.05.26-20.03.29:829][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-20.03.29:829][687]LogWorld: BeginTearingDown for /Game/UEDPIE_0_0-tutorial
+[2021.05.26-20.03.29:829][687]LogWorld: UWorld::CleanupWorld for 0-tutorial, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.03.29:832][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.03.29:840][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.26-20.03.29:847][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.03.29:869][687]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-20.03.29:869][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-20.03.29:870][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-20.03.29:892][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-20.03.29:899][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.05.26-20.03.29:935][688]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.05.26-20.03.30:658][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0-tutorial" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/0-tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.26-20.03.30:681][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.05.26-20.03.31:023][769]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/0-tutorial4EEE3E104C75D161BEAB52A63421BB86.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/0-tutorial.umap'
+[2021.05.26-20.03.31:034][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0-tutorial_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/0-tutorial_BuiltData.uasset" SILENT=true
+[2021.05.26-20.03.31:248][769]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/0-tutorial_BuiltData429A8E9B4EE030B285A034B4AF94265A.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/0-tutorial_BuiltData.uasset'
+[2021.05.26-20.03.31:269][769]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.26-20.03.31:269][769]LogContentValidation: Display: Validating World /Game/0-tutorial.0-tutorial
+[2021.05.26-20.03.31:269][769]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/0-tutorial_BuiltData.0-tutorial_BuiltData
