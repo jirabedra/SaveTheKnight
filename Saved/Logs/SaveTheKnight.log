@@ -9711,3 +9711,153 @@ Boss
 [2021.05.26-20.32.49:430][138]LogPlayLevel: Display: Destroying online subsystem :Context_96
 [2021.05.26-20.32.57:823][ 15]LogSlate: Window 'Registro del mensaje' being destroyed
 [2021.05.26-20.32.57:829][ 15]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.05.26-20.33.52:488][446]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-20.33.52:498][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-20.33.52:498][446]PIE: New page: Sesión PIE (reproducción en el editor): 5-FifthFloor (26 may. 2021 14:33:52)
+[2021.05.26-20.33.52:531][446]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_5-FifthFloor
+[2021.05.26-20.33.52:537][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006198s)
+[2021.05.26-20.33.52:538][446]LogAIModule: Creating AISystem for world 5-FifthFloor
+[2021.05.26-20.33.52:539][446]LogPlayLevel: PIE: World Init took: (0.001450s)
+[2021.05.26-20.33.52:539][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/5-FifthFloor.5-FifthFloor to /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor (0.007896s)
+[2021.05.26-20.33.52:560][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.05.26-20.33.52:571][446]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.05.26-20.33.52:571][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-20.33.52:571][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-20.33.52:571][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-20.33.52:571][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-20.33.52:571][446]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-20.33.52:571][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-20.33.52:571][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-20.33.52:571][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-20.33.52:572][446]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-20.33.52:572][446]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-20.33.52:579][446]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-20.33.52:579][446]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-20.33.52:595][446]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.05.26-20.33.52:595][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-20.33.52:595][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-20.33.52:595][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-20.33.52:596][446]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-20.33.52:596][446]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-20.33.52:596][446]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.26-20.33.52:621][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-20.33.52:621][446]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-20.33.52:621][446]LogInit: FAudioDevice initialized.
+[2021.05.26-20.33.52:621][446]LogAudio: Display: Audio Device (ID: 32) registered with world '5-FifthFloor'.
+[2021.05.26-20.33.52:630][446]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.26-20.33.52:632][446]LogWorld: Bringing World /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor up for play (max tick rate 0) at 2021.05.26-17.33.52
+[2021.05.26-20.33.52:633][446]LogWorld: Bringing up level for play took: 0.002186
+[2021.05.26-20.33.52:633][446]LogOnline: OSS: Creating online subsystem instance for: :Context_97
+[2021.05.26-20.33.52:637][446]PIE: El servidor ha iniciado la sesión
+[2021.05.26-20.33.52:638][446]PIE: Play in editor total start time 0,143 seconds.
+[2021.05.26-20.34.05:814][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-20.34.05:814][  2]LogWorld: BeginTearingDown for /Game/UEDPIE_0_5-FifthFloor
+[2021.05.26-20.34.05:815][  2]LogWorld: UWorld::CleanupWorld for 5-FifthFloor, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.34.05:815][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.34.05:824][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.26-20.34.05:837][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.34.05:854][  2]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-20.34.05:854][  2]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-20.34.05:855][  2]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-20.34.05:877][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-20.34.05:882][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.05.26-20.34.05:930][  3]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2021.05.26-20.34.09:235][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.05.26-20.34.10:835][293]LogSlate: Window 'Guardar contenido' being destroyed
+[2021.05.26-20.34.10:871][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/5-FifthFloor" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/5-FifthFloor.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.26-20.34.10:892][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.05.26-20.34.10:922][293]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/5-FifthFloor11F9D7444D2AA296DC00B693D64EB5DA.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/5-FifthFloor.umap'
+[2021.05.26-20.34.10:929][293]LogFileHelpers: Saving map '5-FifthFloor' took 0.059
+[2021.05.26-20.34.10:929][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/5-FifthFloor_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/5-FifthFloor_BuiltData.uasset" SILENT=true
+[2021.05.26-20.34.10:951][293]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/5-FifthFloor_BuiltData285372B64D59D5C343BBC480CE8BE57A.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/5-FifthFloor_BuiltData.uasset'
+[2021.05.26-20.34.10:954][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossEncounterRoom" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.26-20.34.10:990][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.05.26-20.34.11:023][293]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossEncounterRoom96D78F05435BCD4AE0752BAEDF79193A.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap'
+[2021.05.26-20.34.11:032][293]LogFileHelpers: Saving map 'BossEncounterRoom' took 0.078
+[2021.05.26-20.34.11:184][293]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2-SecondFloor.2-SecondFloor
+[2021.05.26-20.34.11:185][293]Cmd: MAP LOAD FILE="../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.26-20.34.11:185][293]LightingResults: New page: Diseñar la iluminación
+[2021.05.26-20.34.11:185][293]LoadErrors: New page: Cargando mapa: 2-SecondFloor.umap
+[2021.05.26-20.34.11:221][293]LogWorld: UWorld::CleanupWorld for 5-FifthFloor, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.34.11:221][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.34.11:222][293]MapCheck: New page: Revisión del mapa
+[2021.05.26-20.34.11:222][293]LightingResults: New page: Diseñar la iluminación
+[2021.05.26-20.34.11:241][293]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-20.34.11:252][293]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.05.26-20.34.11:276][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.05.26-20.34.11:295][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.05.26-20.34.11:295][293]LogAudio: Display: Audio Device (ID: 1) registered with world '2-SecondFloor'.
+[2021.05.26-20.34.11:301][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:301][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:301][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:301][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:301][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:301][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:302][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:302][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:302][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:302][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:302][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:302][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:304][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:304][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:305][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:305][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:350][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:350][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:351][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:351][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:351][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:351][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:353][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:353][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:354][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:354][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:354][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:354][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:355][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:355][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:356][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:356][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:356][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:356][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:358][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:358][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:359][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:359][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:359][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:359][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:360][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:361][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:362][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:362][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:362][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:362][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:363][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:363][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:364][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:364][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:364][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:364][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:380][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:380][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:381][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:381][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:381][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:381][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:386][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:386][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:387][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:387][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:387][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.26-20.34.11:387][293]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.26-20.34.11:572][293]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.26-20.34.11:572][293]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.05.26-20.34.11:605][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.05.26-20.34.11:611][293]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.26-20.34.11:611][293]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,269ms to complete.
+[2021.05.26-20.34.11:611][293]LogFileHelpers: Loading map '2-SecondFloor' took 0.427
+[2021.05.26-20.34.11:631][293]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.26-20.34.11:631][293]LogContentValidation: Display: Validating World /Game/BossEncounterRoom.BossEncounterRoom
+[2021.05.26-20.34.11:631][293]LogContentValidation: Display: Validating World /Game/5-FifthFloor.5-FifthFloor
+[2021.05.26-20.34.11:656][293]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/5-FifthFloor_BuiltData.5-FifthFloor_BuiltData
