@@ -1213,3 +1213,143 @@ Script Stack (0 frames):
 [2021.06.02-03.38.33:523][131]LogSlate: Window 'BossController' being destroyed
 [2021.06.02-03.38.33:564][131]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
 [2021.06.02-03.38.33:581][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.39.14:748][338]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/RangedGoblinController.RangedGoblinController
+[2021.06.02-03.39.39:406][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/RangedGoblinController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset" SILENT=true
+[2021.06.02-03.39.39:433][736]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/RangedGoblinControllerC0EF1CB84073FE5E13574FBAA0E3A2AA.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/RangedGoblinController.uasset'
+[2021.06.02-03.39.39:460][736]AssetCheck: New page: Asset Save: RangedGoblinController
+[2021.06.02-03.39.39:460][736]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/RangedGoblinController.RangedGoblinController
+[2021.06.02-03.39.40:211][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossEncounterRoom" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.02-03.39.40:248][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.06.02-03.39.40:319][775]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossEncounterRoom5609F0954AC66FFA6C3139BF7E837E60.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap'
+[2021.06.02-03.39.40:338][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossEncounterRoom_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom_BuiltData.uasset" SILENT=true
+[2021.06.02-03.39.40:365][775]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossEncounterRoom_BuiltData92BBE05749511C755D2BC9A6C80432D4.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom_BuiltData.uasset'
+[2021.06.02-03.39.40:385][775]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.02-03.39.40:385][775]LogContentValidation: Display: Validating World /Game/BossEncounterRoom.BossEncounterRoom
+[2021.06.02-03.39.40:385][775]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BossEncounterRoom_BuiltData.BossEncounterRoom_BuiltData
+[2021.06.02-03.39.40:484][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossEncounterRoom" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.02-03.39.40:513][779]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.06.02-03.39.40:555][779]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossEncounterRoom3FEFE2A44678D02F6241069BA7993922.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap'
+[2021.06.02-03.39.40:561][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossEncounterRoom_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom_BuiltData.uasset" SILENT=true
+[2021.06.02-03.39.40:583][779]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossEncounterRoom_BuiltData0BA5A82548871B4948056FB8FC4DFA39.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom_BuiltData.uasset'
+[2021.06.02-03.39.40:605][779]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.02-03.39.40:605][779]LogContentValidation: Display: Validating World /Game/BossEncounterRoom.BossEncounterRoom
+[2021.06.02-03.39.40:605][779]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BossEncounterRoom_BuiltData.BossEncounterRoom_BuiltData
+[2021.06.02-03.39.40:677][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossEncounterRoom" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.02-03.39.40:702][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.06.02-03.39.40:752][781]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossEncounterRoom8736A63F482FD716800F9FB65DA69C80.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap'
+[2021.06.02-03.39.40:760][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossEncounterRoom_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom_BuiltData.uasset" SILENT=true
+[2021.06.02-03.39.40:785][781]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossEncounterRoom_BuiltData453A3D934C2AF6B748B3E08051892B90.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom_BuiltData.uasset'
+[2021.06.02-03.39.40:809][781]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.02-03.39.40:809][781]LogContentValidation: Display: Validating World /Game/BossEncounterRoom.BossEncounterRoom
+[2021.06.02-03.39.40:809][781]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BossEncounterRoom_BuiltData.BossEncounterRoom_BuiltData
+[2021.06.02-03.39.44:707][  0]LogSlate: Window 'RangedGoblinController' being destroyed
+[2021.06.02-03.39.44:717][  0]LogSlate: Window 'RangedGoblinController' being destroyed
+[2021.06.02-03.39.44:719][  0]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.06.02-03.39.44:719][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.39.46:477][ 97]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/BossController.BossController
+[2021.06.02-03.39.53:002][415]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.02-03.39.56:403][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BossController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/BossController.uasset" SILENT=true
+[2021.06.02-03.39.56:439][637]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossController087D7B9440797CF3F598DEB3F2AB044E.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/BossController.uasset'
+[2021.06.02-03.39.56:463][637]AssetCheck: New page: Asset Save: BossController
+[2021.06.02-03.39.56:463][637]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/BossController.BossController
+[2021.06.02-03.40.07:636][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BossController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/BossController.uasset" SILENT=true
+[2021.06.02-03.40.07:667][259]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossControllerB5A046F54924B2ECF1C675BA591B28B3.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/BossController.uasset'
+[2021.06.02-03.40.07:692][259]AssetCheck: New page: Asset Save: BossController
+[2021.06.02-03.40.07:692][259]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/BossController.BossController
+[2021.06.02-03.40.08:398][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossEncounterRoom" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.02-03.40.08:429][299]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.06.02-03.40.08:475][299]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossEncounterRoom8E8847E441B2492BED2AE3A121488E9D.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap'
+[2021.06.02-03.40.08:482][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossEncounterRoom_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom_BuiltData.uasset" SILENT=true
+[2021.06.02-03.40.08:508][299]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossEncounterRoom_BuiltDataD44D4F8443FA30AE1DD8E6B83990AA6C.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom_BuiltData.uasset'
+[2021.06.02-03.40.08:536][299]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.02-03.40.08:536][299]LogContentValidation: Display: Validating World /Game/BossEncounterRoom.BossEncounterRoom
+[2021.06.02-03.40.08:537][299]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BossEncounterRoom_BuiltData.BossEncounterRoom_BuiltData
+[2021.06.02-03.40.10:270][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BossController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/BossController.uasset" SILENT=true
+[2021.06.02-03.40.10:304][395]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossControllerA16458C64C1B23B533289DA0DEE4D19E.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/BossController.uasset'
+[2021.06.02-03.40.10:325][395]AssetCheck: New page: Asset Save: BossController
+[2021.06.02-03.40.10:325][395]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/BossController.BossController
+[2021.06.02-03.40.11:233][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossEncounterRoom" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.02-03.40.11:258][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.06.02-03.40.11:300][441]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossEncounterRoom52D7B67048E228575CE870BD837C9796.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap'
+[2021.06.02-03.40.11:305][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossEncounterRoom_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom_BuiltData.uasset" SILENT=true
+[2021.06.02-03.40.11:331][441]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossEncounterRoom_BuiltDataB2266FB34CEC2B4B8AB210BEB737809B.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom_BuiltData.uasset'
+[2021.06.02-03.40.11:360][441]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.02-03.40.11:361][441]LogContentValidation: Display: Validating World /Game/BossEncounterRoom.BossEncounterRoom
+[2021.06.02-03.40.11:361][441]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BossEncounterRoom_BuiltData.BossEncounterRoom_BuiltData
+[2021.06.02-03.40.14:650][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BossController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/BossController.uasset" SILENT=true
+[2021.06.02-03.40.14:684][634]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossController83E52F6F41ECECA75A9F28BFAF6E0A9A.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/BossController.uasset'
+[2021.06.02-03.40.14:708][634]AssetCheck: New page: Asset Save: BossController
+[2021.06.02-03.40.14:708][634]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/BossController.BossController
+[2021.06.02-03.40.16:246][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BossController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/BossController.uasset" SILENT=true
+[2021.06.02-03.40.16:278][721]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossController2B1D115E433211F2A9FE459AB0B8E024.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/BossController.uasset'
+[2021.06.02-03.40.16:302][721]AssetCheck: New page: Asset Save: BossController
+[2021.06.02-03.40.16:302][721]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/BossController.BossController
+[2021.06.02-03.40.22:028][ 58]LogSlate: Window 'BossController' being destroyed
+[2021.06.02-03.40.22:039][ 58]LogSlate: Window 'BossController' being destroyed
+[2021.06.02-03.40.22:040][ 58]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.06.02-03.40.22:041][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.40.23:303][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossEncounterRoom" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.02-03.40.23:329][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.06.02-03.40.23:381][137]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossEncounterRoom2D1F08854F29226E4996C6AEBE7163A5.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap'
+[2021.06.02-03.40.23:386][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossEncounterRoom_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom_BuiltData.uasset" SILENT=true
+[2021.06.02-03.40.23:413][137]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossEncounterRoom_BuiltData6FC34EF74F92E35E7BFCECB7DB0F91DE.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom_BuiltData.uasset'
+[2021.06.02-03.40.23:435][137]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.02-03.40.23:435][137]LogContentValidation: Display: Validating World /Game/BossEncounterRoom.BossEncounterRoom
+[2021.06.02-03.40.23:435][137]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BossEncounterRoom_BuiltData.BossEncounterRoom_BuiltData
+[2021.06.02-03.40.24:308][202]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.02-03.40.24:437][202]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.02-03.40.24:438][202]LogPlayLevel: [PlayLevel] Compiling RangedGoblinController before play...
+[2021.06.02-03.40.24:451][202]LogPlayLevel: [PlayLevel] Compiling BossController before play...
+[2021.06.02-03.40.24:489][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.06.02-03.40.24:490][202]LogPlayLevel: PlayLevel: Blueprint regeneration took 53 ms (2 blueprints)
+[2021.06.02-03.40.24:600][202]PIE: New page: Sesión PIE (reproducción en el editor): BossEncounterRoom (1 jun. 2021 21:40:24)
+[2021.06.02-03.40.24:626][202]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.02-03.40.24:635][202]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.06.02-03.40.24:644][202]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BossEncounterRoom
+[2021.06.02-03.40.24:685][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040181s)
+[2021.06.02-03.40.24:687][202]LogAIModule: Creating AISystem for world BossEncounterRoom
+[2021.06.02-03.40.24:701][202]LogPlayLevel: PIE: World Init took: (0.016334s)
+[2021.06.02-03.40.24:762][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BossEncounterRoom.BossEncounterRoom to /Game/UEDPIE_0_BossEncounterRoom.BossEncounterRoom (0.057117s)
+[2021.06.02-03.40.24:785][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.06.02-03.40.24:792][202]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.06.02-03.40.24:792][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.02-03.40.24:792][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.02-03.40.24:792][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.02-03.40.24:792][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.02-03.40.24:792][202]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.02-03.40.24:792][202]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.02-03.40.24:792][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.02-03.40.24:792][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.02-03.40.24:793][202]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.02-03.40.24:793][202]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.02-03.40.24:800][202]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.02-03.40.24:800][202]LogAudioMixer: Display: 1: FrontRight
+[2021.06.02-03.40.24:816][202]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.06.02-03.40.24:816][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.02-03.40.24:816][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.02-03.40.24:816][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.02-03.40.24:817][202]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.02-03.40.24:817][202]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.02-03.40.24:817][202]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.02-03.40.24:837][202]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.02-03.40.24:837][202]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.02-03.40.24:837][202]LogInit: FAudioDevice initialized.
+[2021.06.02-03.40.24:837][202]LogAudio: Display: Audio Device (ID: 2) registered with world 'BossEncounterRoom'.
+[2021.06.02-03.40.25:088][202]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.02-03.40.25:187][202]LogWorld: Bringing World /Game/UEDPIE_0_BossEncounterRoom.BossEncounterRoom up for play (max tick rate 0) at 2021.06.02-00.40.25
+[2021.06.02-03.40.25:311][202]LogWorld: Bringing up level for play took: 0.169609
+[2021.06.02-03.40.25:312][202]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.06.02-03.40.25:477][202]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.06.02-03.40.25:664][202]PIE: El servidor ha iniciado la sesión
+[2021.06.02-03.40.25:680][202]PIE: Play in editor total start time 1,358 seconds.
+[2021.06.02-03.40.30:847][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.40.30:847][693]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BossEncounterRoom
+[2021.06.02-03.40.30:848][693]LogWorld: UWorld::CleanupWorld for BossEncounterRoom, bSessionEnded=true, bCleanupResources=true
+[2021.06.02-03.40.30:848][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.40.30:870][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.02-03.40.30:954][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.40.30:992][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.40.31:011][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.40.31:012][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.40.31:087][693]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2021.06.02-03.40.31:143][694]LogPlayLevel: Display: Destroying online subsystem :Context_16
