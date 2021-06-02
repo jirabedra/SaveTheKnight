@@ -1361,3 +1361,1126 @@ Script Stack (0 frames):
 [2021.06.02-03.43.09:519][121]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.02-03.43.09:519][121]LogContentValidation: Display: Validating World /Game/BossEncounterRoom.BossEncounterRoom
 [2021.06.02-03.43.09:519][121]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BossEncounterRoom_BuiltData.BossEncounterRoom_BuiltData
+[2021.06.02-03.43.30:614][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2021.06.02-03.45.14:980][515]MapCheck: New page: Revisión del mapa
+[2021.06.02-03.45.15:046][515]Cmd: MAP REBUILD ALLVISIBLE
+[2021.06.02-03.45.15:047][515]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.06.02-03.45.15:277][515]LogWorld: UWorld::CleanupWorld for BossEncounterRoom, bSessionEnded=true, bCleanupResources=false
+[2021.06.02-03.45.15:322][515]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.06.02-03.45.15:322][515]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.06.02-03.45.15:322][515]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.06.02-03.45.15:339][515]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.06.02-03.45.15:380][515]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.04s
+[2021.06.02-03.45.15:407][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.06.02-03.45.15:452][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.02-03.45.15:486][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.02-03.45.15:489][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.02-03.45.15:491][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.06.02-03.45.15:491][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.06.02-03.45.15:491][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.06.02-03.45.15:491][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.06.02-03.45.15:491][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.02-03.45.15:494][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.02-03.45.15:497][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.02-03.45.15:501][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.06.02-03.45.15:596][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.02-03.45.15:599][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.02-03.45.15:602][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.02-03.45.15:605][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.02-03.45.15:607][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.02-03.45.15:610][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.02-03.45.15:612][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.02-03.45.15:615][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.02-03.45.15:618][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.02-03.45.15:626][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.02-03.45.15:631][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 78
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 77
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 76
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 75
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 74
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 73
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 71
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 70
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 69
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 68
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 67
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 66
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 65
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 64
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 63
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 61
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 60
+[2021.06.02-03.45.23:887][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 59
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 58
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 57
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 55
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 54
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 53
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 52
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 49
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 47
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.06.02-03.45.23:888][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.06.02-03.45.23:889][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.06.02-03.45.23:889][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.06.02-03.45.23:889][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.06.02-03.45.23:889][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.06.02-03.45.23:889][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.06.02-03.45.23:889][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.06.02-03.45.23:889][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.06.02-03.45.23:889][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.06.02-03.45.23:889][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.06.02-03.45.23:889][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.06.02-03.45.23:889][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.06.02-03.45.23:889][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.06.02-03.45.23:889][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.06.02-03.45.23:889][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.06.02-03.45.23:889][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.06.02-03.45.23:889][515]TextureStreamingBuild: Display: Compiling optional shaders took 8.440 seconds.
+[2021.06.02-03.45.23:971][515]LogLevel: Display: Export Material TexCoord Scales took 0.082 seconds.
+[2021.06.02-03.45.23:985][515]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2021.06.02-03.45.24:007][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.06.02-03.45.24:030][515]LightingResults: New page: Diseño de la iluminación - 1 jun. 2021 21:45:24
+[2021.06.02-03.45.24:419][515]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.06.02-03.45.24:571][515]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.06.02-03.45.24:765][515]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.06.02-03.45.26:509][515]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.06.02-03.45.26:509][515]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3748
+[2021.06.02-03.45.30:358][515]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.06.02-03.45.30:378][515]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.06.02-03.45.30:378][515]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.06.02-03.45.30:378][515]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.06.02-03.45.30:378][515]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.06.02-03.45.30:378][515]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.06.02-03.45.30:787][515]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.06.02-03.45.30:787][515]MapCheck: New page: BossEncounterRoom - 1 jun. 2021 21:45:30
+[2021.06.02-03.45.30:788][515]MapCheck: Error: WorldSettings_1 Los mapas necesitan rediseñar la iluminación 
+[2021.06.02-03.45.30:815][515]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 27,532ms to complete.
+[2021.06.02-03.45.30:836][515]LogEditorBuildUtils: Build time 0:15
+[2021.06.02-03.45.31:593][516]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer TexturaParedesBossRoom, compiling. 
+[2021.06.02-03.45.31:598][516]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer TexturaParedesBossRoom, compiling. 
+[2021.06.02-03.45.31:602][516]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.06.02-03.45.31:603][516]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.06.02-03.45.31:611][516]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.06.02-03.45.31:611][516]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.06.02-03.45.32:425][523]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.06.02-03.45.36:084][641]Job is a success!
+[2021.06.02-03.45.36:378][642]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.088s
+[2021.06.02-03.45.36:378][642]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.06.02-03.45.36:378][642]LogVolumetricLightmapImport:      BrickData (all levels) 1.1Mb
+[2021.06.02-03.45.36:379][642]LogVolumetricLightmapImport:      Bricks at depth
+[2021.06.02-03.45.36:379][642]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2021.06.02-03.45.36:379][642]LogVolumetricLightmapImport:          1: 4.4% covering 17.2% of volume
+[2021.06.02-03.45.36:379][642]LogVolumetricLightmapImport:          2: 95.2% covering 5.9% of volume
+[2021.06.02-03.45.36:379][642]LogVolumetricLightmapImport:      Bricks in each level
+[2021.06.02-03.45.36:379][642]LogVolumetricLightmapImport:          BossEncounterRoom 			 252 bricks 	 100.0% (Persistent Level)
+[2021.06.02-03.45.36:443][642]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2021.06.02-03.45.36:443][642]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2021.06.02-03.45.36:443][642]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2021.06.02-03.45.36:443][642]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2021.06.02-03.45.36:786][642]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2021.06.02-03.45.36:786][642]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 256X64)
+[2021.06.02-03.45.36:786][642]Lightmass on DESKTOP-80B3B30: 2.44 sec total, 316 ms importing, 17 ms setup, 389 ms photons, 1.61 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 11.2 sec total, 656 ms processing.
+[2021.06.02-03.45.36:808][642]LogStaticLightingSystem: BossEncounterRoom_BuiltData storing lightmap data for 7 meshes in 2 LightmapResourceClusters (3.5 Meshes per cluster).
+[2021.06.02-03.45.36:870][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.06.02-03.45.36:900][642]LogStaticLightingSystem: Illumination: 12.8 sec (64 ms encoding lightmaps, 70 ms encoding shadowmaps)
+[2021.06.02-03.45.36:904][642]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.06.02-03.45.36:904][642]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.06.02-03.45.37:318][642]DumpUnbuiltLightIteractions
+[2021.06.02-03.45.37:318][642]Lights with unbuilt interactions: 0
+[2021.06.02-03.45.37:318][642]
+[2021.06.02-03.45.37:318][642]Primitives with unbuilt interactions: 0
+[2021.06.02-03.45.37:448][642]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.06.02-03.45.37:504][643]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.06.02-03.45.37:504][643]MapCheck: New page: BossEncounterRoom - 1 jun. 2021 21:45:37
+[2021.06.02-03.45.37:505][643]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,715ms to complete.
+[2021.06.02-03.45.40:032][871]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.06.02-03.45.40:043][871]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.06.02-03.46.06:637][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.06.02-03.46.08:121][ 88]LogSlate: Window 'Guardar contenido' being destroyed
+[2021.06.02-03.46.08:172][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossEncounterRoom" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.02-03.46.08:193][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.06.02-03.46.08:246][ 88]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossEncounterRoom2BA16CDB420678187FCF7F9B858C774E.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap'
+[2021.06.02-03.46.08:250][ 88]LogFileHelpers: Saving map 'BossEncounterRoom' took 0.079
+[2021.06.02-03.46.08:250][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossEncounterRoom_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom_BuiltData.uasset" SILENT=true
+[2021.06.02-03.46.08:280][ 88]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossEncounterRoom_BuiltDataC98334404CC689097950ED96BBEA2535.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom_BuiltData.uasset'
+[2021.06.02-03.46.08:742][ 88]LogAssetEditorSubsystem: Opening Asset editor for World /Game/5-FifthFloor.5-FifthFloor
+[2021.06.02-03.46.08:742][ 88]Cmd: MAP LOAD FILE="../../../../../../Users/rafap/SaveTheKnight/Content/5-FifthFloor.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.02-03.46.08:742][ 88]LightingResults: New page: Diseñar la iluminación
+[2021.06.02-03.46.08:742][ 88]LoadErrors: New page: Cargando mapa: 5-FifthFloor.umap
+[2021.06.02-03.46.08:746][ 88]LogWorld: UWorld::CleanupWorld for BossEncounterRoom, bSessionEnded=true, bCleanupResources=true
+[2021.06.02-03.46.08:746][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.46.08:746][ 88]MapCheck: New page: Revisión del mapa
+[2021.06.02-03.46.08:746][ 88]LightingResults: New page: Diseñar la iluminación
+[2021.06.02-03.46.08:766][ 88]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.02-03.46.08:773][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.06.02-03.46.08:773][ 88]LogAudio: Display: Audio Device (ID: 1) registered with world '5-FifthFloor'.
+[2021.06.02-03.46.08:776][ 88]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.02-03.46.08:777][ 88]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.02-03.46.08:777][ 88]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.02-03.46.08:777][ 88]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.02-03.46.08:787][ 88]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.02-03.46.08:787][ 88]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.02-03.46.08:788][ 88]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.02-03.46.08:788][ 88]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.02-03.46.08:788][ 88]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.02-03.46.08:788][ 88]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.02-03.46.08:790][ 88]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.02-03.46.08:790][ 88]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.02-03.46.08:790][ 88]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.02-03.46.08:790][ 88]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.02-03.46.08:791][ 88]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.02-03.46.08:791][ 88]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.02-03.46.08:992][ 88]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.02-03.46.08:993][ 88]LogAIModule: Creating AISystem for world 5-FifthFloor
+[2021.06.02-03.46.09:014][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.06.02-03.46.09:016][ 88]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.02-03.46.09:017][ 88]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,196ms to complete.
+[2021.06.02-03.46.09:017][ 88]LogFileHelpers: Loading map '5-FifthFloor' took 0.275
+[2021.06.02-03.46.09:035][ 88]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.02-03.46.09:035][ 88]LogContentValidation: Display: Validating World /Game/BossEncounterRoom.BossEncounterRoom
+[2021.06.02-03.46.09:070][ 88]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BossEncounterRoom_BuiltData.BossEncounterRoom_BuiltData
+[2021.06.02-03.46.11:391][326]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.02-03.46.11:400][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.02-03.46.11:400][326]PIE: New page: Sesión PIE (reproducción en el editor): 5-FifthFloor (1 jun. 2021 21:46:11)
+[2021.06.02-03.46.11:432][326]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.46.11:441][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009463s)
+[2021.06.02-03.46.11:443][326]LogAIModule: Creating AISystem for world 5-FifthFloor
+[2021.06.02-03.46.11:443][326]LogPlayLevel: PIE: World Init took: (0.001609s)
+[2021.06.02-03.46.11:443][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/5-FifthFloor.5-FifthFloor to /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor (0.011429s)
+[2021.06.02-03.46.11:469][326]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.06.02-03.46.11:471][326]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.06.02-03.46.11:471][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.02-03.46.11:471][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.02-03.46.11:471][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.02-03.46.11:471][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.02-03.46.11:471][326]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.02-03.46.11:471][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.02-03.46.11:471][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.02-03.46.11:471][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.02-03.46.11:471][326]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.02-03.46.11:471][326]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.02-03.46.11:479][326]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.02-03.46.11:479][326]LogAudioMixer: Display: 1: FrontRight
+[2021.06.02-03.46.11:496][326]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.06.02-03.46.11:497][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.02-03.46.11:497][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.02-03.46.11:497][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.02-03.46.11:498][326]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.02-03.46.11:498][326]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.02-03.46.11:498][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.02-03.46.11:519][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.02-03.46.11:519][326]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.02-03.46.11:519][326]LogInit: FAudioDevice initialized.
+[2021.06.02-03.46.11:519][326]LogAudio: Display: Audio Device (ID: 3) registered with world '5-FifthFloor'.
+[2021.06.02-03.46.11:528][326]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.02-03.46.11:531][326]LogWorld: Bringing World /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor up for play (max tick rate 0) at 2021.06.02-00.46.11
+[2021.06.02-03.46.11:531][326]LogWorld: Bringing up level for play took: 0.002552
+[2021.06.02-03.46.11:531][326]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.06.02-03.46.11:627][326]PIE: El servidor ha iniciado la sesión
+[2021.06.02-03.46.11:628][326]PIE: Play in editor total start time 0,231 seconds.
+[2021.06.02-03.46.20:354][304]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2021.06.02-03.46.20:355][304]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.02-03.46.48:753][ 16]LogSlate: Window 'Preferencias del editor' being destroyed
+[2021.06.02-03.46.48:767][ 16]LogSlate: Window 'Preferencias del editor' being destroyed
+[2021.06.02-03.46.52:812][273]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.06.02-03.47.12:103][813]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2021.06.02-03.47.12:115][813]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2021.06.02-03.47.13:376][932]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2021.06.02-03.47.13:376][932]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.06.02-03.47.24:774][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.47.24:774][254]LogWorld: BeginTearingDown for /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.47.24:775][254]LogWorld: UWorld::CleanupWorld for 5-FifthFloor, bSessionEnded=true, bCleanupResources=true
+[2021.06.02-03.47.24:775][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.47.24:787][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.02-03.47.24:793][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.47.24:811][254]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.02-03.47.24:812][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.47.24:813][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.47.24:834][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.47.24:874][254]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.06.02-03.47.24:899][255]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.06.02-03.47.25:776][348]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.02-03.47.25:783][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.02-03.47.25:783][348]PIE: New page: Sesión PIE (reproducción en el editor): 5-FifthFloor (1 jun. 2021 21:47:25)
+[2021.06.02-03.47.25:821][348]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.47.25:828][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006825s)
+[2021.06.02-03.47.25:830][348]LogAIModule: Creating AISystem for world 5-FifthFloor
+[2021.06.02-03.47.25:830][348]LogPlayLevel: PIE: World Init took: (0.001579s)
+[2021.06.02-03.47.25:830][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/5-FifthFloor.5-FifthFloor to /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor (0.008668s)
+[2021.06.02-03.47.25:850][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.06.02-03.47.25:852][348]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.06.02-03.47.25:852][348]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.02-03.47.25:852][348]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.02-03.47.25:852][348]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.02-03.47.25:852][348]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.02-03.47.25:852][348]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.02-03.47.25:852][348]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.02-03.47.25:852][348]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.02-03.47.25:852][348]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.02-03.47.25:852][348]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.02-03.47.25:852][348]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.02-03.47.25:858][348]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.02-03.47.25:858][348]LogAudioMixer: Display: 1: FrontRight
+[2021.06.02-03.47.25:873][348]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.06.02-03.47.25:873][348]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.02-03.47.25:873][348]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.02-03.47.25:873][348]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.02-03.47.25:874][348]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.02-03.47.25:874][348]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.02-03.47.25:874][348]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.02-03.47.25:897][348]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.02-03.47.25:897][348]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.02-03.47.25:897][348]LogInit: FAudioDevice initialized.
+[2021.06.02-03.47.25:897][348]LogAudio: Display: Audio Device (ID: 4) registered with world '5-FifthFloor'.
+[2021.06.02-03.47.25:906][348]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.02-03.47.25:909][348]LogWorld: Bringing World /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor up for play (max tick rate 0) at 2021.06.02-00.47.25
+[2021.06.02-03.47.25:910][348]LogWorld: Bringing up level for play took: 0.002896
+[2021.06.02-03.47.25:910][348]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.06.02-03.47.25:914][348]PIE: El servidor ha iniciado la sesión
+[2021.06.02-03.47.25:915][348]PIE: Play in editor total start time 0,134 seconds.
+[2021.06.02-03.47.34:135][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.47.34:135][317]LogWorld: BeginTearingDown for /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.47.34:136][317]LogWorld: UWorld::CleanupWorld for 5-FifthFloor, bSessionEnded=true, bCleanupResources=true
+[2021.06.02-03.47.34:136][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.47.34:147][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.02-03.47.34:152][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.47.34:171][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.47.34:171][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.47.34:172][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.47.34:197][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.06.02-03.47.34:221][318]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.06.02-03.48.23:099][740]LogLinker: Warning: [AssetLog] C:\Users\rafap\SaveTheKnight\Content\STKAssets\Particles\NiagaraEmitters\NE_Raindrops.uasset: Failed to load '/Game/Materials/M_Rain': Can't find file.
+[2021.06.02-03.48.23:100][740]LogLinker: Warning: [AssetLog] C:\Users\rafap\SaveTheKnight\Content\STKAssets\Particles\NiagaraEmitters\NE_Raindrops.uasset: Failed to load '/Game/Materials/M_Rain': Can't find file.
+[2021.06.02-03.48.23:108][740]LogLinker: Warning: [AssetLog] C:\Users\rafap\SaveTheKnight\Content\STKAssets\Particles\NiagaraEmitters\NE_Raindrops.uasset: Failed to load '/Game/Materials/M_Rain': Can't find file.
+[2021.06.02-03.48.23:222][740]LogLinker: Warning: [AssetLog] C:\Users\rafap\SaveTheKnight\Content\STKAssets\Particles\NiagaraEmitters\NE_Raindrops.uasset: Failed to load '/Game/Materials/M_Rain': Can't find file.
+[2021.06.02-03.48.23:222][740]LoadErrors: Error al cargar /Game/Materials/M_Rain.M_Rain Referenciado por NiagaraSpriteRendererProperties_0
+[2021.06.02-03.48.23:303][740]LogMaterial: Display: Missing cached shader map for material M_Rain, compiling. 
+[2021.06.02-03.48.23:464][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2021.06.02-03.48.23:464][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2021.06.02-03.48.23:464][740]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2021.06.02-03.48.23:464][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.06.02-03.48.32:808][229]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.06.02-03.48.33:614][274]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.06.02-03.48.33:814][286]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.06.02-03.48.35:088][353]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.06.02-03.48.36:763][441]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.06.02-03.48.36:793][443]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.06.02-03.48.36:980][448]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.06.02-03.49.48:490][  9]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1002991
+[2021.06.02-03.49.48:538][ 10]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1107612
+[2021.06.02-03.49.48:780][ 12]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1448419
+[2021.06.02-03.49.48:846][ 13]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1495726
+[2021.06.02-03.49.48:953][ 14]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1281287
+[2021.06.02-03.49.49:014][ 15]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1332656
+[2021.06.02-03.49.49:074][ 16]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1176019
+[2021.06.02-03.49.49:124][ 16]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1178723
+[2021.06.02-03.49.49:283][ 18]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1500154
+[2021.06.02-03.49.49:338][ 19]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1114991
+[2021.06.02-03.49.49:394][ 20]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1145549
+[2021.06.02-03.49.49:449][ 21]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1139396
+[2021.06.02-03.49.49:502][ 22]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1116222
+[2021.06.02-03.49.49:551][ 23]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1092635
+[2021.06.02-03.49.49:599][ 24]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1051008
+[2021.06.02-03.49.49:646][ 25]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1036580
+[2021.06.02-03.49.49:695][ 26]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1009636
+[2021.06.02-03.49.49:845][ 28]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1300467
+[2021.06.02-03.49.50:000][ 29]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1424498
+[2021.06.02-03.49.50:067][ 30]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1530797
+[2021.06.02-03.49.50:126][ 31]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1185833
+[2021.06.02-03.49.50:182][ 32]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1117850
+[2021.06.02-03.49.50:242][ 33]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1075114
+[2021.06.02-03.49.50:290][ 34]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1071234
+[2021.06.02-03.49.50:424][ 36]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1326931
+[2021.06.02-03.49.50:482][ 37]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1242004
+[2021.06.02-03.49.50:538][ 38]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1194988
+[2021.06.02-03.49.50:591][ 39]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1162562
+[2021.06.02-03.49.50:644][ 40]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1124303
+[2021.06.02-03.49.50:698][ 41]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1102378
+[2021.06.02-03.49.50:749][ 42]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1079611
+[2021.06.02-03.49.50:799][ 43]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1039125
+[2021.06.02-03.49.50:846][ 44]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1008847
+[2021.06.02-03.49.50:973][ 46]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1260965
+[2021.06.02-03.49.51:032][ 47]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1214910
+[2021.06.02-03.49.51:089][ 48]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1165901
+[2021.06.02-03.49.51:146][ 49]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1117272
+[2021.06.02-03.49.51:199][ 50]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1086164
+[2021.06.02-03.49.51:252][ 51]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1038422
+[2021.06.02-03.49.51:302][ 52]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1004465
+[2021.06.02-03.49.51:430][ 54]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1243980
+[2021.06.02-03.49.51:488][ 55]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1230898
+[2021.06.02-03.49.51:556][ 56]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1167607
+[2021.06.02-03.49.51:613][ 57]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1195885
+[2021.06.02-03.49.51:668][ 58]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1115785
+[2021.06.02-03.49.51:724][ 59]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1092300
+[2021.06.02-03.49.51:725][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.02-03.49.51:774][ 59]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1078740
+[2021.06.02-03.49.51:774][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.02-03.49.51:774][ 59]PIE: New page: Sesión PIE (reproducción en el editor): 5-FifthFloor (1 jun. 2021 21:49:51)
+[2021.06.02-03.49.51:774][ 59]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.49.51:782][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007943s)
+[2021.06.02-03.49.51:783][ 59]LogAIModule: Creating AISystem for world 5-FifthFloor
+[2021.06.02-03.49.51:784][ 59]LogPlayLevel: PIE: World Init took: (0.001618s)
+[2021.06.02-03.49.51:784][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/5-FifthFloor.5-FifthFloor to /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor (0.009783s)
+[2021.06.02-03.49.51:806][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.06.02-03.49.51:823][ 59]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.06.02-03.49.51:824][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.02-03.49.51:824][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.02-03.49.51:824][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.02-03.49.51:824][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.02-03.49.51:824][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.02-03.49.51:824][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.02-03.49.51:824][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.02-03.49.51:824][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.02-03.49.51:825][ 59]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.02-03.49.51:825][ 59]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.02-03.49.51:831][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.02-03.49.51:831][ 59]LogAudioMixer: Display: 1: FrontRight
+[2021.06.02-03.49.51:847][ 59]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.06.02-03.49.51:847][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.02-03.49.51:847][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.02-03.49.51:847][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.02-03.49.51:848][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.02-03.49.51:848][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.02-03.49.51:848][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.02-03.49.51:867][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.02-03.49.51:867][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.02-03.49.51:867][ 59]LogInit: FAudioDevice initialized.
+[2021.06.02-03.49.51:867][ 59]LogAudio: Display: Audio Device (ID: 5) registered with world '5-FifthFloor'.
+[2021.06.02-03.49.51:881][ 59]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.02-03.49.51:883][ 59]LogWorld: Bringing World /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor up for play (max tick rate 0) at 2021.06.02-00.49.51
+[2021.06.02-03.49.51:884][ 59]LogWorld: Bringing up level for play took: 0.002373
+[2021.06.02-03.49.51:884][ 59]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.06.02-03.49.51:887][ 59]PIE: El servidor ha iniciado la sesión
+[2021.06.02-03.49.51:888][ 59]PIE: Play in editor total start time 0,118 seconds.
+[2021.06.02-03.49.52:162][ 63]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1337815
+[2021.06.02-03.49.52:218][ 64]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1466057
+[2021.06.02-03.49.52:274][ 65]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1208751
+[2021.06.02-03.49.52:328][ 66]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1208499
+[2021.06.02-03.49.52:384][ 67]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1201868
+[2021.06.02-03.49.52:445][ 68]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1206665
+[2021.06.02-03.49.52:501][ 69]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1234620
+[2021.06.02-03.49.52:561][ 70]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1210041
+[2021.06.02-03.49.52:617][ 71]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1227834
+[2021.06.02-03.49.52:673][ 72]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1215112
+[2021.06.02-03.49.52:728][ 73]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1209424
+[2021.06.02-03.49.52:784][ 74]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1203181
+[2021.06.02-03.49.52:838][ 75]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1211086
+[2021.06.02-03.49.52:891][ 76]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1197924
+[2021.06.02-03.49.52:948][ 77]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1190461
+[2021.06.02-03.49.52:999][ 78]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1201472
+[2021.06.02-03.49.53:051][ 79]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1152662
+[2021.06.02-03.49.53:103][ 80]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1133822
+[2021.06.02-03.49.53:154][ 81]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1109408
+[2021.06.02-03.49.53:201][ 82]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1078346
+[2021.06.02-03.49.53:247][ 83]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1037979
+[2021.06.02-03.49.53:293][ 84]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1009564
+[2021.06.02-03.49.53:411][ 86]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1271085
+[2021.06.02-03.49.53:467][ 87]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1223604
+[2021.06.02-03.49.53:523][ 88]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1192329
+[2021.06.02-03.49.53:576][ 89]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1165630
+[2021.06.02-03.49.53:626][ 90]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1125522
+[2021.06.02-03.49.53:676][ 91]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1088040
+[2021.06.02-03.49.53:726][ 92]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1063925
+[2021.06.02-03.49.53:774][ 93]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1037681
+[2021.06.02-03.49.53:819][ 94]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1003719
+[2021.06.02-03.49.53:938][ 96]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1263114
+[2021.06.02-03.49.53:995][ 97]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1204819
+[2021.06.02-03.49.54:048][ 98]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1176883
+[2021.06.02-03.49.54:099][ 99]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1134819
+[2021.06.02-03.49.54:148][100]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1100070
+[2021.06.02-03.49.54:198][101]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1064170
+[2021.06.02-03.49.54:245][102]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1049945
+[2021.06.02-03.49.54:293][103]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1011725
+[2021.06.02-03.49.54:414][105]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1274921
+[2021.06.02-03.49.54:467][106]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1226743
+[2021.06.02-03.49.54:521][107]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1159802
+[2021.06.02-03.49.54:573][108]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1134252
+[2021.06.02-03.49.54:623][109]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1090208
+[2021.06.02-03.49.54:672][110]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1051908
+[2021.06.02-03.49.54:719][111]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1017383
+[2021.06.02-03.49.54:839][113]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1267591
+[2021.06.02-03.49.54:895][114]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1196576
+[2021.06.02-03.49.54:948][115]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1164161
+[2021.06.02-03.49.55:000][116]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1116780
+[2021.06.02-03.49.55:053][117]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1096264
+[2021.06.02-03.49.55:103][118]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1083770
+[2021.06.02-03.49.55:155][119]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1062622
+[2021.06.02-03.49.55:204][120]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1058171
+[2021.06.02-03.49.55:254][121]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1030711
+[2021.06.02-03.49.55:303][122]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1023839
+[2021.06.02-03.49.55:351][123]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1005752
+[2021.06.02-03.49.55:467][125]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1267824
+[2021.06.02-03.49.55:522][126]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1231301
+[2021.06.02-03.49.55:581][127]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1202329
+[2021.06.02-03.49.55:635][128]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1199646
+[2021.06.02-03.49.55:688][129]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1157151
+[2021.06.02-03.49.55:741][130]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1134856
+[2021.06.02-03.49.55:795][131]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1113300
+[2021.06.02-03.49.55:850][132]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1099162
+[2021.06.02-03.49.55:900][133]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1076097
+[2021.06.02-03.49.55:952][134]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1028569
+[2021.06.02-03.49.56:002][135]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1011505
+[2021.06.02-03.49.56:133][137]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1296412
+[2021.06.02-03.49.56:194][138]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1237862
+[2021.06.02-03.49.56:249][139]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1197656
+[2021.06.02-03.49.56:302][140]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1141284
+[2021.06.02-03.49.56:352][141]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1105073
+[2021.06.02-03.49.56:402][142]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1068148
+[2021.06.02-03.49.56:451][143]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1045748
+[2021.06.02-03.49.56:497][144]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1024109
+[2021.06.02-03.49.56:621][146]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1275963
+[2021.06.02-03.49.56:679][147]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1232669
+[2021.06.02-03.49.56:736][148]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1192359
+[2021.06.02-03.49.56:791][149]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1162652
+[2021.06.02-03.49.56:846][150]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1123580
+[2021.06.02-03.49.56:901][151]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1096451
+[2021.06.02-03.49.56:954][152]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1076498
+[2021.06.02-03.49.57:001][153]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1045835
+[2021.06.02-03.49.57:050][154]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1001969
+[2021.06.02-03.49.57:176][156]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1292932
+[2021.06.02-03.49.57:234][157]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1236708
+[2021.06.02-03.49.57:290][158]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1193120
+[2021.06.02-03.49.57:346][159]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1156893
+[2021.06.02-03.49.57:400][160]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1130484
+[2021.06.02-03.49.57:454][161]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1103172
+[2021.06.02-03.49.57:509][162]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1082813
+[2021.06.02-03.49.57:560][163]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1068055
+[2021.06.02-03.49.57:610][164]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1024235
+[2021.06.02-03.49.57:741][166]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1314680
+[2021.06.02-03.49.57:800][167]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1253091
+[2021.06.02-03.49.57:858][168]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1215024
+[2021.06.02-03.49.57:917][169]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1182852
+[2021.06.02-03.49.57:975][170]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1170457
+[2021.06.02-03.49.58:031][171]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1144419
+[2021.06.02-03.49.58:087][172]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1114329
+[2021.06.02-03.49.58:141][173]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1089659
+[2021.06.02-03.49.58:194][174]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1056684
+[2021.06.02-03.49.58:247][175]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1023903
+[2021.06.02-03.49.58:298][176]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1000790
+[2021.06.02-03.49.58:424][178]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1269046
+[2021.06.02-03.49.58:481][179]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1211217
+[2021.06.02-03.49.58:536][180]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1175729
+[2021.06.02-03.49.58:591][181]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1148416
+[2021.06.02-03.49.58:644][182]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1120742
+[2021.06.02-03.49.58:695][183]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1098556
+[2021.06.02-03.49.58:742][184]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1055927
+[2021.06.02-03.49.58:792][185]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1019481
+[2021.06.02-03.49.58:837][186]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1001626
+[2021.06.02-03.49.58:957][188]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1237261
+[2021.06.02-03.49.59:016][189]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1209473
+[2021.06.02-03.49.59:072][190]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1172344
+[2021.06.02-03.49.59:128][191]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1134994
+[2021.06.02-03.49.59:182][192]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1110949
+[2021.06.02-03.49.59:236][193]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1088413
+[2021.06.02-03.49.59:287][194]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1061123
+[2021.06.02-03.49.59:337][195]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1030258
+[2021.06.02-03.49.59:385][196]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1003740
+[2021.06.02-03.49.59:505][198]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1263481
+[2021.06.02-03.49.59:559][199]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1205400
+[2021.06.02-03.49.59:613][200]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1161916
+[2021.06.02-03.49.59:665][201]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1142680
+[2021.06.02-03.49.59:716][202]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1110469
+[2021.06.02-03.49.59:768][203]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1089270
+[2021.06.02-03.49.59:820][204]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1071901
+[2021.06.02-03.49.59:867][205]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1054661
+[2021.06.02-03.49.59:914][206]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1012120
+[2021.06.02-03.50.00:045][208]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1284352
+[2021.06.02-03.50.00:107][209]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1252361
+[2021.06.02-03.50.00:168][210]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1208014
+[2021.06.02-03.50.00:227][211]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1178199
+[2021.06.02-03.50.00:280][212]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1151722
+[2021.06.02-03.50.00:331][213]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1095665
+[2021.06.02-03.50.00:382][214]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1063713
+[2021.06.02-03.50.00:431][215]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1047344
+[2021.06.02-03.50.00:479][216]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1020773
+[2021.06.02-03.50.00:600][218]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1268683
+[2021.06.02-03.50.00:655][219]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1230994
+[2021.06.02-03.50.00:709][220]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1181273
+[2021.06.02-03.50.00:760][221]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1156320
+[2021.06.02-03.50.00:812][222]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1120592
+[2021.06.02-03.50.00:864][223]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1109765
+[2021.06.02-03.50.00:914][224]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1088587
+[2021.06.02-03.50.00:966][225]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1059193
+[2021.06.02-03.50.01:014][226]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1048755
+[2021.06.02-03.50.01:060][227]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1002771
+[2021.06.02-03.50.01:178][229]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1262383
+[2021.06.02-03.50.01:235][230]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1204302
+[2021.06.02-03.50.01:288][231]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1182472
+[2021.06.02-03.50.01:341][232]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1131188
+[2021.06.02-03.50.01:390][233]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1111935
+[2021.06.02-03.50.01:441][234]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1077588
+[2021.06.02-03.50.01:491][235]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1064297
+[2021.06.02-03.50.01:539][236]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1041135
+[2021.06.02-03.50.01:588][237]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1011017
+[2021.06.02-03.50.01:705][239]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1278938
+[2021.06.02-03.50.01:761][240]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1223604
+[2021.06.02-03.50.01:815][241]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1194615
+[2021.06.02-03.50.01:867][242]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1155110
+[2021.06.02-03.50.01:963][242]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1125481
+[2021.06.02-03.50.01:964][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.50.01:964][242]LogWorld: BeginTearingDown for /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.50.01:964][242]LogWorld: UWorld::CleanupWorld for 5-FifthFloor, bSessionEnded=true, bCleanupResources=true
+[2021.06.02-03.50.01:964][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.50.01:973][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.02-03.50.01:985][242]LogNiagaraEditor: onPieEnd
+[2021.06.02-03.50.01:990][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.50.02:013][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.02-03.50.02:013][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.50.02:014][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.50.02:036][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.50.02:039][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.06.02-03.50.02:098][243]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.06.02-03.50.02:138][243]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1413388
+[2021.06.02-03.50.02:275][245]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1379321
+[2021.06.02-03.50.02:409][247]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1279869
+[2021.06.02-03.50.02:466][248]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1219019
+[2021.06.02-03.50.02:522][249]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1163396
+[2021.06.02-03.50.02:580][250]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1136085
+[2021.06.02-03.50.02:635][251]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1133141
+[2021.06.02-03.50.02:690][252]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1082020
+[2021.06.02-03.50.02:743][253]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1060116
+[2021.06.02-03.50.02:796][254]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1027067
+[2021.06.02-03.50.02:930][256]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1303767
+[2021.06.02-03.50.02:996][257]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1275025
+[2021.06.02-03.50.03:056][258]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1234643
+[2021.06.02-03.50.03:115][259]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1179497
+[2021.06.02-03.50.03:173][260]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1149522
+[2021.06.02-03.50.03:233][261]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1124076
+[2021.06.02-03.50.03:289][262]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1115437
+[2021.06.02-03.50.03:343][263]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1076506
+[2021.06.02-03.50.03:397][264]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1037478
+[2021.06.02-03.50.03:450][265]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1010213
+[2021.06.02-03.50.03:576][267]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1280812
+[2021.06.02-03.50.03:632][268]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1233083
+[2021.06.02-03.50.03:687][269]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1186593
+[2021.06.02-03.50.03:738][270]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1155339
+[2021.06.02-03.50.03:792][271]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1120016
+[2021.06.02-03.50.03:846][272]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1112957
+[2021.06.02-03.50.03:901][273]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1093739
+[2021.06.02-03.50.03:959][274]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1070187
+[2021.06.02-03.50.04:021][275]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1062621
+[2021.06.02-03.50.04:072][276]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1045753
+[2021.06.02-03.50.04:197][278]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1263259
+[2021.06.02-03.50.04:256][279]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1221547
+[2021.06.02-03.50.04:311][280]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1185572
+[2021.06.02-03.50.04:368][281]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1150243
+[2021.06.02-03.50.04:420][282]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1132446
+[2021.06.02-03.50.04:474][283]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1092740
+[2021.06.02-03.50.04:526][284]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1076315
+[2021.06.02-03.50.04:578][285]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1041214
+[2021.06.02-03.50.04:627][286]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1021314
+[2021.06.02-03.50.04:753][288]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1275027
+[2021.06.02-03.50.04:814][289]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1253994
+[2021.06.02-03.50.04:870][290]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1216996
+[2021.06.02-03.50.04:935][291]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1168580
+[2021.06.02-03.50.04:997][292]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1193617
+[2021.06.02-03.50.05:051][293]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1150031
+[2021.06.02-03.50.05:107][294]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1092309
+[2021.06.02-03.50.05:160][295]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1074414
+[2021.06.02-03.50.05:215][296]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1035307
+[2021.06.02-03.50.05:266][297]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1018661
+[2021.06.02-03.50.05:398][299]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1281129
+[2021.06.02-03.50.05:459][300]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1240444
+[2021.06.02-03.50.05:516][301]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1197615
+[2021.06.02-03.50.05:571][302]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1151762
+[2021.06.02-03.50.05:629][303]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1126032
+[2021.06.02-03.50.05:685][304]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1114931
+[2021.06.02-03.50.05:737][305]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1076347
+[2021.06.02-03.50.05:786][306]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1031963
+[2021.06.02-03.50.05:921][308]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1289805
+[2021.06.02-03.50.05:995][309]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1288063
+[2021.06.02-03.50.06:056][310]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1277696
+[2021.06.02-03.50.06:119][311]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1194236
+[2021.06.02-03.50.06:176][312]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1172997
+[2021.06.02-03.50.06:233][313]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1124691
+[2021.06.02-03.50.06:289][314]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1097435
+[2021.06.02-03.50.06:340][315]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1071759
+[2021.06.02-03.50.06:391][316]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1024726
+[2021.06.02-03.50.06:524][318]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1308853
+[2021.06.02-03.50.06:585][319]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1255870
+[2021.06.02-03.50.06:644][320]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1217818
+[2021.06.02-03.50.06:703][321]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1180192
+[2021.06.02-03.50.06:758][322]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1163260
+[2021.06.02-03.50.06:813][323]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1116850
+[2021.06.02-03.50.06:865][324]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1094495
+[2021.06.02-03.50.06:914][325]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1057296
+[2021.06.02-03.50.06:969][326]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1016159
+[2021.06.02-03.50.07:019][327]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1018537
+[2021.06.02-03.50.07:151][329]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1280652
+[2021.06.02-03.50.07:210][330]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1234000
+[2021.06.02-03.50.07:267][331]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1188996
+[2021.06.02-03.50.07:323][332]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1149522
+[2021.06.02-03.50.07:386][333]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1129605
+[2021.06.02-03.50.07:442][334]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1137787
+[2021.06.02-03.50.07:492][335]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1078929
+[2021.06.02-03.50.07:542][336]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1023164
+[2021.06.02-03.50.13:792][617]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1003058
+[2021.06.02-03.50.14:248][624]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1000824
+[2021.06.02-03.50.16:014][652]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1000864
+[2021.06.02-03.50.17:246][671]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1000452
+[2021.06.02-03.50.18:202][684]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1007083
+[2021.06.02-03.50.19:775][706]Cmd: STAT FPS
+[2021.06.02-03.50.20:095][707]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1015845
+[2021.06.02-03.50.22:103][739]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1000469
+[2021.06.02-03.50.23:190][756]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1000643
+[2021.06.02-03.50.24:709][781]LogNiagara: Warning: NiagaraEmitter /Game/STKAssets/Particles/NiagaraSystems/NS_Rain.NS_Rain:NE_Raindrops has attempted to exceed the max CPU particle count! | Max: 1000000 | Requested: 1001052
+[2021.06.02-03.50.40:706][742]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.02-03.50.40:723][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.02-03.50.40:723][742]PIE: New page: Sesión PIE (reproducción en el editor): 5-FifthFloor (1 jun. 2021 21:50:40)
+[2021.06.02-03.50.40:723][742]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.50.40:731][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007892s)
+[2021.06.02-03.50.40:733][742]LogAIModule: Creating AISystem for world 5-FifthFloor
+[2021.06.02-03.50.40:733][742]LogPlayLevel: PIE: World Init took: (0.001809s)
+[2021.06.02-03.50.40:733][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/5-FifthFloor.5-FifthFloor to /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor (0.009945s)
+[2021.06.02-03.50.40:760][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.06.02-03.50.40:769][742]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.06.02-03.50.40:769][742]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.02-03.50.40:769][742]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.02-03.50.40:769][742]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.02-03.50.40:769][742]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.02-03.50.40:770][742]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.02-03.50.40:770][742]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.02-03.50.40:770][742]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.02-03.50.40:770][742]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.02-03.50.40:770][742]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.02-03.50.40:770][742]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.02-03.50.40:777][742]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.02-03.50.40:777][742]LogAudioMixer: Display: 1: FrontRight
+[2021.06.02-03.50.40:793][742]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.06.02-03.50.40:794][742]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.02-03.50.40:794][742]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.02-03.50.40:794][742]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.02-03.50.40:794][742]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.02-03.50.40:795][742]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.02-03.50.40:795][742]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.02-03.50.40:813][742]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.02-03.50.40:813][742]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.02-03.50.40:813][742]LogInit: FAudioDevice initialized.
+[2021.06.02-03.50.40:813][742]LogAudio: Display: Audio Device (ID: 6) registered with world '5-FifthFloor'.
+[2021.06.02-03.50.40:822][742]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.02-03.50.40:824][742]LogWorld: Bringing World /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor up for play (max tick rate 0) at 2021.06.02-00.50.40
+[2021.06.02-03.50.40:825][742]LogWorld: Bringing up level for play took: 0.002323
+[2021.06.02-03.50.40:825][742]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.06.02-03.50.40:829][742]PIE: El servidor ha iniciado la sesión
+[2021.06.02-03.50.40:830][742]PIE: Play in editor total start time 0,11 seconds.
+[2021.06.02-03.50.53:293][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.50.53:293][463]LogWorld: BeginTearingDown for /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.50.53:293][463]LogWorld: UWorld::CleanupWorld for 5-FifthFloor, bSessionEnded=true, bCleanupResources=true
+[2021.06.02-03.50.53:294][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.50.53:305][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.02-03.50.53:317][463]LogNiagaraEditor: onPieEnd
+[2021.06.02-03.50.53:322][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.50.53:348][463]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.02-03.50.53:348][463]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.50.53:349][463]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.50.53:370][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.50.53:374][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.06.02-03.50.53:427][464]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.06.02-03.51.18:207][751]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.02-03.51.18:224][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.02-03.51.18:224][751]PIE: New page: Sesión PIE (reproducción en el editor): 5-FifthFloor (1 jun. 2021 21:51:18)
+[2021.06.02-03.51.18:224][751]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.51.18:232][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008472s)
+[2021.06.02-03.51.18:234][751]LogAIModule: Creating AISystem for world 5-FifthFloor
+[2021.06.02-03.51.18:234][751]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2021.06.02-03.51.18:234][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/5-FifthFloor.5-FifthFloor to /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor (0.010119s)
+[2021.06.02-03.51.18:256][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.06.02-03.51.18:273][751]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.06.02-03.51.18:273][751]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.02-03.51.18:273][751]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.02-03.51.18:273][751]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.02-03.51.18:273][751]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.02-03.51.18:273][751]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.02-03.51.18:273][751]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.02-03.51.18:273][751]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.02-03.51.18:273][751]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.02-03.51.18:274][751]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.02-03.51.18:274][751]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.02-03.51.18:281][751]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.02-03.51.18:281][751]LogAudioMixer: Display: 1: FrontRight
+[2021.06.02-03.51.18:296][751]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.06.02-03.51.18:297][751]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.02-03.51.18:297][751]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.02-03.51.18:297][751]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.02-03.51.18:298][751]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.02-03.51.18:298][751]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.02-03.51.18:298][751]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.02-03.51.18:316][751]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.02-03.51.18:316][751]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.02-03.51.18:316][751]LogInit: FAudioDevice initialized.
+[2021.06.02-03.51.18:316][751]LogAudio: Display: Audio Device (ID: 7) registered with world '5-FifthFloor'.
+[2021.06.02-03.51.18:324][751]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.02-03.51.18:327][751]LogWorld: Bringing World /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor up for play (max tick rate 0) at 2021.06.02-00.51.18
+[2021.06.02-03.51.18:328][751]LogWorld: Bringing up level for play took: 0.002838
+[2021.06.02-03.51.18:328][751]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.06.02-03.51.18:331][751]PIE: El servidor ha iniciado la sesión
+[2021.06.02-03.51.18:332][751]PIE: Play in editor total start time 0,112 seconds.
+[2021.06.02-03.51.25:102][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.51.25:102][166]LogWorld: BeginTearingDown for /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.51.25:103][166]LogWorld: UWorld::CleanupWorld for 5-FifthFloor, bSessionEnded=true, bCleanupResources=true
+[2021.06.02-03.51.25:103][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.51.25:114][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.02-03.51.25:126][166]LogNiagaraEditor: onPieEnd
+[2021.06.02-03.51.25:132][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.51.25:151][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.51.25:151][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.51.25:152][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.51.25:182][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.06.02-03.51.25:230][167]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.06.02-03.51.51:538][814]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.02-03.51.51:555][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.02-03.51.51:555][814]PIE: New page: Sesión PIE (reproducción en el editor): 5-FifthFloor (1 jun. 2021 21:51:51)
+[2021.06.02-03.51.51:555][814]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.51.51:563][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007876s)
+[2021.06.02-03.51.51:564][814]LogAIModule: Creating AISystem for world 5-FifthFloor
+[2021.06.02-03.51.51:564][814]LogPlayLevel: PIE: World Init took: (0.001426s)
+[2021.06.02-03.51.51:564][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/5-FifthFloor.5-FifthFloor to /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor (0.009515s)
+[2021.06.02-03.51.51:587][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.06.02-03.51.51:598][814]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.06.02-03.51.51:598][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.02-03.51.51:598][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.02-03.51.51:598][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.02-03.51.51:598][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.02-03.51.51:598][814]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.02-03.51.51:599][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.02-03.51.51:599][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.02-03.51.51:599][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.02-03.51.51:599][814]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.02-03.51.51:599][814]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.02-03.51.51:606][814]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.02-03.51.51:606][814]LogAudioMixer: Display: 1: FrontRight
+[2021.06.02-03.51.51:621][814]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.06.02-03.51.51:621][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.02-03.51.51:621][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.02-03.51.51:621][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.02-03.51.51:622][814]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.02-03.51.51:622][814]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.02-03.51.51:622][814]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.02-03.51.51:641][814]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.02-03.51.51:641][814]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.02-03.51.51:641][814]LogInit: FAudioDevice initialized.
+[2021.06.02-03.51.51:641][814]LogAudio: Display: Audio Device (ID: 8) registered with world '5-FifthFloor'.
+[2021.06.02-03.51.51:649][814]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.02-03.51.51:652][814]LogWorld: Bringing World /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor up for play (max tick rate 0) at 2021.06.02-00.51.51
+[2021.06.02-03.51.51:653][814]LogWorld: Bringing up level for play took: 0.002753
+[2021.06.02-03.51.51:653][814]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.06.02-03.51.51:656][814]PIE: El servidor ha iniciado la sesión
+[2021.06.02-03.51.51:657][814]PIE: Play in editor total start time 0,106 seconds.
+[2021.06.02-03.52.00:973][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.52.00:973][449]LogWorld: BeginTearingDown for /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.52.00:973][449]LogWorld: UWorld::CleanupWorld for 5-FifthFloor, bSessionEnded=true, bCleanupResources=true
+[2021.06.02-03.52.00:974][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.52.00:985][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.02-03.52.00:996][449]LogNiagaraEditor: onPieEnd
+[2021.06.02-03.52.01:001][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.52.01:022][449]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.02-03.52.01:022][449]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.52.01:023][449]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.52.01:045][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.52.01:049][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.06.02-03.52.01:097][450]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.06.02-03.52.10:160][976]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.02-03.52.10:178][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.02-03.52.10:178][976]PIE: New page: Sesión PIE (reproducción en el editor): 5-FifthFloor (1 jun. 2021 21:52:10)
+[2021.06.02-03.52.10:178][976]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.52.10:186][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007807s)
+[2021.06.02-03.52.10:187][976]LogAIModule: Creating AISystem for world 5-FifthFloor
+[2021.06.02-03.52.10:188][976]LogPlayLevel: PIE: World Init took: (0.001738s)
+[2021.06.02-03.52.10:188][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/5-FifthFloor.5-FifthFloor to /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor (0.009729s)
+[2021.06.02-03.52.10:209][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.06.02-03.52.10:219][976]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.06.02-03.52.10:220][976]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.02-03.52.10:220][976]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.02-03.52.10:220][976]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.02-03.52.10:220][976]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.02-03.52.10:220][976]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.02-03.52.10:220][976]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.02-03.52.10:220][976]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.02-03.52.10:220][976]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.02-03.52.10:220][976]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.02-03.52.10:220][976]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.02-03.52.10:227][976]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.02-03.52.10:227][976]LogAudioMixer: Display: 1: FrontRight
+[2021.06.02-03.52.10:242][976]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.06.02-03.52.10:243][976]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.02-03.52.10:243][976]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.02-03.52.10:243][976]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.02-03.52.10:243][976]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.02-03.52.10:243][976]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.02-03.52.10:243][976]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.02-03.52.10:262][976]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.02-03.52.10:262][976]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.02-03.52.10:262][976]LogInit: FAudioDevice initialized.
+[2021.06.02-03.52.10:262][976]LogAudio: Display: Audio Device (ID: 9) registered with world '5-FifthFloor'.
+[2021.06.02-03.52.10:272][976]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.02-03.52.10:275][976]LogWorld: Bringing World /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor up for play (max tick rate 0) at 2021.06.02-00.52.10
+[2021.06.02-03.52.10:276][976]LogWorld: Bringing up level for play took: 0.002664
+[2021.06.02-03.52.10:276][976]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.06.02-03.52.10:279][976]PIE: El servidor ha iniciado la sesión
+[2021.06.02-03.52.10:280][976]PIE: Play in editor total start time 0,105 seconds.
+[2021.06.02-03.52.48:842][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.52.48:842][218]LogWorld: BeginTearingDown for /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.52.48:843][218]LogWorld: UWorld::CleanupWorld for 5-FifthFloor, bSessionEnded=true, bCleanupResources=true
+[2021.06.02-03.52.48:843][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.52.48:854][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.02-03.52.48:866][218]LogNiagaraEditor: onPieEnd
+[2021.06.02-03.52.48:872][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.52.48:892][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.52.48:892][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.52.48:893][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.52.48:919][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.06.02-03.52.48:971][219]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.06.02-03.53.22:779][734]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Princess.Princess
+[2021.06.02-03.53.32:656][ 13]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.06.02-03.53.57:144][905]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.06.02-03.53.57:156][905]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.06.02-03.53.57:161][905]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.06.02-03.53.57:161][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.53.57:247][905]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.02-03.53.57:247][905]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.06.02-03.53.57:247][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.53.58:860][949]LogEditorViewport: Clicking Background
+[2021.06.02-03.54.01:603][108]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (NS_Rain)
+[2021.06.02-03.54.17:143][ 47]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.02-03.54.17:160][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.02-03.54.17:160][ 47]PIE: New page: Sesión PIE (reproducción en el editor): 5-FifthFloor (1 jun. 2021 21:54:17)
+[2021.06.02-03.54.17:160][ 47]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.54.17:168][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008073s)
+[2021.06.02-03.54.17:170][ 47]LogAIModule: Creating AISystem for world 5-FifthFloor
+[2021.06.02-03.54.17:170][ 47]LogPlayLevel: PIE: World Init took: (0.001760s)
+[2021.06.02-03.54.17:170][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/5-FifthFloor.5-FifthFloor to /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor (0.010072s)
+[2021.06.02-03.54.17:199][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.06.02-03.54.17:214][ 47]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.06.02-03.54.17:214][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.02-03.54.17:214][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.02-03.54.17:214][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.02-03.54.17:214][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.02-03.54.17:214][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.02-03.54.17:214][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.02-03.54.17:215][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.02-03.54.17:215][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.02-03.54.17:215][ 47]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.02-03.54.17:215][ 47]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.02-03.54.17:223][ 47]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.02-03.54.17:223][ 47]LogAudioMixer: Display: 1: FrontRight
+[2021.06.02-03.54.17:240][ 47]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.06.02-03.54.17:240][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.02-03.54.17:240][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.02-03.54.17:240][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.02-03.54.17:241][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.02-03.54.17:241][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.02-03.54.17:241][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.02-03.54.17:259][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.02-03.54.17:259][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.02-03.54.17:259][ 47]LogInit: FAudioDevice initialized.
+[2021.06.02-03.54.17:259][ 47]LogAudio: Display: Audio Device (ID: 10) registered with world '5-FifthFloor'.
+[2021.06.02-03.54.17:269][ 47]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.02-03.54.17:272][ 47]LogWorld: Bringing World /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor up for play (max tick rate 0) at 2021.06.02-00.54.17
+[2021.06.02-03.54.17:273][ 47]LogWorld: Bringing up level for play took: 0.002604
+[2021.06.02-03.54.17:273][ 47]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.06.02-03.54.17:276][ 47]PIE: El servidor ha iniciado la sesión
+[2021.06.02-03.54.17:278][ 47]PIE: Play in editor total start time 0,121 seconds.
+[2021.06.02-03.54.22:620][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.54.22:620][433]LogWorld: BeginTearingDown for /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.54.22:621][433]LogWorld: UWorld::CleanupWorld for 5-FifthFloor, bSessionEnded=true, bCleanupResources=true
+[2021.06.02-03.54.22:621][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.54.22:633][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.02-03.54.22:645][433]LogNiagaraEditor: onPieEnd
+[2021.06.02-03.54.22:652][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.54.22:672][433]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.02-03.54.22:673][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.54.22:674][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.54.22:694][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.54.22:699][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.06.02-03.54.22:743][434]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.06.02-03.54.30:578][973]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.02-03.54.30:592][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.02-03.54.30:592][973]PIE: New page: Sesión PIE (reproducción en el editor): 5-FifthFloor (1 jun. 2021 21:54:30)
+[2021.06.02-03.54.30:592][973]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.54.30:600][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007874s)
+[2021.06.02-03.54.30:601][973]LogAIModule: Creating AISystem for world 5-FifthFloor
+[2021.06.02-03.54.30:601][973]LogPlayLevel: PIE: World Init took: (0.001304s)
+[2021.06.02-03.54.30:601][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/5-FifthFloor.5-FifthFloor to /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor (0.009385s)
+[2021.06.02-03.54.30:624][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.06.02-03.54.30:634][973]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.06.02-03.54.30:634][973]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.02-03.54.30:634][973]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.02-03.54.30:634][973]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.02-03.54.30:634][973]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.02-03.54.30:634][973]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.02-03.54.30:634][973]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.02-03.54.30:634][973]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.02-03.54.30:634][973]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.02-03.54.30:635][973]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.02-03.54.30:635][973]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.02-03.54.30:641][973]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.02-03.54.30:641][973]LogAudioMixer: Display: 1: FrontRight
+[2021.06.02-03.54.30:657][973]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.06.02-03.54.30:657][973]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.02-03.54.30:657][973]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.02-03.54.30:657][973]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.02-03.54.30:658][973]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.02-03.54.30:658][973]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.02-03.54.30:658][973]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.02-03.54.30:676][973]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.02-03.54.30:676][973]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.02-03.54.30:676][973]LogInit: FAudioDevice initialized.
+[2021.06.02-03.54.30:676][973]LogAudio: Display: Audio Device (ID: 11) registered with world '5-FifthFloor'.
+[2021.06.02-03.54.30:683][973]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.02-03.54.30:686][973]LogWorld: Bringing World /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor up for play (max tick rate 0) at 2021.06.02-00.54.30
+[2021.06.02-03.54.30:687][973]LogWorld: Bringing up level for play took: 0.002651
+[2021.06.02-03.54.30:687][973]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.06.02-03.54.30:690][973]PIE: El servidor ha iniciado la sesión
+[2021.06.02-03.54.30:691][973]PIE: Play in editor total start time 0,103 seconds.
+[2021.06.02-03.54.40:210][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.54.40:210][775]LogWorld: BeginTearingDown for /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.54.40:210][775]LogWorld: UWorld::CleanupWorld for 5-FifthFloor, bSessionEnded=true, bCleanupResources=true
+[2021.06.02-03.54.40:211][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.54.40:220][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.02-03.54.40:232][775]LogNiagaraEditor: onPieEnd
+[2021.06.02-03.54.40:238][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.54.40:258][775]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.02-03.54.40:258][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.54.40:259][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.54.40:280][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.54.40:286][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.06.02-03.54.40:329][776]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.06.02-03.54.49:036][446]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.02-03.54.49:048][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.02-03.54.49:049][446]PIE: New page: Sesión PIE (reproducción en el editor): 5-FifthFloor (1 jun. 2021 21:54:49)
+[2021.06.02-03.54.49:049][446]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.54.49:058][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009024s)
+[2021.06.02-03.54.49:059][446]LogAIModule: Creating AISystem for world 5-FifthFloor
+[2021.06.02-03.54.49:060][446]LogPlayLevel: PIE: World Init took: (0.001496s)
+[2021.06.02-03.54.49:060][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/5-FifthFloor.5-FifthFloor to /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor (0.010747s)
+[2021.06.02-03.54.49:082][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.06.02-03.54.49:095][446]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.06.02-03.54.49:095][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.02-03.54.49:095][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.02-03.54.49:095][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.02-03.54.49:095][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.02-03.54.49:095][446]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.02-03.54.49:095][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.02-03.54.49:095][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.02-03.54.49:095][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.02-03.54.49:096][446]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.02-03.54.49:096][446]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.02-03.54.49:102][446]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.02-03.54.49:102][446]LogAudioMixer: Display: 1: FrontRight
+[2021.06.02-03.54.49:117][446]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.06.02-03.54.49:118][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.02-03.54.49:118][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.02-03.54.49:118][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.02-03.54.49:118][446]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.02-03.54.49:118][446]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.02-03.54.49:119][446]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.02-03.54.49:136][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.02-03.54.49:136][446]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.02-03.54.49:136][446]LogInit: FAudioDevice initialized.
+[2021.06.02-03.54.49:136][446]LogAudio: Display: Audio Device (ID: 12) registered with world '5-FifthFloor'.
+[2021.06.02-03.54.49:143][446]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.02-03.54.49:147][446]LogWorld: Bringing World /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor up for play (max tick rate 0) at 2021.06.02-00.54.49
+[2021.06.02-03.54.49:148][446]LogWorld: Bringing up level for play took: 0.003694
+[2021.06.02-03.54.49:148][446]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.06.02-03.54.49:151][446]PIE: El servidor ha iniciado la sesión
+[2021.06.02-03.54.49:152][446]PIE: Play in editor total start time 0,107 seconds.
+[2021.06.02-03.54.58:930][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.54.58:930][258]LogWorld: BeginTearingDown for /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.54.58:931][258]LogWorld: UWorld::CleanupWorld for 5-FifthFloor, bSessionEnded=true, bCleanupResources=true
+[2021.06.02-03.54.58:931][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.54.58:945][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.02-03.54.58:958][258]LogNiagaraEditor: onPieEnd
+[2021.06.02-03.54.58:963][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.54.58:983][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.54.58:984][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.54.58:985][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.54.59:013][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.06.02-03.54.59:054][259]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.06.02-03.55.06:083][801]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.02-03.55.06:094][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.02-03.55.06:094][801]PIE: New page: Sesión PIE (reproducción en el editor): 5-FifthFloor (1 jun. 2021 21:55:06)
+[2021.06.02-03.55.06:094][801]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.55.06:101][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006971s)
+[2021.06.02-03.55.06:102][801]LogAIModule: Creating AISystem for world 5-FifthFloor
+[2021.06.02-03.55.06:103][801]LogPlayLevel: PIE: World Init took: (0.001328s)
+[2021.06.02-03.55.06:103][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/5-FifthFloor.5-FifthFloor to /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor (0.008500s)
+[2021.06.02-03.55.06:124][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.06.02-03.55.06:133][801]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.06.02-03.55.06:134][801]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.02-03.55.06:134][801]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.02-03.55.06:134][801]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.02-03.55.06:134][801]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.02-03.55.06:134][801]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.02-03.55.06:134][801]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.02-03.55.06:134][801]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.02-03.55.06:134][801]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.02-03.55.06:134][801]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.02-03.55.06:134][801]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.02-03.55.06:141][801]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.02-03.55.06:141][801]LogAudioMixer: Display: 1: FrontRight
+[2021.06.02-03.55.06:155][801]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.06.02-03.55.06:156][801]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.02-03.55.06:156][801]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.02-03.55.06:156][801]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.02-03.55.06:156][801]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.02-03.55.06:157][801]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.02-03.55.06:157][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.02-03.55.06:175][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.02-03.55.06:175][801]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.02-03.55.06:175][801]LogInit: FAudioDevice initialized.
+[2021.06.02-03.55.06:175][801]LogAudio: Display: Audio Device (ID: 13) registered with world '5-FifthFloor'.
+[2021.06.02-03.55.06:183][801]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.02-03.55.06:186][801]LogWorld: Bringing World /Game/UEDPIE_0_5-FifthFloor.5-FifthFloor up for play (max tick rate 0) at 2021.06.02-00.55.06
+[2021.06.02-03.55.06:187][801]LogWorld: Bringing up level for play took: 0.002688
+[2021.06.02-03.55.06:187][801]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.06.02-03.55.06:190][801]PIE: El servidor ha iniciado la sesión
+[2021.06.02-03.55.06:191][801]PIE: Play in editor total start time 0,101 seconds.
+[2021.06.02-03.55.15:390][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.55.15:390][576]LogWorld: BeginTearingDown for /Game/UEDPIE_0_5-FifthFloor
+[2021.06.02-03.55.15:391][576]LogWorld: UWorld::CleanupWorld for 5-FifthFloor, bSessionEnded=true, bCleanupResources=true
+[2021.06.02-03.55.15:391][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.55.15:401][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.02-03.55.15:412][576]LogNiagaraEditor: onPieEnd
+[2021.06.02-03.55.15:419][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.02-03.55.15:440][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.55.15:440][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.55.15:441][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.02-03.55.15:468][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.06.02-03.55.15:513][577]LogPlayLevel: Display: Destroying online subsystem :Context_31
