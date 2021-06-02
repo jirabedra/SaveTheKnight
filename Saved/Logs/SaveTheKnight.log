@@ -1353,3 +1353,11 @@ Script Stack (0 frames):
 [2021.06.02-03.40.31:012][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.06.02-03.40.31:087][693]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
 [2021.06.02-03.40.31:143][694]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.06.02-03.43.09:331][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossEncounterRoom" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.02-03.43.09:408][121]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.06.02-03.43.09:459][121]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossEncounterRoom945F67244838B54765342E8F9FF1F891.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap'
+[2021.06.02-03.43.09:466][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossEncounterRoom_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom_BuiltData.uasset" SILENT=true
+[2021.06.02-03.43.09:492][121]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossEncounterRoom_BuiltData81CA321C46B0FDAB761F6AAD49A5F644.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom_BuiltData.uasset'
+[2021.06.02-03.43.09:519][121]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.02-03.43.09:519][121]LogContentValidation: Display: Validating World /Game/BossEncounterRoom.BossEncounterRoom
+[2021.06.02-03.43.09:519][121]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BossEncounterRoom_BuiltData.BossEncounterRoom_BuiltData
