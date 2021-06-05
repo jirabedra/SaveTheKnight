@@ -1820,3 +1820,322 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.05-03.07.36:023][764]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Princess.Princess
 [2021.06.05-03.09.48:745][938]BlueprintLog: New page: Compilar Princess
 [2021.06.05-03.09.48:862][938]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.06.05-03.10.15:390][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.06.05-03.10.15:391][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2-SecondFloor" FILE="../../../../../../Users/rafap/SaveTheKnight/Saved/Autosaves/Game/2-SecondFloor_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.06.05-03.10.15:566][ 42]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/2-SecondFloor_Auto1E2B542714BF3B34D3652FC9BAA8B194B.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Saved/Autosaves/Game/2-SecondFloor_Auto1.umap'
+[2021.06.05-03.10.15:568][ 42]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2-SecondFloor' took 0.207
+[2021.06.05-03.10.15:569][ 42]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.207
+[2021.06.05-03.10.15:569][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Princess] ([1] browsable assets)...
+[2021.06.05-03.10.15:590][ 42]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Princess.Princess]
+[2021.06.05-03.10.15:590][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Princess]
+[2021.06.05-03.10.15:770][ 42]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/Princess_Auto1C82A035A491D74A820C1A88205292B79.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Princess_Auto1.uasset'
+[2021.06.05-03.10.15:772][ 42]LogFileHelpers: Auto-saving content packages took 0.203
+[2021.06.05-03.10.34:272][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Princess" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/ThirdPersonBP/Blueprints/Princess.uasset" SILENT=true
+[2021.06.05-03.10.34:422][567]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/PrincessFD89842A48498B6E3971308CF1E1F083.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/ThirdPersonBP/Blueprints/Princess.uasset'
+[2021.06.05-03.10.34:444][567]AssetCheck: New page: Asset Save: Princess
+[2021.06.05-03.10.34:445][567]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Princess.Princess
+[2021.06.05-03.10.43:433][230]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/BossController.BossController
+[2021.06.05-03.11.48:174][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2-SecondFloor" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.05-03.11.48:202][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.06.05-03.11.48:363][ 44]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/2-SecondFloor97A76ADD46A53C68849862BC7C66DA6D.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor.umap'
+[2021.06.05-03.11.48:375][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2-SecondFloor_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor_BuiltData.uasset" SILENT=true
+[2021.06.05-03.11.48:447][ 44]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/2-SecondFloor_BuiltDataFFB4C6474B2F7A82514B0697B42B4010.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor_BuiltData.uasset'
+[2021.06.05-03.11.48:462][ 44]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.05-03.11.48:462][ 44]LogContentValidation: Display: Validating World /Game/2-SecondFloor.2-SecondFloor
+[2021.06.05-03.11.48:462][ 44]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2-SecondFloor_BuiltData.2-SecondFloor_BuiltData
+[2021.06.05-03.11.54:785][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.06.05-03.11.55:562][557]LogAudioDerivedData: Display: Generando el formato de audio comprimido OGG onda BossMusic...
+[2021.06.05-03.11.55:576][557]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/BossMusic.BossMusic will be modified from 40 to 40.
+[2021.06.05-03.11.57:645][557]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 20768604 while cooking SoundWave /Game/Sound/BossMusic.BossMusic.
+[2021.06.05-03.11.57:997][557]LogAssetEditorSubsystem: Opening Asset editor for World /Game/BossEncounterRoom.BossEncounterRoom
+[2021.06.05-03.11.57:998][557]Cmd: MAP LOAD FILE="../../../../../../Users/rafap/SaveTheKnight/Content/BossEncounterRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.05-03.11.57:998][557]LightingResults: New page: Diseñar la iluminación
+[2021.06.05-03.11.57:998][557]LoadErrors: New page: Cargando mapa: BossEncounterRoom.umap
+[2021.06.05-03.11.58:005][557]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-03.11.58:005][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-03.11.58:005][557]MapCheck: New page: Revisión del mapa
+[2021.06.05-03.11.58:005][557]LightingResults: New page: Diseñar la iluminación
+[2021.06.05-03.11.58:029][557]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.05-03.11.58:043][557]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.06.05-03.11.58:045][557]LogAudio: Display: Audio Device (ID: 1) registered with world 'BossEncounterRoom'.
+[2021.06.05-03.11.58:275][557]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.05-03.11.58:275][557]LogAIModule: Creating AISystem for world BossEncounterRoom
+[2021.06.05-03.11.58:306][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.06.05-03.11.58:312][557]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.05-03.11.58:312][557]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,198ms to complete.
+[2021.06.05-03.11.58:312][557]LogFileHelpers: Loading map 'BossEncounterRoom' took 0.315
+[2021.06.05-03.11.59:277][648]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.05-03.11.59:286][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.05-03.11.59:286][648]PIE: New page: Sesión PIE (reproducción en el editor): BossEncounterRoom (4 jun. 2021 21:11:59)
+[2021.06.05-03.11.59:309][648]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BossEncounterRoom
+[2021.06.05-03.11.59:317][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008294s)
+[2021.06.05-03.11.59:318][648]LogAIModule: Creating AISystem for world BossEncounterRoom
+[2021.06.05-03.11.59:319][648]LogPlayLevel: PIE: World Init took: (0.001327s)
+[2021.06.05-03.11.59:319][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BossEncounterRoom.BossEncounterRoom to /Game/UEDPIE_0_BossEncounterRoom.BossEncounterRoom (0.009885s)
+[2021.06.05-03.11.59:344][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.06.05-03.11.59:345][648]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.06.05-03.11.59:345][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.05-03.11.59:345][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.05-03.11.59:345][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.05-03.11.59:345][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.05-03.11.59:345][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.05-03.11.59:345][648]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.05-03.11.59:345][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.05-03.11.59:345][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.05-03.11.59:345][648]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.05-03.11.59:345][648]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.05-03.11.59:352][648]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.05-03.11.59:352][648]LogAudioMixer: Display: 1: FrontRight
+[2021.06.05-03.11.59:369][648]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.06.05-03.11.59:370][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.05-03.11.59:370][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.05-03.11.59:370][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.05-03.11.59:370][648]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.05-03.11.59:370][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.05-03.11.59:370][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.05-03.11.59:386][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.05-03.11.59:386][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.05-03.11.59:386][648]LogInit: FAudioDevice initialized.
+[2021.06.05-03.11.59:386][648]LogAudio: Display: Audio Device (ID: 16) registered with world 'BossEncounterRoom'.
+[2021.06.05-03.11.59:395][648]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.05-03.11.59:397][648]LogWorld: Bringing World /Game/UEDPIE_0_BossEncounterRoom.BossEncounterRoom up for play (max tick rate 0) at 2021.06.05-00.11.59
+[2021.06.05-03.11.59:398][648]LogWorld: Bringing up level for play took: 0.003162
+[2021.06.05-03.11.59:399][648]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.06.05-03.11.59:403][648]PIE: El servidor ha iniciado la sesión
+[2021.06.05-03.11.59:404][648]PIE: Play in editor total start time 0,121 seconds.
+[2021.06.05-03.11.59:413][648]LogAudio: Warning: Detected orphaned looping sound 'BossMusic'.
+[2021.06.05-03.12.20:592][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-03.12.20:592][151]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BossEncounterRoom
+[2021.06.05-03.12.20:592][151]LogWorld: UWorld::CleanupWorld for BossEncounterRoom, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-03.12.20:593][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-03.12.20:606][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.05-03.12.20:612][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-03.12.20:635][151]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.05-03.12.20:635][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.05-03.12.20:636][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.05-03.12.20:655][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-03.12.20:660][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.06.05-03.12.20:689][152]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.06.05-03.12.21:543][246]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.05-03.12.21:553][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.05-03.12.21:553][246]PIE: New page: Sesión PIE (reproducción en el editor): BossEncounterRoom (4 jun. 2021 21:12:21)
+[2021.06.05-03.12.21:589][246]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BossEncounterRoom
+[2021.06.05-03.12.21:597][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008386s)
+[2021.06.05-03.12.21:599][246]LogAIModule: Creating AISystem for world BossEncounterRoom
+[2021.06.05-03.12.21:599][246]LogPlayLevel: PIE: World Init took: (0.001553s)
+[2021.06.05-03.12.21:599][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BossEncounterRoom.BossEncounterRoom to /Game/UEDPIE_0_BossEncounterRoom.BossEncounterRoom (0.010209s)
+[2021.06.05-03.12.21:626][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.06.05-03.12.21:627][246]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.06.05-03.12.21:627][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.05-03.12.21:627][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.05-03.12.21:627][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.05-03.12.21:627][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.05-03.12.21:627][246]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.05-03.12.21:627][246]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.05-03.12.21:627][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.05-03.12.21:627][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.05-03.12.21:627][246]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.05-03.12.21:627][246]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.05-03.12.21:633][246]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.05-03.12.21:633][246]LogAudioMixer: Display: 1: FrontRight
+[2021.06.05-03.12.21:647][246]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.06.05-03.12.21:647][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.05-03.12.21:647][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.05-03.12.21:647][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.05-03.12.21:648][246]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.05-03.12.21:648][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.05-03.12.21:648][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.05-03.12.21:664][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.05-03.12.21:664][246]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.05-03.12.21:664][246]LogInit: FAudioDevice initialized.
+[2021.06.05-03.12.21:664][246]LogAudio: Display: Audio Device (ID: 17) registered with world 'BossEncounterRoom'.
+[2021.06.05-03.12.21:672][246]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.05-03.12.21:675][246]LogWorld: Bringing World /Game/UEDPIE_0_BossEncounterRoom.BossEncounterRoom up for play (max tick rate 0) at 2021.06.05-00.12.21
+[2021.06.05-03.12.21:676][246]LogWorld: Bringing up level for play took: 0.003127
+[2021.06.05-03.12.21:676][246]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.06.05-03.12.21:681][246]PIE: El servidor ha iniciado la sesión
+[2021.06.05-03.12.21:682][246]PIE: Play in editor total start time 0,132 seconds.
+[2021.06.05-03.12.21:690][246]LogAudio: Warning: Detected orphaned looping sound 'BossMusic'.
+[2021.06.05-03.12.28:112][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-03.12.28:112][  5]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BossEncounterRoom
+[2021.06.05-03.12.28:112][  5]LogWorld: UWorld::CleanupWorld for BossEncounterRoom, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-03.12.28:113][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-03.12.28:126][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.05-03.12.28:132][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-03.12.28:156][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-03.12.28:157][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.05-03.12.28:158][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.05-03.12.28:182][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.06.05-03.12.28:209][  6]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.06.05-03.12.45:063][352]BlueprintLog: New page: Compilar BossController
+[2021.06.05-03.12.45:110][352]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.06.05-03.12.45:693][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BossController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/BossController.uasset" SILENT=true
+[2021.06.05-03.12.45:718][390]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossController156712B14984A0A9C425618C814BA451.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/BossController.uasset'
+[2021.06.05-03.12.45:734][390]AssetCheck: New page: Asset Save: BossController
+[2021.06.05-03.12.45:734][390]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/BossController.BossController
+[2021.06.05-03.12.55:635][173]BlueprintLog: New page: Compilar BossController
+[2021.06.05-03.12.55:682][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.06.05-03.12.56:378][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BossController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/BossController.uasset" SILENT=true
+[2021.06.05-03.12.56:405][220]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossController726B31104847A074B5FAE5A45917B6B0.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/BossController.uasset'
+[2021.06.05-03.12.56:420][220]AssetCheck: New page: Asset Save: BossController
+[2021.06.05-03.12.56:420][220]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/BossController.BossController
+[2021.06.05-03.12.58:550][399]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.05-03.12.58:561][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.05-03.12.58:561][399]PIE: New page: Sesión PIE (reproducción en el editor): BossEncounterRoom (4 jun. 2021 21:12:58)
+[2021.06.05-03.12.58:598][399]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BossEncounterRoom
+[2021.06.05-03.12.58:607][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008239s)
+[2021.06.05-03.12.58:608][399]LogAIModule: Creating AISystem for world BossEncounterRoom
+[2021.06.05-03.12.58:608][399]LogPlayLevel: PIE: World Init took: (0.001241s)
+[2021.06.05-03.12.58:608][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BossEncounterRoom.BossEncounterRoom to /Game/UEDPIE_0_BossEncounterRoom.BossEncounterRoom (0.009708s)
+[2021.06.05-03.12.58:635][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.06.05-03.12.58:635][399]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.06.05-03.12.58:636][399]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.05-03.12.58:636][399]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.05-03.12.58:636][399]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.05-03.12.58:636][399]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.05-03.12.58:636][399]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.05-03.12.58:636][399]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.05-03.12.58:636][399]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.05-03.12.58:636][399]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.05-03.12.58:636][399]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.05-03.12.58:636][399]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.05-03.12.58:641][399]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.05-03.12.58:641][399]LogAudioMixer: Display: 1: FrontRight
+[2021.06.05-03.12.58:654][399]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.06.05-03.12.58:655][399]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.05-03.12.58:655][399]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.05-03.12.58:655][399]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.05-03.12.58:655][399]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.05-03.12.58:655][399]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.05-03.12.58:655][399]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.05-03.12.58:673][399]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.05-03.12.58:673][399]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.05-03.12.58:673][399]LogInit: FAudioDevice initialized.
+[2021.06.05-03.12.58:673][399]LogAudio: Display: Audio Device (ID: 18) registered with world 'BossEncounterRoom'.
+[2021.06.05-03.12.58:685][399]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.05-03.12.58:688][399]LogWorld: Bringing World /Game/UEDPIE_0_BossEncounterRoom.BossEncounterRoom up for play (max tick rate 0) at 2021.06.05-00.12.58
+[2021.06.05-03.12.58:688][399]LogWorld: Bringing up level for play took: 0.002790
+[2021.06.05-03.12.58:689][399]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.06.05-03.12.58:693][399]PIE: El servidor ha iniciado la sesión
+[2021.06.05-03.12.58:694][399]PIE: Play in editor total start time 0,137 seconds.
+[2021.06.05-03.12.58:702][399]LogAudio: Warning: Detected orphaned looping sound 'BossMusic'.
+[2021.06.05-03.13.03:771][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-03.13.03:771][995]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BossEncounterRoom
+[2021.06.05-03.13.03:771][995]LogWorld: UWorld::CleanupWorld for BossEncounterRoom, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-03.13.03:772][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-03.13.03:785][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.05-03.13.03:791][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-03.13.03:814][995]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.05-03.13.03:814][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.05-03.13.03:815][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.05-03.13.03:833][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-03.13.03:837][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.06.05-03.13.03:860][996]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.06.05-03.13.04:872][113]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.05-03.13.04:881][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.05-03.13.04:882][113]PIE: New page: Sesión PIE (reproducción en el editor): BossEncounterRoom (4 jun. 2021 21:13:04)
+[2021.06.05-03.13.04:908][113]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BossEncounterRoom
+[2021.06.05-03.13.04:917][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008242s)
+[2021.06.05-03.13.04:918][113]LogAIModule: Creating AISystem for world BossEncounterRoom
+[2021.06.05-03.13.04:918][113]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2021.06.05-03.13.04:918][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BossEncounterRoom.BossEncounterRoom to /Game/UEDPIE_0_BossEncounterRoom.BossEncounterRoom (0.009709s)
+[2021.06.05-03.13.04:943][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.06.05-03.13.04:944][113]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.06.05-03.13.04:944][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.05-03.13.04:944][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.05-03.13.04:944][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.05-03.13.04:944][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.05-03.13.04:944][113]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.05-03.13.04:944][113]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.05-03.13.04:944][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.05-03.13.04:945][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.05-03.13.04:945][113]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.05-03.13.04:945][113]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.05-03.13.04:950][113]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.05-03.13.04:950][113]LogAudioMixer: Display: 1: FrontRight
+[2021.06.05-03.13.04:965][113]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.06.05-03.13.04:965][113]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.05-03.13.04:965][113]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.05-03.13.04:965][113]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.05-03.13.04:966][113]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.05-03.13.04:966][113]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.05-03.13.04:966][113]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.05-03.13.04:982][113]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.05-03.13.04:982][113]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.05-03.13.04:982][113]LogInit: FAudioDevice initialized.
+[2021.06.05-03.13.04:982][113]LogAudio: Display: Audio Device (ID: 19) registered with world 'BossEncounterRoom'.
+[2021.06.05-03.13.04:990][113]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.05-03.13.04:992][113]LogWorld: Bringing World /Game/UEDPIE_0_BossEncounterRoom.BossEncounterRoom up for play (max tick rate 0) at 2021.06.05-00.13.04
+[2021.06.05-03.13.04:993][113]LogWorld: Bringing up level for play took: 0.002726
+[2021.06.05-03.13.04:993][113]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.06.05-03.13.04:997][113]PIE: El servidor ha iniciado la sesión
+[2021.06.05-03.13.04:999][113]PIE: Play in editor total start time 0,12 seconds.
+[2021.06.05-03.13.05:007][113]LogAudio: Warning: Detected orphaned looping sound 'BossMusic'.
+[2021.06.05-03.13.25:362][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-03.13.25:362][534]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BossEncounterRoom
+[2021.06.05-03.13.25:362][534]LogWorld: UWorld::CleanupWorld for BossEncounterRoom, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-03.13.25:362][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-03.13.25:370][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.05-03.13.25:375][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-03.13.25:400][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-03.13.25:400][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.05-03.13.25:401][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.05-03.13.25:423][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.06.05-03.13.25:447][535]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.06.05-03.13.26:632][671]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.05-03.13.26:642][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.05-03.13.26:642][671]PIE: New page: Sesión PIE (reproducción en el editor): BossEncounterRoom (4 jun. 2021 21:13:26)
+[2021.06.05-03.13.26:668][671]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BossEncounterRoom
+[2021.06.05-03.13.26:676][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008346s)
+[2021.06.05-03.13.26:678][671]LogAIModule: Creating AISystem for world BossEncounterRoom
+[2021.06.05-03.13.26:678][671]LogPlayLevel: PIE: World Init took: (0.001679s)
+[2021.06.05-03.13.26:678][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BossEncounterRoom.BossEncounterRoom to /Game/UEDPIE_0_BossEncounterRoom.BossEncounterRoom (0.010327s)
+[2021.06.05-03.13.26:704][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.06.05-03.13.26:705][671]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.06.05-03.13.26:705][671]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.05-03.13.26:705][671]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.05-03.13.26:705][671]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.05-03.13.26:705][671]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.05-03.13.26:705][671]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.05-03.13.26:705][671]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.05-03.13.26:705][671]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.05-03.13.26:705][671]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.05-03.13.26:706][671]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.05-03.13.26:706][671]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.05-03.13.26:712][671]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.05-03.13.26:712][671]LogAudioMixer: Display: 1: FrontRight
+[2021.06.05-03.13.26:726][671]LogAudioMixer: Display: Using Audio Device Optix G24C (NVIDIA High Definition Audio)
+[2021.06.05-03.13.26:726][671]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.05-03.13.26:726][671]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.05-03.13.26:726][671]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.05-03.13.26:726][671]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.05-03.13.26:727][671]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.05-03.13.26:727][671]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.05-03.13.26:743][671]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.05-03.13.26:743][671]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.05-03.13.26:743][671]LogInit: FAudioDevice initialized.
+[2021.06.05-03.13.26:743][671]LogAudio: Display: Audio Device (ID: 20) registered with world 'BossEncounterRoom'.
+[2021.06.05-03.13.26:751][671]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.05-03.13.26:753][671]LogWorld: Bringing World /Game/UEDPIE_0_BossEncounterRoom.BossEncounterRoom up for play (max tick rate 0) at 2021.06.05-00.13.26
+[2021.06.05-03.13.26:754][671]LogWorld: Bringing up level for play took: 0.002699
+[2021.06.05-03.13.26:754][671]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.06.05-03.13.26:758][671]PIE: El servidor ha iniciado la sesión
+[2021.06.05-03.13.26:759][671]PIE: Play in editor total start time 0,12 seconds.
+[2021.06.05-03.13.26:766][671]LogAudio: Warning: Detected orphaned looping sound 'BossMusic'.
+[2021.06.05-03.13.35:281][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-03.13.35:281][679]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BossEncounterRoom
+[2021.06.05-03.13.35:282][679]LogWorld: UWorld::CleanupWorld for BossEncounterRoom, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-03.13.35:282][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-03.13.35:289][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.05-03.13.35:295][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-03.13.35:318][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-03.13.35:318][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.05-03.13.35:320][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.05-03.13.35:342][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.06.05-03.13.35:367][680]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.06.05-03.17.13:700][346]BlueprintLog: New page: Compilar BossController
+[2021.06.05-03.17.13:753][346]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.06.05-03.18.00:275][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BossController" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/BossController.uasset" SILENT=true
+[2021.06.05-03.18.00:313][ 26]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/BossController43A141F443C4035F9314A886C38CCAAB.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/Blueprints/Enemies/BossController.uasset'
+[2021.06.05-03.18.00:330][ 26]AssetCheck: New page: Asset Save: BossController
+[2021.06.05-03.18.00:330][ 26]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/BossController.BossController
