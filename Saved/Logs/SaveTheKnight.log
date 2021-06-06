@@ -1089,3 +1089,157 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.06-07.54.48:337][515]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.06-07.54.48:337][515]LogContentValidation: Display: Validating World /Game/5-FifthFloor.5-FifthFloor
 [2021.06.06-07.54.48:337][515]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/5-FifthFloor_BuiltData.5-FifthFloor_BuiltData
+[2021.06.06-07.55.40:415][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.06.06-07.55.40:592][717]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2-SecondFloor.2-SecondFloor
+[2021.06.06-07.55.40:592][717]Cmd: MAP LOAD FILE="../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.06-07.55.40:593][717]LightingResults: New page: Diseñar la iluminación
+[2021.06.06-07.55.40:593][717]LoadErrors: New page: Cargando mapa: 2-SecondFloor.umap
+[2021.06.06-07.55.40:604][717]LogWorld: UWorld::CleanupWorld for 5-FifthFloor, bSessionEnded=true, bCleanupResources=true
+[2021.06.06-07.55.40:604][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.06-07.55.40:605][717]MapCheck: New page: Revisión del mapa
+[2021.06.06-07.55.40:605][717]LightingResults: New page: Diseñar la iluminación
+[2021.06.06-07.55.40:624][717]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.06-07.55.40:646][717]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.06.06-07.55.40:649][717]LogAudio: Display: Audio Device (ID: 1) registered with world '2-SecondFloor'.
+[2021.06.06-07.55.40:653][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:653][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:654][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:654][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:654][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:655][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:655][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:655][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:655][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:655][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:656][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:656][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:657][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:657][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:658][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:658][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:709][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:709][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:711][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:711][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:711][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:711][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:713][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:713][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:714][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:714][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:714][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:714][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:716][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:716][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:718][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:718][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:718][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:718][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:720][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:720][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:721][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:721][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:721][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:721][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:723][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:723][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:724][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:724][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:724][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:724][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:726][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:726][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:727][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:727][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:727][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:727][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:742][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:743][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:743][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:744][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:744][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:744][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:745][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:745][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:746][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:746][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.40:747][717]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.55.40:747][717]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.55.41:052][717]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.06-07.55.41:052][717]LogAIModule: Creating AISystem for world 2-SecondFloor
+[2021.06.06-07.55.41:085][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.06.06-07.55.51:752][717]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.06-07.55.51:754][717]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,547ms to complete.
+[2021.06.06-07.55.51:754][717]LogFileHelpers: Loading map '2-SecondFloor' took 11.161
+[2021.06.06-07.56.32:912][871]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/ManaRestorementArea.ManaRestorementArea
+[2021.06.06-07.56.39:952][294]LogSlate: Window 'ManaRestorementArea' being destroyed
+[2021.06.06-07.56.39:963][294]LogSlate: Window 'ManaRestorementArea' being destroyed
+[2021.06.06-07.56.39:966][294]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.06.06-07.56.39:966][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.06-07.57.48:203][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2-SecondFloor" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.06-07.57.48:232][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.06.06-07.57.57:952][249]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/2-SecondFloorB930C8B44429E1BFB546039C0111C394.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor.umap'
+[2021.06.06-07.57.57:962][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2-SecondFloor_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor_BuiltData.uasset" SILENT=true
+[2021.06.06-07.57.58:091][249]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/2-SecondFloor_BuiltData934DB9854CE85C8D8458F7A8D9548F2A.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/2-SecondFloor_BuiltData.uasset'
+[2021.06.06-07.57.58:123][249]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.06-07.57.58:123][249]LogContentValidation: Display: Validating World /Game/2-SecondFloor.2-SecondFloor
+[2021.06.06-07.57.58:123][249]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2-SecondFloor_BuiltData.2-SecondFloor_BuiltData
+[2021.06.06-07.58.10:721][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.06.06-07.58.11:109][  0]LogAssetEditorSubsystem: Opening Asset editor for World /Game/5-FifthFloor.5-FifthFloor
+[2021.06.06-07.58.11:109][  0]Cmd: MAP LOAD FILE="../../../../../../Users/rafap/SaveTheKnight/Content/5-FifthFloor.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.06-07.58.11:109][  0]LightingResults: New page: Diseñar la iluminación
+[2021.06.06-07.58.11:109][  0]LoadErrors: New page: Cargando mapa: 5-FifthFloor.umap
+[2021.06.06-07.58.11:174][  0]LogWorld: UWorld::CleanupWorld for 2-SecondFloor, bSessionEnded=true, bCleanupResources=true
+[2021.06.06-07.58.11:174][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.06-07.58.11:175][  0]MapCheck: New page: Revisión del mapa
+[2021.06.06-07.58.11:175][  0]LightingResults: New page: Diseñar la iluminación
+[2021.06.06-07.58.11:199][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.06-07.58.11:214][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.06.06-07.58.11:216][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '5-FifthFloor'.
+[2021.06.06-07.58.11:220][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.58.11:220][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.58.11:221][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.58.11:221][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.58.11:228][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.58.11:228][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.58.11:229][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.58.11:229][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.58.11:278][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.58.11:278][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.58.11:278][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.58.11:278][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.58.11:278][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.58.11:279][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.58.11:280][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.58.11:280][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.58.11:281][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.58.11:281][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.58.11:281][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.58.11:281][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.58.11:321][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.58.11:321][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.58.11:321][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.58.11:321][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.58.11:322][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.58.11:322][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.58.11:323][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.58.11:323][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.58.11:324][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.58.11:324][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.58.11:324][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.06.06-07.58.11:324][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.06.06-07.58.11:998][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.06-07.58.11:998][  0]LogAIModule: Creating AISystem for world 5-FifthFloor
+[2021.06.06-07.58.12:050][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.06.06-07.58.12:055][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.06-07.58.12:055][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,292ms to complete.
+[2021.06.06-07.58.12:055][  0]LogFileHelpers: Loading map '5-FifthFloor' took 0.947
+[2021.06.06-07.58.34:790][149]LogEditorViewport: Clicking Background
+[2021.06.06-07.59.24:383][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/5-FifthFloor" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/5-FifthFloor.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.06-07.59.24:410][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.06.06-07.59.24:822][584]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/5-FifthFloorD71260B14190D1C5798BF18C7B31C5E0.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/5-FifthFloor.umap'
+[2021.06.06-07.59.24:830][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/5-FifthFloor_BuiltData" FILE="../../../../../../Users/rafap/SaveTheKnight/Content/5-FifthFloor_BuiltData.uasset" SILENT=true
+[2021.06.06-07.59.24:912][584]LogSavePackage: Moving '../../../../../../Users/rafap/SaveTheKnight/Saved/5-FifthFloor_BuiltDataAA1DF73448FAFB085D6A67B564600084.tmp' to '../../../../../../Users/rafap/SaveTheKnight/Content/5-FifthFloor_BuiltData.uasset'
+[2021.06.06-07.59.24:946][584]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.06-07.59.24:946][584]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/5-FifthFloor_BuiltData.5-FifthFloor_BuiltData
+[2021.06.06-07.59.24:946][584]LogContentValidation: Display: Validating World /Game/5-FifthFloor.5-FifthFloor
